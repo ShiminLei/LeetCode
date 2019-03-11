@@ -14,3 +14,5 @@ class Solution:
             prev = curr
             curr = nextTemp
         return prev
+
+# 感想：这题可以直接对指针进行反转来实现，做题的时候，心中要有图
