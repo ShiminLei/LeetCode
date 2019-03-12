@@ -102,3 +102,4 @@ class MyLinkedList(object):
             curr.next = curr.next.next
 
         self.size -= 1
+
