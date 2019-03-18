@@ -13,3 +13,4 @@ def kSmallestPairs(nums1, nums2, k):
         if j == 0:
             push(i + 1, 0)
     return pairs
+
