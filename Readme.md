@@ -1,5 +1,21 @@
 LeetCode collection.
 
+| 专题 | Question Numbers | :sparkles: Star ! |Second|Third|Forth|Fifth|
+| :---  | :--: | :--:|:--:|:--:|:--:|---:|
+|分治法  |                         ||    |   |   |   |
+|  |                         ||    |   |   |   |
+|  |                         ||    |   |   |   |
+|  |                         ||    |   |   |   |
+|  |                         ||    |   |   |   |
+|  |                         ||    |   |   |   |
+|  |                         ||    |   |   |   |
+|  |                         ||    |   |   |   |
+|  |                         ||    |   |   |   |
+|  |                         ||    |   |   |   |
+
+
+
+
 | Date | Question Numbers | :sparkles: Star ! |Second|Third|Forth|Fifth|
 | :---  | :--: | :--:|:--:|:--:|:--:|---:|
 |3.10   |429/617                         |206/21/83/141/234/203/160/2|    |   |   |   |
