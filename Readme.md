@@ -1,17 +1,8 @@
 LeetCode collection.
 
-| 专题 | Question Numbers | :sparkles: Star ! |Second|Third|Forth|Fifth|
-| :---  | :--: | :--:|:--:|:--:|:--:|---:|
-|分治法  |                         ||    |   |   |   |
-|  |                         ||    |   |   |   |
-|  |                         ||    |   |   |   |
-|  |                         ||    |   |   |   |
-|  |                         ||    |   |   |   |
-|  |                         ||    |   |   |   |
-|  |                         ||    |   |   |   |
-|  |                         ||    |   |   |   |
-|  |                         ||    |   |   |   |
-|  |                         ||    |   |   |   |
+### 分治法
+523. Continuous Subarray Sum
+
 
 
 
