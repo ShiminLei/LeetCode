@@ -12,8 +12,8 @@ LeetCode collection.
 |     6      |493. Reverse Pairs  ||
 |     7      |在两个相同的sorted array中的一个数组中添加一个元素，找到这个元素的下标 ||
 |     8      |53.Maximum Subarray  ||
-|           |  ||
-|           |  ||
+|     8      | 芯片问题 ||
+| 第7讲：分治法(下)       |  ||
 |           |  ||
 |           |  ||
 |           |  ||
