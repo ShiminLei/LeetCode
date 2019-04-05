@@ -3,23 +3,17 @@ LeetCode collection.
 
 | Date | Question Numbers | :sparkles: Star !|
 | :---  | :--: | ---:|
-| 第6讲：分治法(上)|  ||
-|     1      |50. Pow(x, n)||
-|     2      |162. Find Peak Element  ||
-|     3      |215. Kth Largest Element in an Array  ||
-|     4      |349. Intersection of Two Arrays  ||
-|     5      |350. Intersection of Two Arrays II  ||
-|     6      |493. Reverse Pairs  ||
-|     8      |53.Maximum Subarray  ||
-| 第7讲：分治法(下)       |  ||
-|     11      | 311. Sparse Matrix Multiplication ||
-|     12      |  ||
-|     13      |  ||
-|     14      |  ||
-|     15      |  ||
-|     16      |  ||
-| 第8讲：链表（上）          |  ||
-|     1     |  ||
+| 分治法|  ||
+|           |50. Pow(x, n)||
+|           |162. Find Peak Element  ||
+|           |215. Kth Largest Element in an Array  ||
+|           |349. Intersection of Two Arrays  ||
+|           |350. Intersection of Two Arrays II  ||
+|           |493. Reverse Pairs  ||
+|           |53.Maximum Subarray  ||
+|           |311. Sparse Matrix Multiplication ||
+| 链表          |  ||
+|          |  ||
 |          |  ||
 |          |  ||
 |          |  ||
