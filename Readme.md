@@ -3,7 +3,7 @@ LeetCode collection.
 
 | Date | Question Numbers | :sparkles: Star !|
 | :---  | :--: | ---:|
-| 6.分治法(上)|  ||
+| 第6讲：分治法(上)|  ||
 |     1      |50. Pow(x, n)||
 |     2      |162. Find Peak Element  ||
 |     3      |215. Kth Largest Element in an Array  ||
