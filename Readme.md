@@ -1,9 +1,36 @@
 LeetCode collection.
 
+从第7节往后
 ### 分治法
-523. Continuous Subarray Sum
+上：
 
 
+
+493.Reverse Pairs
+349.Intersection of Two Arrays
+350.Intersection of Two Arrays II
+53.Maximum Subarray
+下：
+
+| Date | Question Numbers | :sparkles: Star !|
+| :---  | :--: | ---:|
+|分治法  |50.Pow(x, n)||
+|       |162.Find Peak Element  ||
+|       |  ||
+|       |  ||
+|       |  ||
+|       |  ||
+|       |  ||
+|       |  ||
+|       |  ||
+|       |  ||
+|       |  ||
+|       |  ||
+|       |  ||
+|       |  ||
+|       |  ||
+|       |  ||
+|       |  ||
 
 
 
@@ -26,7 +53,7 @@ LeetCode collection.
 |3.25   |153/33/35/34/189   |153/33/35/34/189   |   |   |   |   |
 |3.26   |7/475/69/74/240/378   |7/475/69/240/378   |   |   |   |   |
 |3.27   |56/57/50/162/287      |56/57/50/162/287   |   |   |   |   |
-|3.28   |349/493       |349/493   |   |   |   |   |
+|3.28   |349/493/523       |349/493/523   |   |   |   |   |
 |       |       |   |   |   |   |   |
 |       |       |   |   |   |   |   |
 |       |       |   |   |   |   |   |
