@@ -1,36 +1,25 @@
 LeetCode collection.
 
-从第7节往后
-### 分治法
-上：
-
-
-
-493.Reverse Pairs
-349.Intersection of Two Arrays
-350.Intersection of Two Arrays II
-53.Maximum Subarray
-下：
 
 | Date | Question Numbers | :sparkles: Star !|
 | :---  | :--: | ---:|
-|分治法  |50.Pow(x, n)||
-|       |162.Find Peak Element  ||
-|       |  ||
-|       |  ||
-|       |  ||
-|       |  ||
-|       |  ||
-|       |  ||
-|       |  ||
-|       |  ||
-|       |  ||
-|       |  ||
-|       |  ||
-|       |  ||
-|       |  ||
-|       |  ||
-|       |  ||
+| 6.分治法(上)|  ||
+|     1      |50. Pow(x, n)||
+|     2      |162. Find Peak Element  ||
+|     3      |215. Kth Largest Element in an Array  ||
+|     4      |349. Intersection of Two Arrays  ||
+|     5      |350. Intersection of Two Arrays II  ||
+|     6      |493. Reverse Pairs  ||
+|     7      |在两个相同的sorted array中的一个数组中添加一个元素，找到这个元素的下标 ||
+|     8      |53.Maximum Subarray  ||
+|           |  ||
+|           |  ||
+|           |  ||
+|           |  ||
+|           |  ||
+|           |  ||
+|           |  ||
+|           |  ||
 
 
 
