@@ -13,13 +13,13 @@ LeetCode collection.
 |           |53.Maximum Subarray  ||
 |           |311. Sparse Matrix Multiplication ||
 | 链表          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
+|          |237. Delete Node in a Linked List ||
+|          |876. Middle of the Linked List  ||
+|          |141. Linked List Cycle  ||
+|          |142. Linked List Cycle II (找到环的开始)  ||
+|          |19. Remove Nth Node From End of List  ||
+|          |21. Merge Two Sorted Lists  ||
+|          |160. Intersection of Two Linked Lists  ||
 |          |  ||
 |          |  ||
 |          |  ||
