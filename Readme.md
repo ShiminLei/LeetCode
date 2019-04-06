@@ -3,6 +3,24 @@ LeetCode collection.
 
 | Date | Question Numbers | :sparkles: Star !|
 | :---  | :--: | ---:|
+|搜索与排序          |  ||
+|          |  ||
+|          |  ||
+| 二分搜索          |  ||
+|          |153. Find Minimum in Rotated Sorted Array  ||
+|          |33. Search in Rotated Sorted Array  ||
+|          |35. Search Insert Position  ||
+|          |34. Find First and Last Position of Element in Sorted Array  ||
+|          |189. Rotate Array  ||
+|          |7. Reverse Integer  ||
+|          |475. Heaters  ||
+|          |69. Sqrt(x)  ||
+|          |74. Search a 2D Matrix  ||
+|          |240. Search a 2D Matrix II  ||
+|          |378. Kth Smallest Element in a Sorted Matrix  ||
+|          |56. Merge Intervals  ||
+|          |57. Insert Interval  ||
+|          |349. Intersection of Two Arrays  ||
 | 分治法|  ||
 |           |50. Pow(x, n)||
 |           |162. Find Peak Element  ||
@@ -12,6 +30,7 @@ LeetCode collection.
 |           |493. Reverse Pairs  ||
 |           |53.Maximum Subarray  ||
 |           |311. Sparse Matrix Multiplication ||
+|           |523. Continuous Subarray Sum  ||
 | 链表          |  ||
 |          |237. Delete Node in a Linked List ||
 |          |876. Middle of the Linked List  ||
@@ -20,38 +39,26 @@ LeetCode collection.
 |          |19. Remove Nth Node From End of List  ||
 |          |21. Merge Two Sorted Lists  ||
 |          |160. Intersection of Two Linked Lists  ||
+|          |147. Insertion Sort List  ||
+|          |148. Sort List  ||
+|          |86. Partition List  ||
+|          |206. Reverse Linked List  ||
+|          |92. Reverse Linked List II  ||
+|          |25. Reverse Nodes in k-Group  |没做出来，要重新看一遍|
+|          |234. Palindrome Linked List 回文  |不会|
+|          |83. Remove Duplicates from Sorted List  ||
+|          |82. Remove Duplicates from Sorted List II  ||
+|          |287. Find the Duplicate Number  ||
+|堆栈和队列          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+| 双指针          |  ||
 |          |  ||
 |          |  ||
 |          |  ||
 |          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
+
 |          |  ||
 |          |  ||
 
@@ -73,7 +80,7 @@ LeetCode collection.
 |3.21   |709/258/415/202/73/48   |709/48   |   |   |   |   |
 |3.22   |344/414/448/66/509/26   |448/26   |   |   |   |   |
 |3.23   |78/90/60/784/46/47   |60/784/46   |   |   |   |   |
-|3.24   |31/39/40/22/51   |31/39/40/22/51   |   |   |   |   |
+|3.24   |31/39/40/22/51   |31/39/40/22/51   | 到这里  |   |   |   |
 |3.25   |153/33/35/34/189   |153/33/35/34/189   |   |   |   |   |
 |3.26   |7/475/69/74/240/378   |7/475/69/240/378   |   |   |   |   |
 |3.27   |56/57/50/162/287      |56/57/50/162/287   |   |   |   |   |
