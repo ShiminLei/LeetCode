@@ -48,7 +48,7 @@ LeetCode collection.
 |          |234. Palindrome Linked List 回文  |不会|
 |          |83. Remove Duplicates from Sorted List  ||
 |          |82. Remove Duplicates from Sorted List II  ||
-|          |287. Find the Duplicate Number  ||
+|          |287. Find the Duplicate Number 兔子和乌龟 ||
 |堆栈和队列          |  ||
 |          |  ||
 |          |  ||
@@ -58,7 +58,6 @@ LeetCode collection.
 |          |  ||
 |          |  ||
 |          |  ||
-
 |          |  ||
 |          |  ||
 
