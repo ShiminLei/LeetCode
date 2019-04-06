@@ -3,15 +3,26 @@ LeetCode collection.
 
 | Date | Question Numbers | :sparkles: Star !|
 | :---  | :--: | ---:|
+| 数组和动态数组|||
+|          |73. Set Matrix Zeroes  ||
+|          |48. Rotate Image  ||
+|          |344. Reverse String  ||
+|          |414. Third Maximum Number  ||
+|          |448. Find All Numbers Disappeared in an Array  ||
+|          |66. Plus One  ||
 | 递归          |  ||
 |          |509. Fibonacci Number  ||
 |          |78. Subsets  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
+|          |90. Subsets II  ||
+|          |60. Permutation Sequence  ||
+|          |784. Letter Case Permutation  ||
+|          |46. Permutations  ||
+|          |47. Permutations II  ||
+|          |31. Next Permutation  ||
+|          |39. Combination Sum  ||
+|          |40. Combination Sum II  ||
+|          |22. Generate Parentheses  ||
+|          |51. N-Queens ||
 | 二分搜索          |  ||
 |          |153. Find Minimum in Rotated Sorted Array  ||
 |          |33. Search in Rotated Sorted Array  ||
