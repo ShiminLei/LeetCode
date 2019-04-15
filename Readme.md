@@ -67,8 +67,17 @@ LeetCode collection.
 |          |82. Remove Duplicates from Sorted List II  ||
 |          |287. Find the Duplicate Number 兔子和乌龟 ||
 |堆栈和队列          |  ||
-|          |  ||
-|          |  ||
+|          |232. Implement Queue using Stacks  ||
+|          |225. Implement Stack using Queues  ||
+|          |155. Min Stack  ||
+|          |20. Valid Parentheses  ||
+|          |71. Simplify Path  ||
+|          |394. Decode String  ||
+|          |682. Baseball Game  ||
+|          |735. Asteroid Collision  ||
+|          |503. Next Greater Element II  ||
+|          |739. Daily Temperatures  ||
+|          |239. Sliding Window Maximum  |不会|
 |          |  ||
 | 双指针          |  ||
 |          |26. Remove Duplicates from Sorted Array  ||
