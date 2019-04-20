@@ -78,6 +78,40 @@ LeetCode collection.
 |          |503. Next Greater Element II  ||
 |          |739. Daily Temperatures  ||
 |          |239. Sliding Window Maximum  |不会|
+| 哈希表          |  ||
+|          |387. First Unique Character in a String  ||
+|          |349. Intersection of Two Arrays  ||
+|          |350. Intersection of Two Arrays II  ||
+|          |771. Jewels and Stones  ||
+|          |217. Contains Duplicate  ||
+|          |219. Contains Duplicate II  ||
+|          |811. Subdomain Visit Count  ||
+|          |500. Keyboard Row  ||
+|          |290. Word Pattern  ||
+|          |146. LRU Cache  ||
+|          |  ||
+| 树          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+| 堆          |  ||
+|          |  ||
+|          |  ||
+| 图论          |  ||
+|          |  ||
 |          |  ||
 | 双指针          |  ||
 |          |26. Remove Duplicates from Sorted Array  ||
