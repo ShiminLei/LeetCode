@@ -101,9 +101,9 @@ LeetCode collection.
 |          |144. Binary Tree Preorder Traversal  ||
 |          |145. Binary Tree Postorder Traversal  ||
 |          |102. Binary Tree Level Order Traversal  ||
-|          |  ||
-|          |  ||
-|          |  ||
+|          |107. Binary Tree Level Order Traversal II  ||
+|          |103. Binary Tree Zigzag Level Order Traversal  ||
+|          |105. Construct Binary Tree from Preorder and Inorder Traversal  ||
 |          |  ||
 |          |  ||
 |          |  ||
