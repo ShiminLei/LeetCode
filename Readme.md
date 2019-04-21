@@ -96,8 +96,8 @@ LeetCode collection.
 |          |98. Validate Binary Search Tree  ||
 |          |101. Symmetric Tree  ||
 |          |100. Same Tree  ||
-|          |  ||
-|          |  ||
+|          |701. Insert into a Binary Search Tree 见算法导论 165||
+|          |94. Binary Tree Inorder Traversal  ||
 |          |  ||
 |          |  ||
 |          |  ||
