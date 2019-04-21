@@ -103,13 +103,13 @@ LeetCode collection.
 |          |102. Binary Tree Level Order Traversal  ||
 |          |107. Binary Tree Level Order Traversal II  ||
 |          |103. Binary Tree Zigzag Level Order Traversal  ||
-|          |105. Construct Binary Tree from Preorder and Inorder Traversal  |这题不太理解本质|
+|          |105. Construct Binary Tree from Preorder and Inorder Traversal 这题不太理解本质 ||
 |          |108. Convert Sorted Array to Binary Search Tree  ||
 |          |109. Convert Sorted List to Binary Search Tree  ||
 |          |112. Path Sum  ||
-|          |  ||
-|          |  ||
-|          |  ||
+|          |113. Path Sum II  ||
+|          |437. Path Sum III  ||
+|          |235. Lowest Common Ancestor of a Binary Search Tree  ||
 |          |  ||
 |          |  ||
 | 堆          |  ||
