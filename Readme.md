@@ -97,7 +97,7 @@ LeetCode collection.
 |          |101. Symmetric Tree  ||
 |          |100. Same Tree  ||
 |          |701. Insert into a Binary Search Tree 见算法导论 165||
-|          |94. Binary Tree Inorder Traversal  ||
+|          |94. Binary Tree Inorder Traversal 用栈实现iterative ||
 |          |  ||
 |          |  ||
 |          |  ||
