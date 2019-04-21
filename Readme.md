@@ -103,7 +103,7 @@ LeetCode collection.
 |          |102. Binary Tree Level Order Traversal  ||
 |          |107. Binary Tree Level Order Traversal II  ||
 |          |103. Binary Tree Zigzag Level Order Traversal  ||
-|          |105. Construct Binary Tree from Preorder and Inorder Traversal  ||
+|          |105. Construct Binary Tree from Preorder and Inorder Traversal  |这题不太理解本质|
 |          |  ||
 |          |  ||
 |          |  ||
