@@ -115,6 +115,11 @@ LeetCode collection.
 | 堆          |  ||
 |          |215. Kth Largest Element in an Array  |y |
 |          |692. Top K Frequent Words  ||
+|          |263. Ugly Number  ||
+|          |264. Ugly Number II  ||
+|          |373. Find K Pairs with Smallest Sums  |n |
+|          |23. Merge k Sorted Lists  ||
+|          |295. Find Median from Data Stream  ||
 |          |  ||
 |          |  ||
 |          |  ||
@@ -124,7 +129,6 @@ LeetCode collection.
 |          |  ||
 | 双指针          |  ||
 |          |26. Remove Duplicates from Sorted Array  ||
-|          |  ||
 |          |  ||
 |          |  ||
 |          |  ||
