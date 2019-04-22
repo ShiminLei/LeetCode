@@ -122,8 +122,7 @@ LeetCode collection.
 |          |295. Find Median from Data Stream  ||
 |          |502. IPO  ||
 |          |  ||
-|          |  ||
-|          |  ||
+
 | 图论          |  ||
 |          |  ||
 |          |  ||
