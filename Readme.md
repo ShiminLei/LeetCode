@@ -125,7 +125,7 @@ LeetCode collection.
 
 | 图论          |  ||
 |          |490. The Maze  ||
-|          |  ||
+|          |505. The Maze II  | 黑色（已经pop出来的）不压栈，不压队|
 |          |  ||
 |          |  ||
 |          |  ||
