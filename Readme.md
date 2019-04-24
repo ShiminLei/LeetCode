@@ -125,8 +125,8 @@ LeetCode collection.
 
 | 图论          |  ||
 |          |490. The Maze  ||
-|          |505. The Maze II  | 黑色（已经pop出来的）不压栈，不压队|
-|          |  ||
+|          |505. The Maze II  | 黑色（已经pop出来的）不压栈，不压队。Dijkstra是BFS|
+|          |499. The Maze III  ||
 |          |  ||
 |          |  ||
 | 双指针          |  ||
