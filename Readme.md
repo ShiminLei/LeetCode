@@ -129,7 +129,7 @@ LeetCode collection.
 |          |499. The Maze III  ||
 |          |733. Flood Fill  ||
 |          |547. Friend Circles  ||
-|          |  ||
+|          |200. Number of Islands  ||
 |          |  ||
 |          |  ||
 |          |  ||
