@@ -131,7 +131,7 @@ LeetCode collection.
 |          |547. Friend Circles  ||
 |          |200. Number of Islands  ||
 |          |695. Max Area of Island |stack,queue,只要append完了，立刻放seen|
-|          |  ||
+|          |690. Employee Importance  ||
 |          |  ||
 |          |  ||
 | 双指针          |  ||
