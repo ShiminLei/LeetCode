@@ -128,6 +128,7 @@ LeetCode collection.
 |          |505. The Maze II  | 黑色（已经pop出来的）不压栈，不压队。Dijkstra是BFS|
 |          |499. The Maze III  ||
 |          |733. Flood Fill  ||
+|          |547. Friend Circles  ||
 |          |  ||
 |          |  ||
 |          |  ||
@@ -135,7 +136,6 @@ LeetCode collection.
 |          |  ||
 | 双指针          |  ||
 |          |26. Remove Duplicates from Sorted Array  ||
-|          |547. Friend Circles  ||
 |          |  ||
 |          |  ||
 |          |  ||
