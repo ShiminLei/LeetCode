@@ -131,6 +131,14 @@ LeetCode collection.
 |          |200. Number of Islands  ||
 |          |695. Max Area of Island |stack,queue,只要append完了，立刻放seen|
 |          |690. Employee Importance  ||
+|          |785. Is Graph Bipartite?  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
 |          |  ||
 |          |  ||
 | 双指针          |  ||
@@ -138,7 +146,14 @@ LeetCode collection.
 |          |  ||
 |          |  ||
 |          |  ||
-
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
 
 
 
