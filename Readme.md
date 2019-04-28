@@ -131,9 +131,9 @@ LeetCode collection.
 |          |200. Number of Islands  ||
 |          |695. Max Area of Island |stack,queue,只要append完了，立刻放seen|
 |          |690. Employee Importance  ||
-|          |785. Is Graph Bipartite?  ||
-|          |  ||
-|          |  ||
+|          |785. Is Graph Bipartite?  |n|
+|          |417. Pacific Atlantic Water Flow  ||
+|          |329. Longest Increasing Path in a Matrix  ||
 |          |  ||
 |          |  ||
 |          |  ||
