@@ -136,6 +136,8 @@ LeetCode collection.
 |          |329. Longest Increasing Path in a Matrix  ||
 |          |542. 01 Matrix  |n 不会|
 |          |721. Accounts Merge  |考察点，把数据转换成图|
+|          |127. Word Ladder  ||
+|          |126. Word Ladder II  ||
 |          |  ||
 |          |  ||
 |          |  ||
@@ -143,8 +145,6 @@ LeetCode collection.
 |          |  ||
 | 双指针          |  ||
 |          |26. Remove Duplicates from Sorted Array  ||
-|          |  ||
-|          |  ||
 |          |  ||
 |          |  ||
 |          |  ||
