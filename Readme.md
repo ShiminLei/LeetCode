@@ -134,8 +134,8 @@ LeetCode collection.
 |          |785. Is Graph Bipartite?  |n|
 |          |417. Pacific Atlantic Water Flow  ||
 |          |329. Longest Increasing Path in a Matrix  ||
-|          |  ||
-|          |  ||
+|          |542. 01 Matrix  |n 不会|
+|          |721. Accounts Merge  |考察点，把数据转换成图|
 |          |  ||
 |          |  ||
 |          |  ||
