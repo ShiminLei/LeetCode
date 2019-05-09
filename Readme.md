@@ -141,12 +141,12 @@ LeetCode collection.
 |          |  ||
 |          |  ||
 | 双指针          |  ||
-|          |26. Remove Duplicates from Sorted Array  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
+|          |26. Remove Duplicates from Sorted Array 兔子乌龟 ||
+|          |344. Reverse String  ||
+|          |1. Two Sum  其实这个是哈希表||
+|          |21. Merge Two Sorted Lists  ||
+|          |523. Continuous Subarray Sum  ||
+|          |169. Majority Element  ||
 |          |  ||
 |          |  ||
 |          |  ||
