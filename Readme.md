@@ -145,10 +145,10 @@ LeetCode collection.
 |          |344. Reverse String  ||
 |          |1. Two Sum  其实这个是哈希表||
 |          |21. Merge Two Sorted Lists  ||
-|          |523. Continuous Subarray Sum  ||
+|          |349. Intersection of Two Arrays  ||
+|          |523. Continuous Subarray Sum 不会 ||
 |          |169. Majority Element  ||
-|          |  ||
-|          |  ||
+|          |229. Majority Element II  摩尔投票算法||
 |          |  ||
 |          |  ||
 
