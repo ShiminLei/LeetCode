@@ -149,8 +149,25 @@ LeetCode collection.
 |          |523. Continuous Subarray Sum 不会 ||
 |          |169. Majority Element  ||
 |          |229. Majority Element II  摩尔投票算法||
+|          |75. Sort Colors  荷兰国旗：很经典的一道题||
+|          |658. Find K Closest Elements  ||
 |          |  ||
 |          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+
 
 
 
