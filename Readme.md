@@ -152,14 +152,14 @@ LeetCode collection.
 |          |75. Sort Colors  荷兰国旗：很经典的一道题||
 |          |658. Find K Closest Elements  ||
 |          |11. Container With Most Water 装水的题 ||
-|          |  ||
+|          |42. Trapping Rain Water  | 不会 |
 |滑动窗口          |  ||
-|          |845. Longest Mountain in Array  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
+|          |845. Longest Mountain in Array  |未做|
+|          |26. Remove Duplicates from Sorted Array  ||
+|          |80. Remove Duplicates from Sorted Array II  ||
+|          |27. Remove Element  ||
+|          |643. Maximum Average Subarray I  ||
+|          |674. Longest Continuous Increasing Subsequence  ||
 |          |  ||
 |          |  ||
 |          |  ||
