@@ -160,9 +160,9 @@ LeetCode collection.
 |          |27. Remove Element  ||
 |          |643. Maximum Average Subarray I  ||
 |          |674. Longest Continuous Increasing Subsequence  ||
-|          |  ||
-|          |  ||
-|          |  ||
+|          |209. Minimum Size Subarray Sum  | 没有写出来，清醒的时候重新写|
+|          |28. Implement strStr()  ||
+|          |713. Subarray Product Less Than K  ||
 |          |  ||
 |          |  ||
 |          |  ||
