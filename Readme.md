@@ -163,9 +163,9 @@ LeetCode collection.
 |          |209. Minimum Size Subarray Sum  | 没有写出来，清醒的时候重新写|
 |          |28. Implement strStr()  ||
 |          |713. Subarray Product Less Than K  ||
-|          |  ||
-|          |  ||
-|          |  ||
+|          |3. Longest Substring Without Repeating Characters  ||
+|          |438. Find All Anagrams in a String  ||
+|          |76. Minimum Window Substring  ||
 |          |  ||
 |          |  ||
 
