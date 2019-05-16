@@ -166,10 +166,13 @@ LeetCode collection.
 |          |3. Longest Substring Without Repeating Characters  ||
 |          |438. Find All Anagrams in a String  ||
 |          |76. Minimum Window Substring  ||
+|          |159. Longest Substring with At Most Two Distinct Characters  |还没做|
+|          |340. Longest Substring with At Most K Distinct Characters  |还没做|
+|          |239. Sliding Window Maximum  |还没做|
 |          |  ||
 |          |  ||
 |动态规划          |  ||
-|          |  ||
+|          |198. House Robber  ||
 |          |  ||
 |          |  ||
 |          |  ||
