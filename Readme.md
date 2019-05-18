@@ -175,8 +175,8 @@ LeetCode collection.
 |          |198. House Robber  ||
 |          |213. House Robber II  ||
 |          |337. House Robber III  ||
-|          |  ||
-|          |  ||
+|          |746. Min Cost Climbing Stairs  ||
+|          |91. Decode Ways  ||
 |          |  ||
 |          |  ||
 |          |  ||
