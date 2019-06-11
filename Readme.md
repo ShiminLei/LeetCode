@@ -11,8 +11,8 @@ LeetCode collection.
 |          |448. Find All Numbers Disappeared in an Array  ||
 |          |66. Plus One  ||
 |          |238. Product of Array Except Self||
-|          |  ||
-|          |  ||
+|          |697. Degree of an Array  ||
+|          |849. Maximize Distance to Closest Person  ||
 |          |  ||
 | 递归          |  ||
 |          |509. Fibonacci Number  ||
@@ -82,6 +82,12 @@ LeetCode collection.
 |          |503. Next Greater Element II  ||
 |          |739. Daily Temperatures  ||
 |          |239. Sliding Window Maximum  |不会|
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
 | 哈希表          |  ||
 |          |387. First Unique Character in a String  ||
 |          |349. Intersection of Two Arrays  ||
