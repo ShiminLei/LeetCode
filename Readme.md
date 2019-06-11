@@ -10,6 +10,10 @@ LeetCode collection.
 |          |414. Third Maximum Number  ||
 |          |448. Find All Numbers Disappeared in an Array  ||
 |          |66. Plus One  ||
+|          |238. Product of Array Except Self||
+|          |  ||
+|          |  ||
+|          |  ||
 | 递归          |  ||
 |          |509. Fibonacci Number  ||
 |          |78. Subsets  ||
@@ -208,9 +212,9 @@ LeetCode collection.
 
 | Question Numbers  | :sparkles: Star ! |Second|Third|Forth|Fifth|
 | :---  |:--:|:--:|:--:|:--:|---:|
-|1-20||||||
-|21-40||||||
-|41-60||||||
+|1-10||||||
+|11-20||||||
+|21-30||||||
 
 
 
