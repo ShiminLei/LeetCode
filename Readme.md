@@ -206,11 +206,11 @@ LeetCode collection.
 
 
 
-| Date | Question Numbers | :sparkles: Star ! |Second|Third|Forth|Fifth|
-| :---  | :--: | :--:|:--:|:--:|:--:|---:|
-|1-20|||||||
-|1-20|||||||
-|1-20|||||||
+| Question Numbers  | :sparkles: Star ! |Second|Third|Forth|Fifth|
+| :---  |:--:|:--:|:--:|:--:|---:|
+|1-20||||||
+|21-40||||||
+|41-60||||||
 
 
 
