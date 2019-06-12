@@ -86,8 +86,8 @@ LeetCode collection.
 |          |456. 132 Pattern  ||
 |          |402. Remove K Digits  ||
 |          |946. Validate Stack Sequences  ||
-|          |  ||
-|          |  ||
+|          |621. Task Scheduler  ||
+|          |622. Design Circular Queue  ||
 | 哈希表          |  ||
 |          |387. First Unique Character in a String  ||
 |          |349. Intersection of Two Arrays  ||
@@ -116,11 +116,12 @@ LeetCode collection.
 |          |105. Construct Binary Tree from Preorder and Inorder Traversal 这题不太理解本质 ||
 |          |108. Convert Sorted Array to Binary Search Tree  ||
 |          |109. Convert Sorted List to Binary Search Tree  ||
+|          |111. Minimum Depth of Binary Tree ||
 |          |112. Path Sum  ||
 |          |113. Path Sum II  ||
 |          |437. Path Sum III  ||
 |          |235. Lowest Common Ancestor of a Binary Search Tree  ||
-|          |  ||
+|          |236. Lowest Common Ancestor of a Binary Tree  ||
 |          |  ||
 | 堆          |  ||
 |          |215. Kth Largest Element in an Array  |y |
@@ -178,7 +179,7 @@ LeetCode collection.
 |          |76. Minimum Window Substring  ||
 |          |159. Longest Substring with At Most Two Distinct Characters  |还没做|
 |          |340. Longest Substring with At Most K Distinct Characters  |还没做|
-|          |239. Sliding Window Maximum  |还没做|
+|          |239. Sliding Window Maximum  可以用堆 |还没做|
 |          |  ||
 |          |  ||
 |动态规划          |  ||
