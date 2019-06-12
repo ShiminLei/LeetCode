@@ -82,10 +82,10 @@ LeetCode collection.
 |          |503. Next Greater Element II  ||
 |          |739. Daily Temperatures  ||
 |          |239. Sliding Window Maximum  |不会|
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
+|          |224. Basic Calculator  ||
+|          |456. 132 Pattern  ||
+|          |402. Remove K Digits  ||
+|          |946. Validate Stack Sequences  ||
 |          |  ||
 |          |  ||
 | 哈希表          |  ||
