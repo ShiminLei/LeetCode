@@ -81,13 +81,13 @@ LeetCode collection.
 |          |735. Asteroid Collision  ||
 |          |503. Next Greater Element II  ||
 |          |739. Daily Temperatures  ||
-|          |239. Sliding Window Maximum  |不会|
+|          |239. Sliding Window Maximum 还没做，优先考虑用队列的方法 ||
 |          |224. Basic Calculator  ||
 |          |456. 132 Pattern  ||
 |          |402. Remove K Digits  ||
 |          |946. Validate Stack Sequences  ||
-|          |621. Task Scheduler  ||
-|          |622. Design Circular Queue  ||
+|          |621. Task Scheduler  还没做 ||
+|          |622. Design Circular Queue  还没做 ||
 | 哈希表          |  ||
 |          |387. First Unique Character in a String  ||
 |          |349. Intersection of Two Arrays  ||
