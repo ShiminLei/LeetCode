@@ -106,6 +106,7 @@ LeetCode collection.
 |          |98. Validate Binary Search Tree  ||
 |          |101. Symmetric Tree  ||
 |          |100. Same Tree  ||
+|          |700. Search in a Binary Search Tree  ||
 |          |701. Insert into a Binary Search Tree 见算法导论 165||
 |          |94. Binary Tree Inorder Traversal 用栈实现iterative ||
 |          |144. Binary Tree Preorder Traversal  ||
@@ -122,6 +123,14 @@ LeetCode collection.
 |          |437. Path Sum III  ||
 |          |235. Lowest Common Ancestor of a Binary Search Tree  ||
 |          |236. Lowest Common Ancestor of a Binary Tree  ||
+|          |230. Kth Smallest Element in a BST 还没做  ||
+|          |450. Delete Node in a BST 还没做  ||
+|          |938. Range Sum of BST 还没做  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
 |          |  ||
 | 堆          |  ||
 |          |215. Kth Largest Element in an Array  |y |
@@ -154,6 +163,15 @@ LeetCode collection.
 |          |721. Accounts Merge  |考察点，把数据转换成图|
 |          |127. Word Ladder  ||
 |          |207. Course Schedule  拓扑排序  ||
+|          |997. Find the Town Judge  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
 |          |  ||
 |          |  ||
 | 双指针          |  ||
