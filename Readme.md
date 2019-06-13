@@ -55,7 +55,6 @@ LeetCode collection.
 |          |  ||
 |          |  ||
 |          |  ||
-
 | 分治法|  ||
 |           |50. Pow(x, n)||
 |           |162. Find Peak Element  ||
