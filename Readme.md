@@ -42,6 +42,20 @@ LeetCode collection.
 |          |56. Merge Intervals  ||
 |          |57. Insert Interval  ||
 |          |349. Intersection of Two Arrays  ||
+| 排序         |  ||
+|          |969. Pancake Sorting 还没做 ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+
 | 分治法|  ||
 |           |50. Pow(x, n)||
 |           |162. Find Peak Element  ||
@@ -164,7 +178,7 @@ LeetCode collection.
 |          |127. Word Ladder  ||
 |          |207. Course Schedule  拓扑排序  ||
 |          |997. Find the Town Judge  ||
-|          |  ||
+|          |407. Trapping Rain Water II 还没做 ||
 |          |  ||
 |          |  ||
 |          |  ||
@@ -224,11 +238,11 @@ LeetCode collection.
 |          |  ||
 |          |  ||
 |          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
+|          |32. Longest Valid Parentheses 还没做  ||
+|          |72. Edit Distance 还没做  ||
+|          |70. Climbing Stairs 还没做  ||
+|          |300. Longest Increasing Subsequence 还没做  ||
+|          |322. Coin Change 还没做  ||
 |          |  ||
 |          |  ||
 |          |  ||
