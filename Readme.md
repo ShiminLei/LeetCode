@@ -91,7 +91,7 @@ LeetCode collection.
 |          |83. Remove Duplicates from Sorted List  ||
 |          |82. Remove Duplicates from Sorted List II  ||
 |          |287. Find the Duplicate Number 兔子和乌龟 ||
-|          |61. Rotate List ||
+|          |61. Rotate List  还没做||
 |          |  ||
 |          |  ||
 |          |  ||
@@ -280,13 +280,13 @@ LeetCode collection.
 |          |760. Find Anagram Mappings  ||
 |          |5. Longest Palindromic Substring  ||
 |          |242. Valid Anagram  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
+|          |796. Rotate String  ||
+|          |9. Palindrome Number 还没做 ||
+|          |409. Longest Palindrome  ||
+|          |266. Palindrome Permutation  ||
+|          |516. Longest Palindromic Subsequence  ||
+|          |524. Longest Word in Dictionary through Deleting 还没做 ||
+|          |392. Is Subsequence  ||
 |          |  ||
 |          |  ||
 |          |  ||
