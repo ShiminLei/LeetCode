@@ -65,6 +65,14 @@ LeetCode collection.
 |           |53.Maximum Subarray  这题实际是动态规划||
 |           |311. Sparse Matrix Multiplication ||
 |           |523. Continuous Subarray Sum  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
 | 链表          |  ||
 |          |237. Delete Node in a Linked List ||
 |          |876. Middle of the Linked List  ||
@@ -83,6 +91,15 @@ LeetCode collection.
 |          |83. Remove Duplicates from Sorted List  ||
 |          |82. Remove Duplicates from Sorted List II  ||
 |          |287. Find the Duplicate Number 兔子和乌龟 ||
+|          |61. Rotate List ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
 |堆栈和队列          |  ||
 |          |232. Implement Queue using Stacks  ||
 |          |225. Implement Stack using Queues  ||
@@ -259,10 +276,10 @@ LeetCode collection.
 |          |  ||
 |          |  ||
 | 字符串         |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
+|          |551. Student Attendance Record I  ||
+|          |760. Find Anagram Mappings  ||
+|          |5. Longest Palindromic Substring  ||
+|          |242. Valid Anagram  ||
 |          |  ||
 |          |  ||
 |          |  ||
