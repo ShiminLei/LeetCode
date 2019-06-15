@@ -276,7 +276,7 @@ LeetCode collection.
 |          |268. Missing Number  ||
 |          |397. Integer Replacement 还没做 ||
 |          |371. Sum of Two Integers  ||
-|          |172. Factorial Trailing Zeroes  ||
+|          |172. Factorial Trailing Zeroes 还没做 ||
 |          |  ||
 |          |  ||
 |          |  ||
@@ -299,8 +299,8 @@ LeetCode collection.
 |          |516. Longest Palindromic Subsequence  ||
 |          |524. Longest Word in Dictionary through Deleting 还没做 ||
 |          |392. Is Subsequence  ||
-|          |  ||
-|          |  ||
+|          |79. Word Search 还没做  ||
+|          |212. Word Search II 还没做  ||
 |          |  ||
 |          |  ||
 |          |  ||
