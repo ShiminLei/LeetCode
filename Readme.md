@@ -269,7 +269,13 @@ LeetCode collection.
 |          |  ||
 |          |  ||
 |          |  ||
-|          |  ||
+| 位操作          |  ||
+|          |191. Number of 1 Bits  ||
+|          |405. Convert a Number to Hexadecimal  不会 ||
+|          |231. Power of Two  ||
+|          |268. Missing Number  ||
+|          |397. Integer Replacement  ||
+|          |172. Factorial Trailing Zeroes  ||
 |          |  ||
 |          |  ||
 |          |  ||
