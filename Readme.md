@@ -274,8 +274,14 @@ LeetCode collection.
 |          |405. Convert a Number to Hexadecimal  不会 ||
 |          |231. Power of Two  ||
 |          |268. Missing Number  ||
-|          |397. Integer Replacement  ||
+|          |397. Integer Replacement 还没做 ||
+|          |371. Sum of Two Integers  ||
 |          |172. Factorial Trailing Zeroes  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
 |          |  ||
 |          |  ||
 |          |  ||
