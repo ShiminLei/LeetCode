@@ -32,7 +32,7 @@ LeetCode collection.
 |          |35. Search Insert Position  |1-yes|
 |          |658. Find K Closest Elements  |1-no |
 |          |33. Search in Rotated Sorted Array  | 1-no |
-|          |81. Search in Rotated Sorted Array II  ||
+|          |81. Search in Rotated Sorted Array II  |1-no |
 |          |153. Find Minimum in Rotated Sorted Array  ||
 |          |189. Rotate Array  ||
 |          |7. Reverse Integer  ||
