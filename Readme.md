@@ -42,6 +42,10 @@ LeetCode collection.
 |          |56. Merge Intervals  ||
 |          |57. Insert Interval  ||
 |          |349. Intersection of Two Arrays  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
 | 排序         |  ||
 |          |969. Pancake Sorting 还没做 ||
 |          |  ||
@@ -193,11 +197,11 @@ LeetCode collection.
 |          |721. Accounts Merge  |考察点，把数据转换成图|
 |          |127. Word Ladder  ||
 |          |207. Course Schedule  拓扑排序  ||
+|          |210. Course Schedule II  ||
+|          |630. Course Schedule III  ||
 |          |997. Find the Town Judge  ||
 |          |407. Trapping Rain Water II 还没做 ||
-|          |  ||
-|          |  ||
-|          |  ||
+|          |743. Network Delay Time  ||
 |          |  ||
 |          |  ||
 |          |  ||
