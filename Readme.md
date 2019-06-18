@@ -28,10 +28,12 @@ LeetCode collection.
 |          |22. Generate Parentheses  ||
 |          |51. N-Queens ||
 | 二分搜索          |  ||
-|          |153. Find Minimum in Rotated Sorted Array  ||
-|          |33. Search in Rotated Sorted Array  ||
-|          |35. Search Insert Position  ||
 |          |34. Find First and Last Position of Element in Sorted Array  ||
+|          |35. Search Insert Position  ||
+|          |658. Find K Closest Elements  ||
+|          |33. Search in Rotated Sorted Array  ||
+|          |81. Search in Rotated Sorted Array II  ||
+|          |153. Find Minimum in Rotated Sorted Array  ||
 |          |189. Rotate Array  ||
 |          |7. Reverse Integer  ||
 |          |475. Heaters  ||
@@ -42,7 +44,6 @@ LeetCode collection.
 |          |56. Merge Intervals  ||
 |          |57. Insert Interval  ||
 |          |349. Intersection of Two Arrays  ||
-|          |  ||
 |          |  ||
 |          |  ||
 |          |  ||
@@ -218,7 +219,6 @@ LeetCode collection.
 |          |169. Majority Element  ||
 |          |229. Majority Element II  摩尔投票算法||
 |          |75. Sort Colors  荷兰国旗：很经典的一道题||
-|          |658. Find K Closest Elements  ||
 |          |11. Container With Most Water 装水的题 ||
 |          |42. Trapping Rain Water  | 不会 |
 |滑动窗口          |  ||
