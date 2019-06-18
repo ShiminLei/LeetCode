@@ -28,10 +28,10 @@ LeetCode collection.
 |          |22. Generate Parentheses  ||
 |          |51. N-Queens ||
 | 二分搜索          |  ||
-|          |34. Find First and Last Position of Element in Sorted Array  ||
-|          |35. Search Insert Position  ||
-|          |658. Find K Closest Elements  ||
-|          |33. Search in Rotated Sorted Array  ||
+|          |34. Find First and Last Position of Element in Sorted Array  |1-yes |
+|          |35. Search Insert Position  |1-yes|
+|          |658. Find K Closest Elements  |1-no |
+|          |33. Search in Rotated Sorted Array  | 1-no |
 |          |81. Search in Rotated Sorted Array II  ||
 |          |153. Find Minimum in Rotated Sorted Array  ||
 |          |189. Rotate Array  ||
