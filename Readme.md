@@ -33,24 +33,27 @@ LeetCode collection.
 |          |658. Find K Closest Elements  |1-no |
 |          |33. Search in Rotated Sorted Array  | 1-no |
 |          |81. Search in Rotated Sorted Array II  |1-no |
+|          |153. Find Minimum in Rotated Sorted Array  ||
 |          |702. Search in a Sorted Array of Unknown Size  |1-no |
 |          |74. Search a 2D Matrix  |1-no |
-|          |240. Search a 2D Matrix II  ||
+|          |240. Search a 2D Matrix II  |1-no |
 |          |162. Find Peak Element  |1-no |
-|          |153. Find Minimum in Rotated Sorted Array  ||
+|          |69. Sqrt(x)  |1-yes |
+|          |378. Kth Smallest Element in a Sorted Matrix  ||
 |          |189. Rotate Array  ||
 |          |7. Reverse Integer  ||
 |          |475. Heaters  ||
-|          |69. Sqrt(x)  ||
-|          |378. Kth Smallest Element in a Sorted Matrix  ||
 |          |56. Merge Intervals  ||
 |          |57. Insert Interval  ||
 |          |349. Intersection of Two Arrays  ||
 |          |经验：并不是所有二分法都适用于 left+1<right, 对于可以排除mid的问题，使用left<=right更简便  ||
 |          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
 | 排序         |  ||
 |          |969. Pancake Sorting 还没做 ||
-|          |  ||
 |          |  ||
 |          |  ||
 |          |  ||
@@ -274,6 +277,7 @@ LeetCode collection.
 |          |  ||
 |          |  ||
 | 位操作          |  ||
+|          |29. Divide Two Integers  ||
 |          |191. Number of 1 Bits  ||
 |          |405. Convert a Number to Hexadecimal  不会 ||
 |          |231. Power of Two  ||
