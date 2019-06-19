@@ -33,9 +33,10 @@ LeetCode collection.
 |          |658. Find K Closest Elements  |1-no |
 |          |33. Search in Rotated Sorted Array  | 1-no |
 |          |81. Search in Rotated Sorted Array II  |1-no |
-|          |702. Search in a Sorted Array of Unknown Size  ||
-|          |74. Search a 2D Matrix  ||
+|          |702. Search in a Sorted Array of Unknown Size  |1-no |
+|          |74. Search a 2D Matrix  |1-no |
 |          |240. Search a 2D Matrix II  ||
+|          |162. Find Peak Element  |1-no |
 |          |153. Find Minimum in Rotated Sorted Array  ||
 |          |189. Rotate Array  ||
 |          |7. Reverse Integer  ||
@@ -62,7 +63,6 @@ LeetCode collection.
 |          |  ||
 | 分治法|  ||
 |           |50. Pow(x, n)||
-|           |162. Find Peak Element  ||
 |           |215. Kth Largest Element in an Array  ||
 |           |349. Intersection of Two Arrays  ||
 |           |350. Intersection of Two Arrays II  ||
