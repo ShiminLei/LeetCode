@@ -44,7 +44,7 @@ LeetCode collection.
 |          |56. Merge Intervals  ||
 |          |57. Insert Interval  ||
 |          |349. Intersection of Two Arrays  ||
-|          |  ||
+|          |经验：并不是所有二分法都适用于 left+1<right, 对于可以排除mid的问题，使用left<=right更简便  ||
 |          |  ||
 |          |  ||
 | 排序         |  ||
