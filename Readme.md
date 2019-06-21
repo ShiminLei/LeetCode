@@ -270,7 +270,7 @@ LeetCode collection.
 |          |152. Maximum Product Subarray ||
 |          |256. Paint House 序列型动态规划  ||
 |          |91. Decode Ways 划分型动态规划 ||
-|          |  ||
+|          |64. Minimum Path Sum 坐标型  ||
 |          |  ||
 |          |  ||
 |          |  ||
