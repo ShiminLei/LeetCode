@@ -249,27 +249,27 @@ LeetCode collection.
 |          |746. Min Cost Climbing Stairs  ||
 |          |91. Decode Ways  ||
 |          |96. Unique Binary Search Trees  |科特兰数|
-|          |152. Maximum Product Subarray ||
 |          |121. Best Time to Buy and Sell Stock  ||
 |          |122. Best Time to Buy and Sell Stock II  ||
 |          |714. Best Time to Buy and Sell Stock with Transaction Fee  ||
 |          |123. Best Time to Buy and Sell Stock III 还没做 ||
 |          |188. Best Time to Buy and Sell Stock IV 还没做 ||
 |          |309. Best Time to Buy and Sell Stock with Cooldown  还没做 ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
 |          |32. Longest Valid Parentheses 还没做  ||
 |          |72. Edit Distance 还没做  ||
 |          |70. Climbing Stairs 还没做  ||
 |          |300. Longest Increasing Subsequence 还没做  ||
-|          |322. Coin Change 还没做  ||
 |          |  ||
 |          |  ||
 |          |  ||
 |          |  ||
+|          | 九章算法 ||
+|          |322. Coin Change 典型  ||
+|          |62. Unique Paths 计数型动态规划  ||
+|          |63. Unique Paths II 坐标型动态规划 ||
+|          |55. Jump Game 存在型动态规划  ||
+|          |152. Maximum Product Subarray ||
+|          |256. Paint House 序列型动态规划  ||
 |          |  ||
 |          |  ||
 |          |  ||
