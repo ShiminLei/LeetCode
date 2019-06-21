@@ -247,7 +247,6 @@ LeetCode collection.
 |          |213. House Robber II  ||
 |          |337. House Robber III  ||
 |          |746. Min Cost Climbing Stairs  ||
-|          |91. Decode Ways  ||
 |          |96. Unique Binary Search Trees  |科特兰数|
 |          |121. Best Time to Buy and Sell Stock  ||
 |          |122. Best Time to Buy and Sell Stock II  ||
@@ -270,6 +269,7 @@ LeetCode collection.
 |          |55. Jump Game 存在型动态规划  ||
 |          |152. Maximum Product Subarray ||
 |          |256. Paint House 序列型动态规划  ||
+|          |91. Decode Ways 划分型动态规划 ||
 |          |  ||
 |          |  ||
 |          |  ||
