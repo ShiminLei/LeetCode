@@ -260,26 +260,26 @@ LeetCode collection.
 |          |  ||
 |          |  ||
 |          |  ||
-|          | 九章算法 ||
+| 九章算法 动态规划：       |  ||
 |          |322. Coin Change 典型  ||
 |          |62. Unique Paths 计数型动态规划  ||
 |          |63. Unique Paths II 坐标型动态规划 ||
 |          |55. Jump Game 存在型动态规划  ||
 |          |152. Maximum Product Subarray ||
-|          |256. Paint House 序列型动态规划  ||
 |          |91. Decode Ways 划分型动态规划 ||
 |          |64. Minimum Path Sum 坐标型 (可以用滚动数组节省空间) ||
 |          |361. Bomb Enemy 坐标型  ||
 |          |674. Longest Continuous Increasing Subsequence  ||
 |          |300. Longest Increasing Subsequence 还没做  ||
 |          |338. Counting Bits  ||
-|          | 序列型动态规划： ||
+| 序列型动态规划：        |  ||
 |          |Lint-843. Digital Flip   ||
+|          |256. Paint House 序列型动态规划  ||
+|          |265. Paint House II  ||
 |          |  ||
 |          |  ||
 |          |  ||
-|          |  ||
-| 背包问题     |  ||
+| 背包问题：     |  ||
 |          |Lint-92. Backpack  ||
 |          |Lint-563. Backpack V  ||
 |          |  ||
