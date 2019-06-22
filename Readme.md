@@ -230,7 +230,6 @@ LeetCode collection.
 |          |80. Remove Duplicates from Sorted Array II  ||
 |          |27. Remove Element  ||
 |          |643. Maximum Average Subarray I  ||
-|          |674. Longest Continuous Increasing Subsequence  ||
 |          |209. Minimum Size Subarray Sum  | 没有写出来，清醒的时候重新写|
 |          |28. Implement strStr()  ||
 |          |713. Subarray Product Less Than K  ||
@@ -257,7 +256,6 @@ LeetCode collection.
 |          |32. Longest Valid Parentheses 还没做  ||
 |          |72. Edit Distance 还没做  ||
 |          |70. Climbing Stairs 还没做  ||
-|          |300. Longest Increasing Subsequence 还没做  ||
 |          |  ||
 |          |  ||
 |          |  ||
@@ -270,9 +268,11 @@ LeetCode collection.
 |          |152. Maximum Product Subarray ||
 |          |256. Paint House 序列型动态规划  ||
 |          |91. Decode Ways 划分型动态规划 ||
-|          |64. Minimum Path Sum 坐标型  ||
-|          |  ||
-|          |  ||
+|          |64. Minimum Path Sum 坐标型 (可以用滚动数组节省空间) ||
+|          |361. Bomb Enemy 坐标型  ||
+|          |674. Longest Continuous Increasing Subsequence  ||
+|          |300. Longest Increasing Subsequence 还没做  ||
+|          |338. Counting Bits  ||
 |          |  ||
 |          |  ||
 |          |  ||
