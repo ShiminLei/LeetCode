@@ -247,8 +247,6 @@ LeetCode collection.
 |          |337. House Robber III  ||
 |          |746. Min Cost Climbing Stairs  ||
 |          |96. Unique Binary Search Trees  |科特兰数|
-|          |121. Best Time to Buy and Sell Stock  ||
-|          |122. Best Time to Buy and Sell Stock II  ||
 |          |714. Best Time to Buy and Sell Stock with Transaction Fee  ||
 |          |123. Best Time to Buy and Sell Stock III 还没做 ||
 |          |188. Best Time to Buy and Sell Stock IV 还没做 ||
@@ -276,6 +274,8 @@ LeetCode collection.
 |          |Lint-843. Digital Flip   ||
 |          |256. Paint House 序列型动态规划  ||
 |          |265. Paint House II  ||
+|          |121. Best Time to Buy and Sell Stock  ||
+|          |122. Best Time to Buy and Sell Stock II  ||
 |          |  ||
 |          |  ||
 |          |  ||
