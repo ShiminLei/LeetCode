@@ -273,14 +273,15 @@ LeetCode collection.
 |          |674. Longest Continuous Increasing Subsequence  ||
 |          |300. Longest Increasing Subsequence 还没做  ||
 |          |338. Counting Bits  ||
+|          | 序列型动态规划： ||
 |          |Lint-843. Digital Flip   ||
 |          |  ||
 |          |  ||
 |          |  ||
 |          |  ||
-| 背包问题 LintCode     |  ||
-|          |92. Backpack  ||
-|          |563. Backpack V  ||
+| 背包问题     |  ||
+|          |Lint-92. Backpack  ||
+|          |Lint-563. Backpack V  ||
 |          |  ||
 |          |  ||
 |          |  ||
