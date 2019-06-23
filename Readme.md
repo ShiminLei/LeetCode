@@ -284,11 +284,11 @@ LeetCode collection.
 | 博弈型动态规划         |  ||
 |          |Lint-394. Coins in a Line  ||
 | 背包型动态规划         |  ||
-|          |  ||
-|          |  ||
-|          |  ||
 |          |Lint-92. Backpack  ||
 |          |Lint-563. Backpack V  ||
+|          |  ||
+|          |  ||
+|          |  ||
 |          |  ||
 |          |  ||
 |          |  ||
