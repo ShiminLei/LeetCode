@@ -280,13 +280,13 @@ LeetCode collection.
 | 划分型动态规划          |  ||
 |          |279. Perfect Squares  ||
 |          |132. Palindrome Partitioning II  ||
+|          |Lint-437. Copy Books  ||
 | 博弈型动态规划         |  ||
+|          |Lint-394. Coins in a Line  ||
+| 背包型动态规划         |  ||
 |          |  ||
 |          |  ||
 |          |  ||
-|          |  ||
-|          |  ||
-| 背包问题：     |  ||
 |          |Lint-92. Backpack  ||
 |          |Lint-563. Backpack V  ||
 |          |  ||
