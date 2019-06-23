@@ -266,7 +266,6 @@ LeetCode collection.
 |          |64. Minimum Path Sum 坐标型 (可以用滚动数组节省空间) ||
 |          |361. Bomb Enemy 坐标型  ||
 |          |674. Longest Continuous Increasing Subsequence  ||
-|          |300. Longest Increasing Subsequence 还没做  ||
 |          |338. Counting Bits  ||
 | 序列型动态规划：        |  ||
 |          |Lint-843. Digital Flip   ||
@@ -276,7 +275,8 @@ LeetCode collection.
 |          |122. Best Time to Buy and Sell Stock II  ||
 |          |123. Best Time to Buy and Sell Stock III  ||
 |          |188. Best Time to Buy and Sell Stock IV 还没做 ||
-|          |  ||
+|          |300. Longest Increasing Subsequence 还没做  ||
+|          |354. Russian Doll Envelopes 是300的二维问题  ||
 |          |  ||
 |          |  ||
 |          |  ||
