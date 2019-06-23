@@ -277,10 +277,10 @@ LeetCode collection.
 |          |188. Best Time to Buy and Sell Stock IV 还没做 ||
 |          |300. Longest Increasing Subsequence 还没做  ||
 |          |354. Russian Doll Envelopes 是300的二维问题  ||
-| 划分，博弈，背包型动态规划          |  ||
+| 划分型动态规划          |  ||
 |          |279. Perfect Squares  ||
 |          |132. Palindrome Partitioning II  ||
-|          |  ||
+| 博弈型动态规划         |  ||
 |          |  ||
 |          |  ||
 |          |  ||
