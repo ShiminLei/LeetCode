@@ -54,7 +54,7 @@ LeetCode collection.
 |          |  ||
 | 排序         |  ||
 |          |969. Pancake Sorting 还没做 ||
-|          |  ||
+|          |347. Top K Frequent Elements 桶排序  ||
 |          |  ||
 |          |  ||
 |          |  ||
@@ -290,8 +290,8 @@ LeetCode collection.
 |          |  ||
 |          |  ||
 |          |  ||
-|          |  ||
-|          |  ||
+| 贪心算法         |  ||
+|          |455. Assign Cookies  ||
 |          |  ||
 |          |  ||
 |          |  ||
