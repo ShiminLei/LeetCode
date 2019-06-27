@@ -216,6 +216,7 @@ LeetCode collection.
 |          |26. Remove Duplicates from Sorted Array 兔子乌龟 ||
 |          |344. Reverse String  ||
 |          |1. Two Sum  其实这个是哈希表||
+|          |167. Two Sum II - Input array is sorted  ||
 |          |21. Merge Two Sorted Lists  ||
 |          |349. Intersection of Two Arrays  ||
 |          |523. Continuous Subarray Sum 不会 ||
