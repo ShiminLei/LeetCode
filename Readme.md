@@ -287,7 +287,7 @@ LeetCode collection.
 | 背包型动态规划 --- 背包的总承重通常都需要放在状态里        |  ||
 |          |Lint-92. Backpack  ||
 |          |Lint-563. Backpack V  ||
-|          |  ||
+|          |Lint-564. Combination Sum IV  ||
 |          |  ||
 |          |  ||
 |          |  ||
