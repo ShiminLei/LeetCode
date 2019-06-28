@@ -284,7 +284,7 @@ LeetCode collection.
 |          |Lint-437. Copy Books  ||
 | 博弈型动态规划         |  ||
 |          |Lint-394. Coins in a Line  ||
-| 背包型动态规划         |  ||
+| 背包型动态规划 --- 背包的总承重通常都需要放在状态里        |  ||
 |          |Lint-92. Backpack  ||
 |          |Lint-563. Backpack V  ||
 |          |  ||
