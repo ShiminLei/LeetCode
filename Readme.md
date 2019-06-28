@@ -34,11 +34,13 @@ LeetCode collection.
 |          |33. Search in Rotated Sorted Array  | 1-no |
 |          |81. Search in Rotated Sorted Array II  |1-no |
 |          |153. Find Minimum in Rotated Sorted Array  ||
-|          |702. Search in a Sorted Array of Unknown Size  |1-no |
+|          |702. Search in a Sorted Array of Unknown Size 这个题定量分析 ！ |1-no bilibili |
 |          |74. Search a 2D Matrix  |1-no |
 |          |240. Search a 2D Matrix II  |1-no |
 |          |162. Find Peak Element  |1-no |
 |          |69. Sqrt(x)  |1-yes |
+|          |4. Median of Two Sorted Array  和下面的题是一样的||
+|          |Laicode: Kth Smallest In Two Sorted Arrays 这个题非常重要！可以到 logn+logk  |bilibili|
 |          |378. Kth Smallest Element in a Sorted Matrix  ||
 |          |189. Rotate Array  ||
 |          |7. Reverse Integer  ||
@@ -47,8 +49,6 @@ LeetCode collection.
 |          |57. Insert Interval  ||
 |          |349. Intersection of Two Arrays  ||
 |          |经验：并不是所有二分法都适用于 left+1<right, 对于可以排除mid的问题，使用left<=right更简便  ||
-|          |  ||
-|          |  ||
 |          |  ||
 |          |  ||
 |          |  ||
