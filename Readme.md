@@ -257,7 +257,7 @@ LeetCode collection.
 |          |  ||
 |          |  ||
 |          |  ||
-| 九章算法 动态规划：       |  ||
+|       |九章算法 动态规划：       |  |
 |          |322. Coin Change 典型  ||
 |          |62. Unique Paths 计数型动态规划  ||
 |          |63. Unique Paths II 坐标型动态规划 ||
@@ -268,7 +268,7 @@ LeetCode collection.
 |          |361. Bomb Enemy 坐标型  ||
 |          |674. Longest Continuous Increasing Subsequence  ||
 |          |338. Counting Bits  ||
-| 序列型动态规划：        |  ||
+|      |序列型动态规划：          ||
 |          |Lint-843. Digital Flip   ||
 |          |256. Paint House 序列型动态规划  ||
 |          |265. Paint House II  ||
@@ -278,13 +278,13 @@ LeetCode collection.
 |          |188. Best Time to Buy and Sell Stock IV 还没做 ||
 |          |300. Longest Increasing Subsequence 还没做  ||
 |          |354. Russian Doll Envelopes 是300的二维问题  ||
-| 划分型动态规划          |  ||
+|       |划分型动态规划            ||
 |          |279. Perfect Squares  ||
 |          |132. Palindrome Partitioning II  ||
 |          |Lint-437. Copy Books  ||
-| 博弈型动态规划         |  ||
+|       |博弈型动态规划          ||
 |          |Lint-394. Coins in a Line  ||
-| 背包型动态规划 --- 背包的总承重通常都需要放在状态里        |  ||
+|       |背包型动态规划 --- 背包的总承重通常都需要放在状态里          ||
 |          |Lint-92. Backpack  ||
 |          |Lint-563. Backpack V  ||
 |          |Lint-564. Combination Sum IV  ||
