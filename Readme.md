@@ -285,11 +285,23 @@ LeetCode collection.
 |       |博弈型动态规划          ||
 |          |Lint-394. Coins in a Line  ||
 |       |背包型动态规划 --- 背包的总承重通常都需要放在状态里          ||
-|          |Lint-92. Backpack  ||
-|          |Lint-563. Backpack V  ||
-|          |Lint-564. Combination Sum IV  ||
-|          |Lint-125. Backpack II  ||
-|          |Lint-440. Backpack III  这一题可以把空间优化到极致，见视频讲解||
+|          |Lint-92. Backpack 可行性 ||
+|          |Lint-563. Backpack V 计数型 ||
+|          |Lint-564. Combination Sum IV 计数型 ||
+|          |Lint-125. Backpack II 最值型 ||
+|          |Lint-440. Backpack III 最值型  这一题可以一维数组把空间优化到极致，见视频讲解||
+|          |  ||
+|       |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
 |          |  ||
 | 贪心算法         |  ||
 |          |455. Assign Cookies  ||
