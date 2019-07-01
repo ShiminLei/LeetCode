@@ -294,7 +294,7 @@ LeetCode collection.
 |       |区间型动态规划  ||
 |          |516. Longest Palindromic Subsequence  在区间问题中，要按照区间长度的顺序计算||
 |          |  | 记忆化搜索，可以大大降低冗余。自上而下|
-|          |  ||
+|          |Lint-396. Coins in a Line III  ||
 |          |  ||
 |          |  ||
 |          |  ||
