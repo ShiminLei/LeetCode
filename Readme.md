@@ -297,7 +297,7 @@ LeetCode collection.
 |          |Lint-396. Coins in a Line III  ||
 |          |87. Scramble String  ||
 |          |312. Burst Balloons 消去型题目  ||
-|          |  ||
+|       | 双序列动态规划  ||
 |          |  ||
 |          |  ||
 |          |  ||
