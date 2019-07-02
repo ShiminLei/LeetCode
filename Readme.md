@@ -300,8 +300,8 @@ LeetCode collection.
 |       | 双序列动态规划  ||
 |          |Lint-77. Longest Common Subsequence  ||
 |          |97. Interleaving String  ||
-|          |  ||
-|          |  ||
+|          |72. Edit Distance  ||
+|          |10. Regular Expression Matching  ||
 |          |  ||
 | 贪心算法         |  ||
 |          |455. Assign Cookies  ||
