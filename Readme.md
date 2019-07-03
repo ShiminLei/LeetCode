@@ -308,8 +308,8 @@ LeetCode collection.
 |       | 动态规划难题专场 ||
 |          |Lint-752. Rogue Knight Sven  ||
 |          |221. Maximal Square  ||
-|          |  ||
-|          |  ||
+|          |Lint-971. Surplus Value Backpack 这道题不用掌握  ||
+|          |639. Decode Ways II  ||
 |          |  ||
 |          |  ||
 |          |  ||
