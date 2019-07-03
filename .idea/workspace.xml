@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44a12db2-4d1b-4781-b322-64a4866c4d06" name="Default Changelist" comment="&#10;c" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/LeetCode$LeetCode.coverage" NAME="LeetCode Coverage Results" MODIFIED="1552346967649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="365">
+                <caret line="305" column="16" lean-forward="true" selection-start-line="305" selection-start-column="16" selection-end-line="305" selection-end-column="16" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>20</find>
+      <find>19</find>
+      <find>33</find>
+      <find>28</find>
+      <find>74</find>
+      <find>378</find>
+      <find>55</find>
+      <find>75</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/502. IPO.py" />
+        <option value="$PROJECT_DIR$/490. The Maze.py" />
+        <option value="$PROJECT_DIR$/237. Delete Node in a Linked List.py" />
+        <option value="$PROJECT_DIR$/142. Linked List Cycle II.py" />
+        <option value="$PROJECT_DIR$/709. To Lower Case.py" />
+        <option value="$PROJECT_DIR$/258. Add Digits.py" />
+        <option value="$PROJECT_DIR$/415. Add Strings.py" />
+        <option value="$PROJECT_DIR$/202. Happy Number.py" />
+        <option value="$PROJECT_DIR$/529. Minesweeper.py" />
+        <option value="$PROJECT_DIR$/73. Set Matrix Zeroes.py" />
+        <option value="$PROJECT_DIR$/48. Rotate Image.py" />
+        <option value="$PROJECT_DIR$/344. Reverse String.py" />
+        <option value="$PROJECT_DIR$/414. Third Maximum Number.py" />
+        <option value="$PROJECT_DIR$/448. Find All Numbers Disappeared in an Array.py" />
+        <option value="$PROJECT_DIR$/66. Plus One.py" />
+        <option value="$PROJECT_DIR$/509. Fibonacci Number.py" />
+        <option value="$PROJECT_DIR$/89. Gray Code.py" />
+        <option value="$PROJECT_DIR$/26. Remove Duplicates from Sorted Array.py" />
+        <option value="$PROJECT_DIR$/90. Subsets II.py" />
+        <option value="$PROJECT_DIR$/60. Permutation Sequence.py" />
+        <option value="$PROJECT_DIR$/784. Letter Case Permutation.py" />
+        <option value="$PROJECT_DIR$/47. Permutations II.py" />
+        <option value="$PROJECT_DIR$/31. Next Permutation.py" />
+        <option value="$PROJECT_DIR$/39. Combination Sum.py" />
+        <option value="$PROJECT_DIR$/40. Combination Sum II.py" />
+        <option value="$PROJECT_DIR$/22. Generate Parentheses.py" />
+        <option value="$PROJECT_DIR$/51. N-Queens.py" />
+        <option value="$PROJECT_DIR$/153. Find Minimum in Rotated Sorted Array.py" />
+        <option value="$PROJECT_DIR$/33. Search in Rotated Sorted Array.py" />
+        <option value="$PROJECT_DIR$/35. Search Insert Position.py" />
+        <option value="$PROJECT_DIR$/34. Find First and Last Position of Element in Sorted Array.py" />
+        <option value="$PROJECT_DIR$/46. Permutations.py" />
+        <option value="$PROJECT_DIR$/189. Rotate Array.py" />
+        <option value="$PROJECT_DIR$/7. Reverse Integer.py" />
+        <option value="$PROJECT_DIR$/475. Heaters.py" />
+        <option value="$PROJECT_DIR$/69. Sqrt(x).py" />
+        <option value="$PROJECT_DIR$/74. Search a 2D Matrix.py" />
+        <option value="$PROJECT_DIR$/240. Search a 2D Matrix II.py" />
+        <option value="$PROJECT_DIR$/78. Subsets.py" />
+        <option value="$PROJECT_DIR$/378. Kth Smallest Element in a Sorted Matrix.py" />
+        <option value="$PROJECT_DIR$/56. Merge Intervals.py" />
+        <option value="$PROJECT_DIR$/57. Insert Interval.py" />
+        <option value="$PROJECT_DIR$/50. Pow(x, n).py" />
+        <option value="$PROJECT_DIR$/162. Find Peak Element.py" />
+        <option value="$PROJECT_DIR$/287. Find the Duplicate Number.py" />
+        <option value="$PROJECT_DIR$/349. Intersection of Two Arrays.py" />
+        <option value="$PROJECT_DIR$/350. Intersection of Two Arrays II.py" />
+        <option value="$PROJECT_DIR$/493. Reverse Pairs.py" />
+        <option value="$PROJECT_DIR$/523. Continuous Subarray Sum.py" />
+        <option value="$USER_HOME$/Desktop/Udacity 全栈工程师/project1 /code.py" />
+        <option value="$PROJECT_DIR$/Readme.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="4.LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4.LeetCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="LeetCode" type="JupiterNotebook" factoryName="Jupyter Notebook">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/anaconda3/envs/python3_simple/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44a12db2-4d1b-4781-b322-64a4866c4d06" name="Default Changelist" comment="" />
+      <created>1552255297413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552255297413</updated>
+      <workItem from="1552255299509" duration="5427000" />
+      <workItem from="1552340776282" duration="74365000" />
+      <workItem from="1553978790822" duration="347000" />
+      <workItem from="1554019488659" duration="26794000" />
+      <workItem from="1555294695745" duration="3931000" />
+      <workItem from="1555715228908" duration="2412000" />
+      <workItem from="1555809689611" duration="2897000" />
+      <workItem from="1555828533567" duration="2352000" />
+      <workItem from="1555897428474" duration="2095000" />
+      <workItem from="1555958056448" duration="2117000" />
+      <workItem from="1556043262312" duration="1566000" />
+      <workItem from="1556179144529" duration="294000" />
+      <workItem from="1556231605004" duration="2632000" />
+      <workItem from="1556396062397" duration="4892000" />
+      <workItem from="1556909845579" duration="1597000" />
+      <workItem from="1557177697382" duration="28000" />
+      <workItem from="1557205025904" duration="357000" />
+      <workItem from="1557376086569" duration="8797000" />
+      <workItem from="1557961282691" duration="1167000" />
+      <workItem from="1557963700193" duration="745000" />
+      <workItem from="1558048198247" duration="1211000" />
+      <workItem from="1558139735181" duration="1894000" />
+      <workItem from="1558219356006" duration="399000" />
+      <workItem from="1558294593881" duration="1476000" />
+      <workItem from="1559612539428" duration="211000" />
+      <workItem from="1560021395151" duration="21000" />
+      <workItem from="1560138495594" duration="35463000" />
+      <workItem from="1561053951614" duration="4624000" />
+      <workItem from="1561155832955" duration="2590000" />
+      <workItem from="1561230598919" duration="23611000" />
+    </task>
+    <task id="LOCAL-00001" summary="c">
+      <created>1552255333132</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552255333132</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&#10;c">
+      <created>1552255692524</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1552255692524</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&#10;c">
+      <created>1552256039456</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552256039456</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&#10;c">
+      <created>1552256101376</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1552256101376</updated>
+    </task>
+    <task id="LOCAL-00005" summary="&#10;c">
+      <created>1552261465983</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1552261465983</updated>
+    </task>
+    <task id="LOCAL-00006" summary="&#10;c">
+      <created>1552262410121</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1552262410121</updated>
+    </task>
+    <task id="LOCAL-00007" summary="&#10;c">
+      <created>1552269073347</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1552269073347</updated>
+    </task>
+    <task id="LOCAL-00008" summary="&#10;c">
+      <created>1552271198915</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1552271198915</updated>
+    </task>
+    <task id="LOCAL-00009" summary="&#10;c">
+      <created>1552343652688</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1552343652688</updated>
+    </task>
+    <task id="LOCAL-00010" summary="&#10;c">
+      <created>1552343750951</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1552343750951</updated>
+    </task>
+    <task id="LOCAL-00011" summary="&#10;c">
+      <created>1552356137775</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1552356137775</updated>
+    </task>
+    <task id="LOCAL-00012" summary="&#10;c">
+      <created>1552356556048</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1552356556048</updated>
+    </task>
+    <task id="LOCAL-00013" summary="&#10;c">
+      <created>1552361307822</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1552361307822</updated>
+    </task>
+    <task id="LOCAL-00014" summary="&#10;c">
+      <created>1552361494894</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1552361494894</updated>
+    </task>
+    <task id="LOCAL-00015" summary="&#10;c">
+      <created>1552361561638</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1552361561638</updated>
+    </task>
+    <task id="LOCAL-00016" summary="&#10;c">
+      <created>1552365741718</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1552365741718</updated>
+    </task>
+    <task id="LOCAL-00017" summary="&#10;c">
+      <created>1552365796070</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1552365796070</updated>
+    </task>
+    <task id="LOCAL-00018" summary="&#10;c">
+      <created>1552365969301</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1552365969301</updated>
+    </task>
+    <task id="LOCAL-00019" summary="&#10;c">
+      <created>1552366021704</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1552366021704</updated>
+    </task>
+    <task id="LOCAL-00020" summary="&#10;c">
+      <created>1552366073396</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1552366073396</updated>
+    </task>
+    <task id="LOCAL-00021" summary="&#10;c">
+      <created>1552366146511</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1552366146511</updated>
+    </task>
+    <task id="LOCAL-00022" summary="&#10;c">
+      <created>1552366203528</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1552366203528</updated>
+    </task>
+    <task id="LOCAL-00023" summary="&#10;c">
+      <created>1552366255727</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1552366255727</updated>
+    </task>
+    <task id="LOCAL-00024" summary="&#10;c">
+      <created>1552453922635</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1552453922635</updated>
+    </task>
+    <task id="LOCAL-00025" summary="&#10;c">
+      <created>1552542680164</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1552542680164</updated>
+    </task>
+    <task id="LOCAL-00026" summary="&#10;c">
+      <created>1552778372308</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1552778372308</updated>
+    </task>
+    <task id="LOCAL-00027" summary="&#10;c">
+      <created>1552794114346</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1552794114346</updated>
+    </task>
+    <task id="LOCAL-00028" summary="&#10;c">
+      <created>1552852969888</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1552852969888</updated>
+    </task>
+    <task id="LOCAL-00029" summary="&#10;c">
+      <created>1552872139811</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1552872139811</updated>
+    </task>
+    <task id="LOCAL-00030" summary="&#10;c">
+      <created>1552884079002</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1552884079002</updated>
+    </task>
+    <task id="LOCAL-00031" summary="&#10;c">
+      <created>1552947616807</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1552947616807</updated>
+    </task>
+    <task id="LOCAL-00032" summary="&#10;c">
+      <created>1552961649094</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1552961649094</updated>
+    </task>
+    <task id="LOCAL-00033" summary="&#10;c">
+      <created>1552978074191</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1552978074191</updated>
+    </task>
+    <task id="LOCAL-00034" summary="&#10;c">
+      <created>1554409036318</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1554409036318</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="216312000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20415473" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32961586" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32961586" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007163" side_tool="true" weight="0.28996283" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49928367" visible="true" weight="0.23915738" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32961586" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Scheme.REPL" order="6" side_tool="true" />
+      <window_info anchor="right" id="Database" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="c" />
+    <MESSAGE value="&#10;c" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;c" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/142. Linked List Cycle II.py" />
+    <entry file="file://$PROJECT_DIR$/709. To Lower Case.py" />
+    <entry file="file://$PROJECT_DIR$/258. Add Digits.py" />
+    <entry file="file://$PROJECT_DIR$/415. Add Strings.py" />
+    <entry file="file://$PROJECT_DIR$/202. Happy Number.py" />
+    <entry file="file://$PROJECT_DIR$/529. Minesweeper.py" />
+    <entry file="file://$PROJECT_DIR$/73. Set Matrix Zeroes.py" />
+    <entry file="file://$PROJECT_DIR$/48. Rotate Image.py" />
+    <entry file="file://$PROJECT_DIR$/344. Reverse String.py" />
+    <entry file="file://$PROJECT_DIR$/414. Third Maximum Number.py" />
+    <entry file="file://$PROJECT_DIR$/448. Find All Numbers Disappeared in an Array.py" />
+    <entry file="file://$PROJECT_DIR$/66. Plus One.py" />
+    <entry file="file://$PROJECT_DIR$/509. Fibonacci Number.py" />
+    <entry file="file://$PROJECT_DIR$/89. Gray Code.py" />
+    <entry file="file://$PROJECT_DIR$/26. Remove Duplicates from Sorted Array.py" />
+    <entry file="file://$PROJECT_DIR$/90. Subsets II.py" />
+    <entry file="file://$PROJECT_DIR$/60. Permutation Sequence.py" />
+    <entry file="file://$PROJECT_DIR$/784. Letter Case Permutation.py" />
+    <entry file="file://$PROJECT_DIR$/47. Permutations II.py" />
+    <entry file="file://$PROJECT_DIR$/31. Next Permutation.py" />
+    <entry file="file://$PROJECT_DIR$/40. Combination Sum II.py" />
+    <entry file="file://$PROJECT_DIR$/39. Combination Sum.py" />
+    <entry file="file://$PROJECT_DIR$/22. Generate Parentheses.py" />
+    <entry file="file://$PROJECT_DIR$/51. N-Queens.py" />
+    <entry file="file://$PROJECT_DIR$/153. Find Minimum in Rotated Sorted Array.py" />
+    <entry file="file://$PROJECT_DIR$/33. Search in Rotated Sorted Array.py" />
+    <entry file="file://$PROJECT_DIR$/35. Search Insert Position.py" />
+    <entry file="file://$PROJECT_DIR$/34. Find First and Last Position of Element in Sorted Array.py" />
+    <entry file="file://$PROJECT_DIR$/46. Permutations.py" />
+    <entry file="file://$PROJECT_DIR$/189. Rotate Array.py" />
+    <entry file="file://$PROJECT_DIR$/7. Reverse Integer.py" />
+    <entry file="file://$PROJECT_DIR$/475. Heaters.py" />
+    <entry file="file://$PROJECT_DIR$/69. Sqrt(x).py" />
+    <entry file="file://$PROJECT_DIR$/74. Search a 2D Matrix.py" />
+    <entry file="file://$PROJECT_DIR$/240. Search a 2D Matrix II.py" />
+    <entry file="file://$PROJECT_DIR$/78. Subsets.py" />
+    <entry file="file://$PROJECT_DIR$/378. Kth Smallest Element in a Sorted Matrix.py" />
+    <entry file="file://$PROJECT_DIR$/57. Insert Interval.py" />
+    <entry file="file://$PROJECT_DIR$/56. Merge Intervals.py" />
+    <entry file="file://$PROJECT_DIR$/162. Find Peak Element.py" />
+    <entry file="file://$PROJECT_DIR$/287. Find the Duplicate Number.py" />
+    <entry file="file://$PROJECT_DIR$/349. Intersection of Two Arrays.py" />
+    <entry file="file://$PROJECT_DIR$/0try.ipynb" />
+    <entry file="file://$PROJECT_DIR$/50. Pow(x, n).py" />
+    <entry file="file://$PROJECT_DIR$/373. Find K Pairs with Smallest Sums.py" />
+    <entry file="file://$PROJECT_DIR$/350. Intersection of Two Arrays II.py" />
+    <entry file="file://$PROJECT_DIR$/493. Reverse Pairs.py" />
+    <entry file="file://$PROJECT_DIR$/523. Continuous Subarray Sum.py" />
+    <entry file="file://$PROJECT_DIR$/0.笔记.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Udacity 全栈工程师/project1 /code.py" />
+    <entry file="file://$PROJECT_DIR$/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="365">
+            <caret line="305" column="16" lean-forward="true" selection-start-line="305" selection-start-column="16" selection-end-line="305" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
