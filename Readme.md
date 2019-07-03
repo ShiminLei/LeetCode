@@ -276,7 +276,7 @@ LeetCode collection.
 |          |122. Best Time to Buy and Sell Stock II  ||
 |          |123. Best Time to Buy and Sell Stock III  ||
 |          |188. Best Time to Buy and Sell Stock IV 还没做 ||
-|          |300. Longest Increasing Subsequence 还没做  ||
+|          |300. Longest Increasing Subsequence   ||
 |          |354. Russian Doll Envelopes 是300的二维问题  ||
 |       |划分型动态规划            ||
 |          |279. Perfect Squares  ||
@@ -307,7 +307,7 @@ LeetCode collection.
 |          |44. Wildcard Matching 还没做 ||
 |       | 动态规划难题专场 ||
 |          |Lint-752. Rogue Knight Sven  ||
-|          |  ||
+|          |221. Maximal Square  ||
 |          |  ||
 | 贪心算法         |  ||
 |          |455. Assign Cookies  ||
