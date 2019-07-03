@@ -303,7 +303,7 @@ LeetCode collection.
 |          |72. Edit Distance  ||
 |          |10. Regular Expression Matching  ||
 |          |474. Ones and Zeroes  ||
-|          |  ||
+|          |115. Distinct Subsequences  ||
 |          |  ||
 |          |  ||
 |          |  ||
