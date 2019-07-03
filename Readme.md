@@ -302,7 +302,7 @@ LeetCode collection.
 |          |97. Interleaving String  ||
 |          |72. Edit Distance  ||
 |          |10. Regular Expression Matching  ||
-|          |  ||
+|          |474. Ones and Zeroes  ||
 |          |  ||
 |          |  ||
 |          |  ||
