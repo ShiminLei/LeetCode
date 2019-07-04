@@ -65,15 +65,15 @@ LeetCode collection.
 |          |  ||
 |          |  ||
 | 分治法|  ||
-|           |50. Pow(x, n)||
-|           |215. Kth Largest Element in an Array  ||
-|           |349. Intersection of Two Arrays  ||
-|           |350. Intersection of Two Arrays II  ||
-|           |493. Reverse Pairs  ||
-|           |53.Maximum Subarray  这题实际是动态规划||
-|           |311. Sparse Matrix Multiplication ||
-|           |523. Continuous Subarray Sum  ||
-|          |  ||
+|          |50. Pow(x, n)||
+|          |215. Kth Largest Element in an Array  ||
+|          |349. Intersection of Two Arrays  ||
+|          |350. Intersection of Two Arrays II  ||
+|          |493. Reverse Pairs  ||
+|          |53.Maximum Subarray  这题实际是动态规划||
+|          |311. Sparse Matrix Multiplication ||
+|          |523. Continuous Subarray Sum  ||
+|          |241. Different Ways to Add Parentheses  ||
 |          |  ||
 |          |  ||
 |          |  ||
