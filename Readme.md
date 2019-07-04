@@ -73,9 +73,9 @@ LeetCode collection.
 |          |53.Maximum Subarray  这题实际是动态规划||
 |          |311. Sparse Matrix Multiplication ||
 |          |523. Continuous Subarray Sum  ||
-|          |241. Different Ways to Add Parentheses  ||
-|          |  ||
-|          |  ||
+|          |241. Different Ways to Add Parentheses 分治，递归 ||
+|          |139. Word Break  ||
+|          |140. Word Break II  ||
 |          |  ||
 |          |  ||
 |          |  ||
