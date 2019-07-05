@@ -358,8 +358,12 @@ LeetCode collection.
 |          |79. Word Search 还没做  ||
 |          |212. Word Search II 还没做  ||
 |          |648. Replace Words 还没做  ||
+|          |6. ZigZag Conversion  ||
 |          |  ||
-
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
 
 
 | Question Numbers  | :sparkles: Star ! |Second|Third|Forth|Fifth|
