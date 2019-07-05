@@ -225,6 +225,13 @@ LeetCode collection.
 |          |75. Sort Colors  荷兰国旗：很经典的一道题||
 |          |11. Container With Most Water 装水的题 ||
 |          |42. Trapping Rain Water  | 不会 |
+|          |15. 3Sum  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
 |滑动窗口          |  ||
 |          |845. Longest Mountain in Array  |未做|
 |          |26. Remove Duplicates from Sorted Array  ||
@@ -253,7 +260,6 @@ LeetCode collection.
 |          |32. Longest Valid Parentheses 还没做  ||
 |          |72. Edit Distance 还没做  ||
 |          |70. Climbing Stairs 还没做  ||
-|          |  ||
 |          |  ||
 |          |  ||
 |          |  ||
