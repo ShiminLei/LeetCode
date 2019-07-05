@@ -294,6 +294,7 @@ LeetCode collection.
 |       |区间型动态规划  | 取头 取尾|
 |          |516. Longest Palindromic Subsequence  在区间问题中，要按照区间长度的顺序计算||
 |          |  | 记忆化搜索，可以大大降低冗余。自上而下|
+|          |5. Longest Palindromic Substring  ||
 |          |Lint-396. Coins in a Line III  ||
 |          |87. Scramble String  ||
 |          |312. Burst Balloons 消去型题目  ||
@@ -310,7 +311,6 @@ LeetCode collection.
 |          |639. Decode Ways II 还没做 ||
 |          |Lint-752. Rogue Knight Sven  ||
 |          |Lint-971. Surplus Value Backpack 这道题不用掌握  ||
-|          |  ||
 |          |  ||
 |          |  ||
 | 贪心算法         |  ||
