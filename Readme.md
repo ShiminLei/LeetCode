@@ -359,10 +359,10 @@ LeetCode collection.
 |          |212. Word Search II 还没做  ||
 |          |648. Replace Words 还没做  ||
 |          |6. ZigZag Conversion  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
+|          |8. String to Integer (atoi)  ||
+|          |12. Integer to Roman  ||
+|          |13. Roman to Integer  ||
+|          |14. Longest Common Prefix  ||
 |          |  ||
 
 
