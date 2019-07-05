@@ -311,7 +311,7 @@ LeetCode collection.
 |          |639. Decode Ways II 还没做 ||
 |          |Lint-752. Rogue Knight Sven  ||
 |          |Lint-971. Surplus Value Backpack 这道题不用掌握  ||
-|          |  ||
+|          |Lint-89. k Sum  ||
 |          |  ||
 | 贪心算法         |  ||
 |          |455. Assign Cookies  ||
