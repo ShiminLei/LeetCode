@@ -191,8 +191,16 @@ LeetCode collection.
 |          |207. Course Schedule  拓扑排序  ||
 |          |210. Course Schedule II  ||
 |          |611. Knight Shortest Path  用字典可以记录 见过的点，和对应距离||
+|          |444. Sequence Reconstruction  ||
+|          |  ||
+|          |  ||
+|          |  ||
 |          |  ||
 |          |133. Clone Graph  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
 |          |  ||
 |          |490. The Maze  ||
 |          |505. The Maze II  | 黑色（已经pop出来的,才放seen）不压栈，不压队。Dijkstra是BFS|
