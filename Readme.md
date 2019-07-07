@@ -189,6 +189,7 @@ LeetCode collection.
 |       |宽度优先搜索  | 重要：能用BFS做的题，就不要用DFS！|
 |          |200. Number of Islands  ||
 |          |611. Knight Shortest Path  用字典可以记录 见过的点，和对应距离||
+|          |133. Clone Graph  ||
 |          |  ||
 |          |  ||
 |          |  ||
@@ -200,7 +201,6 @@ LeetCode collection.
 |          | ---- ||
 |          |  ||
 |          |  ||
-|          |133. Clone Graph  ||
 |          |  ||
 |          |  ||
 |          |  ||
