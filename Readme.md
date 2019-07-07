@@ -198,8 +198,8 @@ LeetCode collection.
 |          |207. Course Schedule   ||
 |          |210. Course Schedule II  ||
 |          |444. Sequence Reconstruction  ||
+|          |Lint-127. Topological Sorting  ||
 |          | ---- ||
-|          |  ||
 |          |  ||
 |          |  ||
 |          |  ||
