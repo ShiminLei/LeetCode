@@ -190,7 +190,7 @@ LeetCode collection.
 |          |200. Number of Islands  ||
 |          |207. Course Schedule  拓扑排序  ||
 |          |210. Course Schedule II  ||
-|          |  ||
+|          |611. Knight Shortest Path  ||
 |          |  ||
 |          |133. Clone Graph  ||
 |          |  ||
