@@ -149,7 +149,7 @@ LeetCode collection.
 |          |94. Binary Tree Inorder Traversal 用栈实现iterative ||
 |          |144. Binary Tree Preorder Traversal  ||
 |          |145. Binary Tree Postorder Traversal  ||
-|          |102. Binary Tree Level Order Traversal  ||
+|          |102. Binary Tree Level Order Traversal  这个一道BFS||
 |          |107. Binary Tree Level Order Traversal II  ||
 |          |103. Binary Tree Zigzag Level Order Traversal  ||
 |          |105. Construct Binary Tree from Preorder and Inorder Traversal 这题不太理解本质 ||
@@ -188,6 +188,7 @@ LeetCode collection.
 | 图论          |  ||
 |       |宽度优先搜索  | 重要：能用BFS做的题，就不要用DFS！|
 |          |133. Clone Graph  ||
+|          |200. Number of Islands  ||
 |          |  ||
 |          |  ||
 |          |  ||
@@ -197,7 +198,6 @@ LeetCode collection.
 |          |499. The Maze III  ||
 |          |733. Flood Fill  ||
 |          |547. Friend Circles  ||
-|          |200. Number of Islands  ||
 |          |695. Max Area of Island |stack,queue,只要append完了，立刻放seen|
 |          |690. Employee Importance  ||
 |          |785. Is Graph Bipartite?  |n|
