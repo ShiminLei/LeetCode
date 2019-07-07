@@ -187,11 +187,12 @@ LeetCode collection.
 |          |  ||
 | 图论          |  ||
 |       |宽度优先搜索  | 重要：能用BFS做的题，就不要用DFS！|
-|          |133. Clone Graph  ||
 |          |200. Number of Islands  ||
+|          |207. Course Schedule  拓扑排序  ||
+|          |210. Course Schedule II  ||
 |          |  ||
 |          |  ||
-|          |  ||
+|          |133. Clone Graph  ||
 |          |  ||
 |          |490. The Maze  ||
 |          |505. The Maze II  | 黑色（已经pop出来的,才放seen）不压栈，不压队。Dijkstra是BFS|
@@ -206,7 +207,6 @@ LeetCode collection.
 |          |542. 01 Matrix  |n 不会|
 |          |721. Accounts Merge  |考察点，把数据转换成图|
 |          |127. Word Ladder  ||
-|          |207. Course Schedule  拓扑排序  ||
 |          |210. Course Schedule II  ||
 |          |630. Course Schedule III  ||
 |          |997. Find the Town Judge  ||
