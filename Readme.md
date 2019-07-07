@@ -188,12 +188,16 @@ LeetCode collection.
 | 图论          |  ||
 |       |宽度优先搜索  | 重要：能用BFS做的题，就不要用DFS！|
 |          |200. Number of Islands  ||
-|          |207. Course Schedule  拓扑排序  ||
-|          |210. Course Schedule II  ||
 |          |611. Knight Shortest Path  用字典可以记录 见过的点，和对应距离||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          | 拓扑排序 ||
+|          |207. Course Schedule   ||
+|          |210. Course Schedule II  ||
 |          |444. Sequence Reconstruction  ||
-|          |  ||
-|          |  ||
+|          | ---- ||
 |          |  ||
 |          |  ||
 |          |133. Clone Graph  ||
