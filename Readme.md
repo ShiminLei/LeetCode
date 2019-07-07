@@ -186,7 +186,7 @@ LeetCode collection.
 |          |  ||
 |          |  ||
 | 图论          |  ||
-|       |宽度优先搜索  ||
+|       |宽度优先搜索  | 重要：能用BFS做的题，就不要用DFS！|
 |          |133. Clone Graph  ||
 |          |  ||
 |          |  ||
@@ -233,7 +233,7 @@ LeetCode collection.
 |          |42. Trapping Rain Water  | 不会 |
 |          |15. 3Sum  ||
 |          |16. 3Sum Closest  ||
-|          |  ||
+|          |125. Valid Palindrome  ||
 |          |  ||
 |          |  ||
 |          |  ||
