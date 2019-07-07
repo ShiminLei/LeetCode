@@ -190,7 +190,7 @@ LeetCode collection.
 |          |200. Number of Islands  ||
 |          |611. Knight Shortest Path  用字典可以记录 见过的点，和对应距离||
 |          |133. Clone Graph  ||
-|          |  ||
+|          |297. Serialize and Deserialize Binary Tree  ||
 |          |  ||
 |          |  ||
 |          |  ||
