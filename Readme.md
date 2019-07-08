@@ -126,6 +126,9 @@ LeetCode collection.
 |          |946. Validate Stack Sequences  ||
 |          |621. Task Scheduler  还没做 ||
 |          |622. Design Circular Queue  还没做 ||
+|          |  ||
+|          |  ||
+|          |  ||
 | 哈希表          |  ||
 |          |387. First Unique Character in a String  ||
 |          |349. Intersection of Two Arrays  ||
@@ -137,6 +140,9 @@ LeetCode collection.
 |          |500. Keyboard Row  ||
 |          |290. Word Pattern  ||
 |          |146. LRU Cache  ||
+|          |  ||
+|          |  ||
+|          |  ||
 |          |  ||
 | 树          |  ||
 |          |104. Maximum Depth of Binary Tree  ||
@@ -339,6 +345,9 @@ LeetCode collection.
 |          |  ||
 |          |  ||
 |          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
 | 位操作          |  ||
 |          |29. Divide Two Integers  ||
 |          |191. Number of 1 Bits  ||
@@ -378,6 +387,9 @@ LeetCode collection.
 |          |12. Integer to Roman  ||
 |          |13. Roman to Integer  ||
 |          |14. Longest Common Prefix  ||
+|          |  ||
+|          |  ||
+|          |  ||
 |          |  ||
 
 
