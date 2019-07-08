@@ -28,13 +28,14 @@ LeetCode collection.
 |          |22. Generate Parentheses  ||
 |          |51. N-Queens ||
 | 二分搜索          |  ||
+|          |50. Pow(x, n)||
 |          |34. Find First and Last Position of Element in Sorted Array  |1-yes |
 |          |35. Search Insert Position  |1-yes|
 |          |658. Find K Closest Elements  |1-no |
 |          |33. Search in Rotated Sorted Array  | 1-no |
 |          |81. Search in Rotated Sorted Array II  |1-no |
 |          |153. Find Minimum in Rotated Sorted Array  ||
-|          |702. Search in a Sorted Array of Unknown Size 这个题定量分析 ！ |1-no bilibili |
+|          |702. Search in a Sorted Array of Unknown Size 这个题定量分析 ！ |1-no |
 |          |74. Search a 2D Matrix  |1-no |
 |          |240. Search a 2D Matrix II  |1-no |
 |          |162. Find Peak Element  |1-no |
@@ -48,8 +49,11 @@ LeetCode collection.
 |          |56. Merge Intervals  ||
 |          |57. Insert Interval  ||
 |          |349. Intersection of Two Arrays  ||
-|          |经验：并不是所有二分法都适用于 left+1<right, 对于可以排除mid的问题，使用left<=right更简便  ||
+|          |278. First Bad Version  ||
 |          |  ||
+|          |  ||
+|          |  ||
+|          |经验：并不是所有二分法都适用于 left+1<right, 对于可以排除mid的问题，使用left<=right更简便  ||
 |          |  ||
 |          |  ||
 | 排序         |  ||
@@ -65,7 +69,6 @@ LeetCode collection.
 |          |  ||
 |          |  ||
 | 分治法|  ||
-|          |50. Pow(x, n)||
 |          |215. Kth Largest Element in an Array  ||
 |          |349. Intersection of Two Arrays  ||
 |          |350. Intersection of Two Arrays II  ||
