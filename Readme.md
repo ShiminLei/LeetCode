@@ -387,7 +387,7 @@ LeetCode collection.
 |          |5. Longest Palindromic Substring  ||
 |          |242. Valid Anagram  ||
 |          |796. Rotate String  ||
-|          |Lint-39. Recover Rotated Sorted Array 三步翻转法 ||
+|          |Lint-39. Recover Rotated Sorted Array 三步翻转法 ！！！！ ||
 |          |9. Palindrome Number 还没做 ||
 |          |409. Longest Palindrome  ||
 |          |266. Palindrome Permutation  ||
