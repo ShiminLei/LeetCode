@@ -248,6 +248,15 @@ LeetCode collection.
 |          |  ||
 |          |  ||
 | 双指针          |  ||
+|          |170. Two Sum III - Data structure design  ||
+|          |283. Move Zeroes  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
 |          |26. Remove Duplicates from Sorted Array 兔子乌龟 ||
 |          |344. Reverse String  ||
 |          |1. Two Sum  其实这个是哈希表||
@@ -263,9 +272,6 @@ LeetCode collection.
 |          |15. 3Sum  ||
 |          |16. 3Sum Closest  ||
 |          |125. Valid Palindrome  ||
-|          |  ||
-|          |  ||
-|          |  ||
 |          |  ||
 |滑动窗口          |  ||
 |          |845. Longest Mountain in Array  |未做|
