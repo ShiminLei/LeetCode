@@ -254,6 +254,9 @@ LeetCode collection.
 |          |344. Reverse String  ||
 |          |1. Two Sum  其实这个是哈希表||
 |          |167. Two Sum II - Input array is sorted  ||
+|          |15. 3Sum  ||
+|          |16. 3Sum Closest  ||
+|          |18. 4Sum  ||
 |          |21. Merge Two Sorted Lists  ||
 |          |349. Intersection of Two Arrays  ||
 |          |523. Continuous Subarray Sum 不会 ||
@@ -262,10 +265,7 @@ LeetCode collection.
 |          |75. Sort Colors  荷兰国旗：很经典的一道题||
 |          |11. Container With Most Water 装水的题 ||
 |          |42. Trapping Rain Water  | 不会 |
-|          |15. 3Sum  ||
-|          |16. 3Sum Closest  ||
 |          |125. Valid Palindrome  ||
-|          |  ||
 |          |  ||
 |          |  ||
 |          |  ||
