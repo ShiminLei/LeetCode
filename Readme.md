@@ -221,8 +221,14 @@ LeetCode collection.
 |          |78. Subsets  ||
 |          |90. Subsets II  ||
 |          |51. N-Queens ||
-|          | --- ||
+|          |291. Word Pattern II  ||
 |          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          | --- ||
 |          |  ||
 |          |490. The Maze  ||
 |          |505. The Maze II  | 黑色（已经pop出来的,才放seen）不压栈，不压队。Dijkstra是BFS|
