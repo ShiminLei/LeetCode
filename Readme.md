@@ -16,15 +16,11 @@ LeetCode collection.
 |          |  ||
 | 递归          |  ||
 |          |509. Fibonacci Number  ||
-|          |78. Subsets  ||
-|          |90. Subsets II  ||
 |          |60. Permutation Sequence  ||
 |          |784. Letter Case Permutation  ||
 |          |46. Permutations  ||
 |          |47. Permutations II  ||
 |          |31. Next Permutation  ||
-|          |39. Combination Sum  ||
-|          |40. Combination Sum II  ||
 |          |22. Generate Parentheses  ||
 |          |51. N-Queens ||
 | 二分搜索          |  ||
@@ -218,8 +214,12 @@ LeetCode collection.
 |          |444. Sequence Reconstruction  ||
 |          |Lint-127. Topological Sorting  ||
 |          | ---- ||
-|          |  ||
-|          |  ||
+|       | 深度优先搜索 ||
+|          |17. Letter Combinations of a Phone Number 回溯法  ||
+|          |78. Subsets  ||
+|          |90. Subsets II  ||
+|          |39. Combination Sum 回溯法 ||
+|          |40. Combination Sum II  ||
 |          |  ||
 |          |  ||
 |          |  ||
