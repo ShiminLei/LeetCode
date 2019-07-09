@@ -221,7 +221,7 @@ LeetCode collection.
 |          |78. Subsets  ||
 |          |90. Subsets II  ||
 |          |51. N-Queens ||
-|          |291. Word Pattern II  ||
+|          |291. Word Pattern II  回溯 ||
 |          |  ||
 |          |  ||
 |          |  ||
