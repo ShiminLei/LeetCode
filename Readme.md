@@ -99,7 +99,7 @@ LeetCode collection.
 |          |82. Remove Duplicates from Sorted List II  ||
 |          |287. Find the Duplicate Number 兔子和乌龟 ||
 |          |61. Rotate List  还没做||
-|          |  ||
+|          |24. Swap Nodes in Pairs  ||
 |          |  ||
 |          |  ||
 |          |  ||
