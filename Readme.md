@@ -18,11 +18,8 @@ LeetCode collection.
 |          |509. Fibonacci Number  ||
 |          |60. Permutation Sequence  ||
 |          |784. Letter Case Permutation  ||
-|          |46. Permutations  ||
-|          |47. Permutations II  ||
 |          |31. Next Permutation  ||
 |          |22. Generate Parentheses  ||
-|          |51. N-Queens ||
 | 二分搜索          |  ||
 |          |50. Pow(x, n)||
 |          |34. Find First and Last Position of Element in Sorted Array  |1-yes |
@@ -143,6 +140,21 @@ LeetCode collection.
 |          |  ||
 |          |  ||
 |          |  ||
+| 堆          |  ||
+|          |215. Kth Largest Element in an Array  |y |
+|          |692. Top K Frequent Words  ||
+|          |263. Ugly Number  ||
+|          |264. Ugly Number II  ||
+|          |373. Find K Pairs with Smallest Sums  |n |
+|          |23. Merge k Sorted Lists  ||
+|          |295. Find Median from Data Stream  ||
+|          |502. IPO  ||
+|          |451. Sort Characters By Frequency 还没做  ||
+|          |871. Minimum Number of Refueling Stops 还没做  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
 | 树          |  ||
 |       | 二叉树   ||
 |          |270. Closest Binary Search Tree Value  ||
@@ -186,21 +198,6 @@ LeetCode collection.
 |          |  ||
 |          |  ||
 |          |  ||
-| 堆          |  ||
-|          |215. Kth Largest Element in an Array  |y |
-|          |692. Top K Frequent Words  ||
-|          |263. Ugly Number  ||
-|          |264. Ugly Number II  ||
-|          |373. Find K Pairs with Smallest Sums  |n |
-|          |23. Merge k Sorted Lists  ||
-|          |295. Find Median from Data Stream  ||
-|          |502. IPO  ||
-|          |451. Sort Characters By Frequency 还没做  ||
-|          |871. Minimum Number of Refueling Stops 还没做  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
 | 图论          |  ||
 |       |宽度优先搜索  | 重要：能用BFS做的题，就不要用DFS！|
 |          |200. Number of Islands  ||
@@ -216,10 +213,13 @@ LeetCode collection.
 |          | ---- ||
 |       | 深度优先搜索 ||
 |          |17. Letter Combinations of a Phone Number 回溯法  ||
+|          |46. Permutations  ||
+|          |47. Permutations II  ||
 |          |39. Combination Sum 回溯法 ||
 |          |40. Combination Sum II  ||
 |          |78. Subsets  ||
 |          |90. Subsets II  ||
+|          |51. N-Queens ||
 |          |  ||
 |          |  ||
 |          |  ||
