@@ -212,6 +212,7 @@ LeetCode collection.
 |          |Lint-127. Topological Sorting  ||
 |          | ---- ||
 |       | 深度优先搜索 ||
+|          | 回溯法 ||
 |          |17. Letter Combinations of a Phone Number 回溯法  ||
 |          |46. Permutations  ||
 |          |47. Permutations II  ||
@@ -220,8 +221,7 @@ LeetCode collection.
 |          |78. Subsets  ||
 |          |90. Subsets II  ||
 |          |51. N-Queens ||
-|          |  ||
-|          |  ||
+|          | --- ||
 |          |  ||
 |          |  ||
 |          |490. The Maze  ||
