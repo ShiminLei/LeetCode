@@ -52,20 +52,20 @@ LeetCode collection.
 | 排序         |  ||
 |          |969. Pancake Sorting 还没做 ||
 |          |347. Top K Frequent Elements 桶排序  ||
+|          |296. Best Meeting Point  ||
+|          | 归并变种 ||
+|          |493. Reverse Pairs 归并排序 ||
 |          |  ||
 |          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
+|          | --- ||
+|          | 快排变种 ||
+|          |215. Kth Largest Element in an Array  ||
 |          |  ||
 |          |  ||
 |          |  ||
 | 分治法|  ||
-|          |215. Kth Largest Element in an Array  ||
 |          |349. Intersection of Two Arrays  ||
 |          |350. Intersection of Two Arrays II  ||
-|          |493. Reverse Pairs  ||
 |          |53.Maximum Subarray  这题实际是动态规划||
 |          |311. Sparse Matrix Multiplication ||
 |          |523. Continuous Subarray Sum  ||
