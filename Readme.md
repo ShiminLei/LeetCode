@@ -60,7 +60,7 @@ LeetCode collection.
 |          | --- ||
 |          | 快排变种 ||
 |          |215. Kth Largest Element in an Array  ||
-|          |  ||
+|          |Lint-143. Sort Colors II  彩虹排序  ||
 |          |  ||
 |          |  ||
 | 分治法|  ||
