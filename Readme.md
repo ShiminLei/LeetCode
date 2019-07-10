@@ -122,6 +122,7 @@ LeetCode collection.
 |          |946. Validate Stack Sequences  ||
 |          |621. Task Scheduler  还没做 ||
 |          |622. Design Circular Queue  还没做 ||
+|          |346. Moving Average from Data Stream  ||
 |          |  ||
 |          |  ||
 |          |  ||
@@ -151,7 +152,6 @@ LeetCode collection.
 |          |502. IPO  ||
 |          |451. Sort Characters By Frequency 还没做  ||
 |          |871. Minimum Number of Refueling Stops 还没做  ||
-|          |  ||
 |          |  ||
 |          |  ||
 |          |  ||
