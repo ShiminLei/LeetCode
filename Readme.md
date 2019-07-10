@@ -53,6 +53,12 @@ LeetCode collection.
 |          |969. Pancake Sorting 还没做 ||
 |          |347. Top K Frequent Elements 桶排序  ||
 |          |296. Best Meeting Point  ||
+|          |Lint-139. Subarray Sum Closest  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
 |          | 归并变种 ||
 |          |493. Reverse Pairs 归并排序 ||
 |          |  ||
@@ -61,6 +67,10 @@ LeetCode collection.
 |          | 快排变种 ||
 |          |215. Kth Largest Element in an Array  ||
 |          |Lint-143. Sort Colors II  彩虹排序  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
 |          |  ||
 |          |  ||
 | 分治法|  ||
