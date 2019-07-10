@@ -137,7 +137,7 @@ LeetCode collection.
 |          |500. Keyboard Row  ||
 |          |290. Word Pattern  ||
 |          |146. LRU Cache  ||
-|          |  ||
+|          |380. Insert Delete GetRandom O(1)  ||
 |          |  ||
 |          |  ||
 |          |  ||
