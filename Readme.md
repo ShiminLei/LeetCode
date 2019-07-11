@@ -151,7 +151,6 @@ LeetCode collection.
 |          |219. Contains Duplicate II  ||
 |          |811. Subdomain Visit Count  ||
 |          |500. Keyboard Row  ||
-|          |290. Word Pattern  ||
 |          |146. LRU Cache  ||
 |          |380. Insert Delete GetRandom O(1)  ||
 |          |  ||
@@ -238,8 +237,10 @@ LeetCode collection.
 |          |78. Subsets  ||
 |          |90. Subsets II  ||
 |          |51. N-Queens ||
+|          |290. Word Pattern  ||
 |          |291. Word Pattern II  回溯 ||
-|          |  ||
+|          |79. Word Search  ||
+|          |212. Word Search II  ||
 |          |  ||
 |          |  ||
 |          |  ||
@@ -418,16 +419,12 @@ LeetCode collection.
 |          |516. Longest Palindromic Subsequence  ||
 |          |524. Longest Word in Dictionary through Deleting 还没做 ||
 |          |392. Is Subsequence  ||
-|          |79. Word Search 还没做  ||
-|          |212. Word Search II 还没做  ||
 |          |648. Replace Words 还没做  ||
 |          |6. ZigZag Conversion  ||
 |          |8. String to Integer (atoi)  ||
 |          |12. Integer to Roman  ||
 |          |13. Roman to Integer  ||
 |          |14. Longest Common Prefix  ||
-|          |79. Word Search  ||
-|          |212. Word Search II  ||
 |          |  ||
 |          |  ||
 |          |  ||
