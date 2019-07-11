@@ -1,5 +1,15 @@
 LeetCode collection.
 
+SQL: 
+| :---  | :--: | ---:|
+|182. Duplicate Emails          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+
 
 | Date | Question Numbers | :sparkles: Star !|
 | :---  | :--: | ---:|
