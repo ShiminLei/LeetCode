@@ -111,7 +111,6 @@ LeetCode collection.
 |          |234. Palindrome Linked List 回文  |不会|
 |          |83. Remove Duplicates from Sorted List  ||
 |          |82. Remove Duplicates from Sorted List II  ||
-|          |287. Find the Duplicate Number 兔子和乌龟 ||
 |          |61. Rotate List  还没做||
 |          |24. Swap Nodes in Pairs  ||
 |          |  ||
@@ -271,6 +270,7 @@ LeetCode collection.
 |          |  ||
 |          |  ||
 | 双指针          |  ||
+|          |287. Find the Duplicate Number 兔子和乌龟 ||
 |          |170. Two Sum III - Data structure design  ||
 |          |283. Move Zeroes  ||
 |          |26. Remove Duplicates from Sorted Array 兔子乌龟 ||
@@ -426,6 +426,17 @@ LeetCode collection.
 |          |12. Integer to Roman  ||
 |          |13. Roman to Integer  ||
 |          |14. Longest Common Prefix  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|       | 前缀树 ||
+|          |211. Add and Search Word - Data structure design  ||
+|          |208. Implement Trie (Prefix Tree)  ||
+|          |  ||
+|          |  ||
 |          |  ||
 |          |  ||
 |          |  ||
