@@ -228,7 +228,7 @@ LeetCode collection.
 |          |Lint-127. Topological Sorting  ||
 |          | ---- ||
 |       | 深度优先搜索 ||
-|          | 回溯法 ||
+|          | 回溯法 | 在不能继续搜索的点，直接return |
 |          |17. Letter Combinations of a Phone Number 回溯法  ||
 |          |46. Permutations  ||
 |          |47. Permutations II  ||
