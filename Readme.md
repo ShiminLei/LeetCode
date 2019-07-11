@@ -328,7 +328,7 @@ SQL:
 |          |309. Best Time to Buy and Sell Stock with Cooldown  还没做 ||
 |          |32. Longest Valid Parentheses 还没做  ||
 |          |72. Edit Distance 还没做  ||
-|          |70. Climbing Stairs 还没做  ||
+|          |70. Climbing Stairs   ||
 |          |  ||
 |          |  ||
 |       |九章算法 动态规划：       |  |
