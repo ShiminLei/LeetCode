@@ -214,7 +214,6 @@ SQL:
 |          |437. Path Sum III  ||
 |          |235. Lowest Common Ancestor of a Binary Search Tree  ||
 |          |236. Lowest Common Ancestor of a Binary Tree  ||
-|          |230. Kth Smallest Element in a BST 还没做  ||
 |          |450. Delete Node in a BST 还没做  ||
 |          |938. Range Sum of BST 还没做  ||
 |          |  ||
