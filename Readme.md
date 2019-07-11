@@ -28,6 +28,7 @@ LeetCode collection.
 |          |33. Search in Rotated Sorted Array  | 1-no |
 |          |81. Search in Rotated Sorted Array II  |1-no |
 |          |153. Find Minimum in Rotated Sorted Array  ||
+|          |154. Find Minimum in Rotated Sorted Array II  ||
 |          |702. Search in a Sorted Array of Unknown Size 这个题定量分析 ！ |1-no |
 |          |74. Search a 2D Matrix  |1-no |
 |          |240. Search a 2D Matrix II  |1-no |
@@ -46,14 +47,21 @@ LeetCode collection.
 |          |Lint-140. Fast Power  ||
 |          |  ||
 |          |  ||
-|          |经验：并不是所有二分法都适用于 left+1<right, 对于可以排除mid的问题，使用left<=right更简便  ||
 |          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |经验：并不是所有二分法都适用于 left+1<right, 对于可以排除mid的问题，使用left<=right更简便  ||
 |          |  ||
 | 排序         |  ||
 |          |969. Pancake Sorting 还没做 ||
 |          |347. Top K Frequent Elements 桶排序  ||
 |          |296. Best Meeting Point  ||
 |          |Lint-139. Subarray Sum Closest  ||
+|          |643. Maximum Average Subarray I  ||
+|          |644. Maximum Average Subarray II 二分法 ||
 |          |  ||
 |          |  ||
 |          |  ||
@@ -82,7 +90,6 @@ LeetCode collection.
 |          |241. Different Ways to Add Parentheses 分治，递归 ||
 |          |139. Word Break  ||
 |          |140. Word Break II  ||
-|          |  ||
 |          |  ||
 |          |  ||
 |          |  ||
@@ -290,7 +297,6 @@ LeetCode collection.
 |          |26. Remove Duplicates from Sorted Array  ||
 |          |80. Remove Duplicates from Sorted Array II  ||
 |          |27. Remove Element  ||
-|          |643. Maximum Average Subarray I  ||
 |          |209. Minimum Size Subarray Sum  | 没有写出来，清醒的时候重新写|
 |          |28. Implement strStr()  ||
 |          |713. Subarray Product Less Than K  ||
