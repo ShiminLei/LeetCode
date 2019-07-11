@@ -426,8 +426,8 @@ LeetCode collection.
 |          |12. Integer to Roman  ||
 |          |13. Roman to Integer  ||
 |          |14. Longest Common Prefix  ||
-|          |  ||
-|          |  ||
+|          |79. Word Search  ||
+|          |212. Word Search II  ||
 |          |  ||
 |          |  ||
 |          |  ||
