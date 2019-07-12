@@ -329,7 +329,7 @@ SQL:
 |          |309. Best Time to Buy and Sell Stock with Cooldown  还没做 ||
 |          |72. Edit Distance 还没做  ||
 |          |70. Climbing Stairs   ||
-|          |  ||
+|          |276. Paint Fence  ||
 |          |  ||
 |       |九章算法 动态规划：       |  |
 |          |322. Coin Change 典型  ||
