@@ -164,7 +164,7 @@ SQL:
 |          |500. Keyboard Row  ||
 |          |146. LRU Cache  ||
 |          |380. Insert Delete GetRandom O(1)  ||
-|          |  ||
+|          |36. Valid Sudoku  ||
 |          |  ||
 |          |  ||
 | 堆          |  ||
@@ -251,7 +251,7 @@ SQL:
 |          |291. Word Pattern II  回溯 ||
 |          |79. Word Search  ||
 |          |212. Word Search II  ||
-|          |  ||
+|          |294. Flip Game II  ||
 |          |  ||
 |          |  ||
 |          |  ||
