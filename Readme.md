@@ -434,7 +434,7 @@ SQL:
 |          |13. Roman to Integer  ||
 |          |14. Longest Common Prefix  ||
 |          |30. Substring with Concatenation of All Words  ||
-|          |  ||
+|          |248. Strobogrammatic Number III  ||
 |          |  ||
 |          |  ||
 |       | 前缀树 ||
