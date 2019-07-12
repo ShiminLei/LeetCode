@@ -135,6 +135,7 @@ SQL:
 |          |225. Implement Stack using Queues  ||
 |          |155. Min Stack  ||
 |          |20. Valid Parentheses  ||
+|          |32. Longest Valid Parentheses   ||
 |          |71. Simplify Path  ||
 |          |394. Decode String  ||
 |          |682. Baseball Game  ||
@@ -326,7 +327,6 @@ SQL:
 |          |96. Unique Binary Search Trees  |科特兰数|
 |          |714. Best Time to Buy and Sell Stock with Transaction Fee  ||
 |          |309. Best Time to Buy and Sell Stock with Cooldown  还没做 ||
-|          |32. Longest Valid Parentheses 还没做  ||
 |          |72. Edit Distance 还没做  ||
 |          |70. Climbing Stairs   ||
 |          |  ||
