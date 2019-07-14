@@ -36,7 +36,6 @@ LeetCode collection.
 |          |69. Sqrt(x)  |1-yes |
 |          |4. Median of Two Sorted Array  和下面的题是一样的||
 |          |Laicode: Kth Smallest In Two Sorted Arrays 这个题非常重要！可以到 logn+logk  |bilibili|
-|          |378. Kth Smallest Element in a Sorted Matrix  ||
 |          |189. Rotate Array  ||
 |          |7. Reverse Integer  ||
 |          |475. Heaters  ||
@@ -45,7 +44,8 @@ LeetCode collection.
 |          |349. Intersection of Two Arrays  ||
 |          |278. First Bad Version  ||
 |          |Lint-140. Fast Power  ||
-|          |302. Smallest Rectangle Enclosing Black Pixels  ||
+|          |378. Kth Smallest Element in a Sorted Matrix 二分中的逼近法 ||
+|          |302. Smallest Rectangle Enclosing Black Pixels 二分中的逼近法 ||
 |          |  ||
 |          |  ||
 |          |  ||
