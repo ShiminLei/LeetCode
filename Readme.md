@@ -45,9 +45,12 @@ LeetCode collection.
 |          |349. Intersection of Two Arrays  ||
 |          |278. First Bad Version  ||
 |          |Lint-140. Fast Power  ||
+|          |302. Smallest Rectangle Enclosing Black Pixels  ||
+|          |  ||
+|          |  ||
+|          |  ||
 |          |  ||
 | 线段树 segment tree         |  ||
-|          |  ||
 |          |  ||
 |          |  ||
 |          |  ||
