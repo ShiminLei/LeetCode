@@ -46,7 +46,7 @@ LeetCode collection.
 |          |278. First Bad Version  ||
 |          |Lint-140. Fast Power  ||
 |          |  ||
-|          |  ||
+| 线段树 segment tree         |  ||
 |          |  ||
 |          |  ||
 |          |  ||
@@ -56,7 +56,7 @@ LeetCode collection.
 |          |经验：并不是所有二分法都适用于 left+1<right, 对于可以排除mid的问题，使用left<=right更简便  ||
 |          |  ||
 | 排序         |  ||
-|          |969. Pancake Sorting 还没做 ||
+|          |969. Pancake Sorting  ||
 |          |347. Top K Frequent Elements 桶排序  ||
 |          |296. Best Meeting Point  ||
 |          |Lint-139. Subarray Sum Closest  ||
@@ -140,7 +140,7 @@ LeetCode collection.
 |          |621. Task Scheduler  还没做 ||
 |          |622. Design Circular Queue  还没做 ||
 |          |346. Moving Average from Data Stream  ||
-|          |  ||
+|          |973. K Closest Points to Origin  ||
 |          |  ||
 |          |  ||
 | 哈希表          |  ||
