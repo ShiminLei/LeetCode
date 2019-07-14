@@ -48,15 +48,21 @@ LeetCode collection.
 |          |302. Smallest Rectangle Enclosing Black Pixels 二分中的逼近法 ||
 |          |  ||
 |          |  ||
+|          |经验：并不是所有二分法都适用于 left+1<right, 对于可以排除mid的问题，使用left<=right更简便  ||
 |          |  ||
 |          |  ||
 | 线段树 segment tree         |  ||
+|          |Lint-201. Segment Tree Build  ||
+|          |Lint-439. Segment Tree Build II  ||
 |          |  ||
 |          |  ||
 |          |  ||
 |          |  ||
 |          |  ||
-|          |经验：并不是所有二分法都适用于 left+1<right, 对于可以排除mid的问题，使用left<=right更简便  ||
+|          |  ||
+|          |218. The Skyline Problem  ||
+|          |  ||
+|          |  ||
 |          |  ||
 | 排序         |  ||
 |          |969. Pancake Sorting  ||
