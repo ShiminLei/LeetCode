@@ -296,10 +296,10 @@ LeetCode collection.
 |          |169. Majority Element  ||
 |          |229. Majority Element II  摩尔投票算法||
 |          |75. Sort Colors  荷兰国旗：很经典的一道题||
+|          |Lint-143. Sort Colors II  ||
 |          |11. Container With Most Water 装水的题 ||
 |          |42. Trapping Rain Water  | 不会 |
 |          |125. Valid Palindrome  ||
-|          |  ||
 |          |  ||
 |          |  ||
 |滑动窗口          |  ||
