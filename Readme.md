@@ -249,7 +249,6 @@ LeetCode collection.
 |          |290. Word Pattern  ||
 |          |291. Word Pattern II  回溯 ||
 |          |79. Word Search  ||
-|          |212. Word Search II  ||
 |          |294. Flip Game II  ||
 |          |  ||
 |          |  ||
@@ -442,6 +441,7 @@ LeetCode collection.
 |       | 前缀树 ||
 |          |208. Implement Trie (Prefix Tree)  ||
 |          |211. Add and Search Word - Data structure design  ||
+|          |212. Word Search II 字典树 ||
 |          |  ||
 |          |  ||
 |          |  ||
