@@ -374,6 +374,7 @@ LeetCode collection.
 |          |Lint-77. Longest Common Subsequence  ||
 |          |97. Interleaving String  ||
 |          |72. Edit Distance  ||
+|          |Lint-623. K Edit Distance  ||
 |          |10. Regular Expression Matching  ||
 |          |474. Ones and Zeroes  ||
 |          |115. Distinct Subsequences  ||
