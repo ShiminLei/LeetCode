@@ -374,7 +374,6 @@ LeetCode collection.
 |          |Lint-77. Longest Common Subsequence  ||
 |          |97. Interleaving String  ||
 |          |72. Edit Distance  ||
-|          |Lint-623. K Edit Distance  ||
 |          |10. Regular Expression Matching  ||
 |          |474. Ones and Zeroes  ||
 |          |115. Distinct Subsequences  ||
@@ -443,6 +442,8 @@ LeetCode collection.
 |          |208. Implement Trie (Prefix Tree)  ||
 |          |211. Add and Search Word - Data structure design  ||
 |          |212. Word Search II 字典树 ||
+|          |72. Edit Distance  ||
+|          |Lint-623. K Edit Distance  ||
 |          |  ||
 |          |  ||
 |          |  ||
