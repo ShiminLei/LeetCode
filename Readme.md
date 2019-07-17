@@ -435,7 +435,7 @@ LeetCode collection.
 |          |30. Substring with Concatenation of All Words  ||
 |          |248. Strobogrammatic Number III  ||
 |          |161. One Edit Distance  ||
-|          |  ||
+|          |Lint-594. strStr II 还没做 ||
 |          |  ||
 |          |  ||
 |       | 前缀树 ||
