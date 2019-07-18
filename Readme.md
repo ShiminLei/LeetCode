@@ -190,6 +190,8 @@ LeetCode collection.
 |          |98. Validate Binary Search Tree  ||
 |          |230. Kth Smallest Element in a BST  ||
 |          |173. Binary Search Tree Iterator  ||
+|          |235. Lowest Common Ancestor of a Binary Search Tree  ||
+|          |236. Lowest Common Ancestor of a Binary Tree  ||
 |          |  ||
 |          |  ||
 |          |----  ||
@@ -212,8 +214,6 @@ LeetCode collection.
 |          |112. Path Sum  ||
 |          |113. Path Sum II  ||
 |          |437. Path Sum III  ||
-|          |235. Lowest Common Ancestor of a Binary Search Tree  ||
-|          |236. Lowest Common Ancestor of a Binary Tree  ||
 |          |450. Delete Node in a BST 还没做  ||
 |          |938. Range Sum of BST 还没做  ||
 |          |  ||
