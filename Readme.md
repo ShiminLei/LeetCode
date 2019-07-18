@@ -200,7 +200,7 @@ LeetCode collection.
 |          |114. Flatten Binary Tree to Linked List  ||
 |          |110. Balanced Binary Tree  ||
 |          |98. Validate Binary Search Tree  ||
-|          |230. Kth Smallest Element in a BST  ||
+|          |230. Kth Smallest Element in a BST 用栈实现inorder遍历 ||
 |          |173. Binary Search Tree Iterator  ||
 |          |235. Lowest Common Ancestor of a Binary Search Tree  ||
 |          |236. Lowest Common Ancestor of a Binary Tree  ||
