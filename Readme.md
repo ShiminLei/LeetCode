@@ -196,18 +196,15 @@ LeetCode collection.
 |       | 二叉树   ||
 |          |270. Closest Binary Search Tree Value  ||
 |          |272. Closest Binary Search Tree Value II  ||
-|          |257. Binary Tree Paths  ||
 |          |114. Flatten Binary Tree to Linked List  ||
 |          |110. Balanced Binary Tree  ||
 |          |98. Validate Binary Search Tree  ||
-|          |230. Kth Smallest Element in a BST 用栈实现inorder遍历 ||
 |          |173. Binary Search Tree Iterator  ||
 |          |235. Lowest Common Ancestor of a Binary Search Tree  ||
 |          |236. Lowest Common Ancestor of a Binary Tree  ||
 |          |108. Convert Sorted Array to Binary Search Tree  ||
 |          |109. Convert Sorted List to Binary Search Tree  ||
 |          |298. Binary Tree Longest Consecutive Sequence  ||
-|          |  ||
 |          |  ||
 |          |  ||
 |          |  ||
@@ -222,6 +219,7 @@ LeetCode collection.
 |          |700. Search in a Binary Search Tree  ||
 |          |701. Insert into a Binary Search Tree 见算法导论 165||
 |          |94. Binary Tree Inorder Traversal 用栈实现iterative ||
+|          |230. Kth Smallest Element in a BST 用栈实现inorder遍历 ||
 |          |144. Binary Tree Preorder Traversal  ||
 |          |145. Binary Tree Postorder Traversal  ||
 |          |102. Binary Tree Level Order Traversal  这个一道BFS||
@@ -229,9 +227,11 @@ LeetCode collection.
 |          |103. Binary Tree Zigzag Level Order Traversal  ||
 |          |105. Construct Binary Tree from Preorder and Inorder Traversal 这题不太理解本质 ||
 |          |111. Minimum Depth of Binary Tree ||
+|          |257. Binary Tree Paths  ||
 |          |112. Path Sum  ||
 |          |113. Path Sum II  ||
-|          |437. Path Sum III  ||
+|          |437. Path Sum III 和124题很像 ||
+|          |124. Binary Tree Maximum Path Sum  ||
 |          |450. Delete Node in a BST 还没做  ||
 |          |938. Range Sum of BST 还没做  ||
 |          |  ||
