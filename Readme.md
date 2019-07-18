@@ -230,7 +230,7 @@ LeetCode collection.
 |          |257. Binary Tree Paths  ||
 |          |112. Path Sum  ||
 |          |113. Path Sum II  ||
-|          |437. Path Sum III 和124题很像 ||
+|          |437. Path Sum III  ||
 |          |124. Binary Tree Maximum Path Sum  ||
 |          |450. Delete Node in a BST 还没做  ||
 |          |938. Range Sum of BST 还没做  ||
