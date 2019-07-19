@@ -156,7 +156,7 @@ LeetCode collection.
 |          |85. Maximal Rectangle  ||
 |          |  ||
 |   | 队列 queue  ||
-|          |  ||
+|          |Lint-230. Animal Shelter  ||
 |          |  ||
 |          |  ||
 |          |  ||
