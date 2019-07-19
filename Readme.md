@@ -176,6 +176,7 @@ LeetCode collection.
 |          |146. LRU Cache  ||
 |          |380. Insert Delete GetRandom O(1)  ||
 |          |36. Valid Sudoku  ||
+|          |Lint-594. strStr II  |https://www.jiuzhang.com/video/rabin-karp|
 |          |  ||
 |          |  ||
 | 堆          |  ||
@@ -457,7 +458,6 @@ LeetCode collection.
 |          |30. Substring with Concatenation of All Words  ||
 |          |248. Strobogrammatic Number III  ||
 |          |161. One Edit Distance  ||
-|          |Lint-594. strStr II  |https://www.jiuzhang.com/video/rabin-karp|
 |          |  ||
 |          |  ||
 |       | 前缀树 ||
