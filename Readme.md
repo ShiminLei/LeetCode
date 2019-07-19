@@ -150,11 +150,11 @@ LeetCode collection.
 |          |622. Design Circular Queue  还没做 ||
 |          |346. Moving Average from Data Stream  ||
 |          |973. K Closest Points to Origin  ||
-|     | Stack  ||
+|   | 栈 Stack  ||
 |          |150. Evaluate Reverse Polish Notation  ||
+|          |85. Maximal Rectangle  ||
 |          |  ||
-|          |  ||
-|          |  ||
+|   | 队列 queue  ||
 |          |  ||
 |          |  ||
 |          |  ||
@@ -205,6 +205,10 @@ LeetCode collection.
 |          |108. Convert Sorted Array to Binary Search Tree  ||
 |          |109. Convert Sorted List to Binary Search Tree  ||
 |          |298. Binary Tree Longest Consecutive Sequence  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|       |最小生成树  | 贪心的思想 |
 |          |  ||
 |          |  ||
 |          |  ||
@@ -333,7 +337,7 @@ LeetCode collection.
 |          |159. Longest Substring with At Most Two Distinct Characters  |还没做|
 |          |340. Longest Substring with At Most K Distinct Characters  |还没做|
 |          |239. Sliding Window Maximum  可以用堆 |还没做|
-|          |  ||
+|          |480. Sliding Window Median  ||
 |          |  ||
 |动态规划          |  ||
 |          |198. House Robber  ||
