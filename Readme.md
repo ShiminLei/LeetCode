@@ -152,10 +152,10 @@ LeetCode collection.
 |          |973. K Closest Points to Origin  ||
 |   | 栈 Stack  ||
 |          |150. Evaluate Reverse Polish Notation  ||
+|          |84. Largest Rectangle in Histogram  ||
 |          |85. Maximal Rectangle  ||
 |          |  ||
 |   | 队列 queue  ||
-|          |  ||
 |          |  ||
 |          |  ||
 |          |  ||
