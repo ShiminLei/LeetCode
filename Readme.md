@@ -151,6 +151,9 @@ LeetCode collection.
 |          |973. K Closest Points to Origin  ||
 |   | 栈 Stack  ||
 |        | 单调栈 ||
+|          |  ||
+|          |  ||
+|          |496. Next Greater Element I  ||
 |          |503. Next Greater Element II  ||
 |          |84. Largest Rectangle in Histogram  ||
 |          |85. Maximal Rectangle  ||
