@@ -154,9 +154,15 @@ LeetCode collection.
 |          |150. Evaluate Reverse Polish Notation  ||
 |          |84. Largest Rectangle in Histogram  ||
 |          |85. Maximal Rectangle  ||
+|          |Lint-367. Expression Tree Build  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
 |          |  ||
 |   | 队列 queue  ||
-|          |Lint-230. Animal Shelter  ||
+|          |Lint-230. Animal Shelter 双端队列，链表  ||
 |          |  ||
 |          |  ||
 |          |  ||
