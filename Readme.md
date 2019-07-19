@@ -176,7 +176,7 @@ LeetCode collection.
 |          |146. LRU Cache  ||
 |          |380. Insert Delete GetRandom O(1)  ||
 |          |36. Valid Sudoku  ||
-|          |Lint-594. strStr II  |https://www.jiuzhang.com/video/rabin-karp|
+|          |Lint-594. strStr II 这题不用会 |https://www.jiuzhang.com/video/rabin-karp|
 |          |  ||
 |          |  ||
 | 堆          |  ||
