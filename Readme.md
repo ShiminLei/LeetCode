@@ -70,7 +70,7 @@ LeetCode collection.
 |          |296. Best Meeting Point  ||
 |          |Lint-139. Subarray Sum Closest  ||
 |          |643. Maximum Average Subarray I  ||
-|          |644. Maximum Average Subarray II 二分法 ||
+|          |644. Maximum Average Subarray II 二分法，尺举法 ||
 |          |  ||
 |          |  ||
 |          |  ||
