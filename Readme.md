@@ -148,7 +148,7 @@ LeetCode collection.
 |          |622. Design Circular Queue  还没做 ||
 |          |346. Moving Average from Data Stream  ||
 |          |973. K Closest Points to Origin  ||
-|   | 栈 Stack  ||
+|   | 栈 Stack  | 栈的精髓：把 递归中最后处理 的 压在最前面 |
 |        | 单调栈 ||
 |          |  ||
 |          |739. Daily Temperatures  ||
@@ -238,7 +238,7 @@ LeetCode collection.
 |          |94. Binary Tree Inorder Traversal 用栈实现iterative ||
 |          |230. Kth Smallest Element in a BST 用栈实现inorder遍历 ||
 |          |144. Binary Tree Preorder Traversal  ||
-|          |145. Binary Tree Postorder Traversal  ||
+|          |145. Binary Tree Postorder Traversal  |栈的精髓：把 递归中最后处理 的 压在最前面 |
 |          |102. Binary Tree Level Order Traversal  这个一道BFS||
 |          |107. Binary Tree Level Order Traversal II  ||
 |          |103. Binary Tree Zigzag Level Order Traversal  ||
