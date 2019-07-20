@@ -132,7 +132,6 @@ LeetCode collection.
 |堆栈和队列          |  ||
 |          |232. Implement Queue using Stacks  ||
 |          |225. Implement Stack using Queues  ||
-|          |155. Min Stack  ||
 |          |20. Valid Parentheses  ||
 |          |32. Longest Valid Parentheses   ||
 |          |71. Simplify Path  ||
@@ -149,6 +148,13 @@ LeetCode collection.
 |          |346. Moving Average from Data Stream  ||
 |          |973. K Closest Points to Origin  ||
 |   | 栈 Stack  | 栈的精髓：把 递归中最后处理 的 压在最前面 |
+|          |150. Evaluate Reverse Polish Notation  ||
+|          |155. Min Stack  单调队列 ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
 |        | 单调栈 ||
 |          |  ||
 |          |739. Daily Temperatures  ||
@@ -160,13 +166,7 @@ LeetCode collection.
 |          |Lint-367. Expression Tree Build 没懂，特别难 ||
 |          |  ||
 |          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
 |          | ---- ||
-|          |150. Evaluate Reverse Polish Notation  ||
-|          |  ||
-|          |  ||
 |   | 队列 queue  ||
 |          |Lint-230. Animal Shelter 双端队列，链表  ||
 |          |  ||
