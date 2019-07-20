@@ -130,9 +130,6 @@ LeetCode collection.
 |          |  ||
 |          |  ||
 |堆栈和队列          |  ||
-|          |232. Implement Queue using Stacks  ||
-|          |225. Implement Stack using Queues  ||
-|          |20. Valid Parentheses  ||
 |          |32. Longest Valid Parentheses   ||
 |          |71. Simplify Path  ||
 |          |394. Decode String  ||
@@ -148,6 +145,9 @@ LeetCode collection.
 |          |346. Moving Average from Data Stream  ||
 |          |973. K Closest Points to Origin  ||
 |   | 栈 Stack  | 栈的精髓：把 递归中最后处理 的 压在最前面 |
+|          |232. Implement Queue using Stacks  ||
+|          |225. Implement Stack using Queues  ||
+|          |20. Valid Parentheses  ||
 |          |150. Evaluate Reverse Polish Notation  ||
 |          |155. Min Stack   ||
 |          |  ||
