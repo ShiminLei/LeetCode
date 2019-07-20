@@ -139,7 +139,6 @@ LeetCode collection.
 |          |394. Decode String  ||
 |          |682. Baseball Game  ||
 |          |735. Asteroid Collision  ||
-|          |739. Daily Temperatures  ||
 |          |239. Sliding Window Maximum 还没做，优先考虑用队列的方法 ||
 |          |224. Basic Calculator  ||
 |          |456. 132 Pattern  ||
@@ -152,13 +151,13 @@ LeetCode collection.
 |   | 栈 Stack  ||
 |        | 单调栈 ||
 |          |  ||
-|          |  ||
-|          |496. Next Greater Element I  ||
+|          |739. Daily Temperatures  ||
+|          |1019. Next Greater Node In Linked List  ||
 |          |503. Next Greater Element II  ||
 |          |84. Largest Rectangle in Histogram  ||
 |          |85. Maximal Rectangle  ||
-|          |Lint-368. Expression Evaluation  ||
-|          |Lint-367. Expression Tree Build  ||
+|          |Lint-368. Expression Evaluation 没懂 ||
+|          |Lint-367. Expression Tree Build 没懂，特别难 ||
 |          |  ||
 |          |  ||
 |          |  ||
