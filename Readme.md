@@ -149,8 +149,7 @@ LeetCode collection.
 |          |973. K Closest Points to Origin  ||
 |   | 栈 Stack  | 栈的精髓：把 递归中最后处理 的 压在最前面 |
 |          |150. Evaluate Reverse Polish Notation  ||
-|          |155. Min Stack  单调队列 ||
-|          |  ||
+|          |155. Min Stack   ||
 |          |  ||
 |          |  ||
 |          |  ||
@@ -159,12 +158,13 @@ LeetCode collection.
 |          |  ||
 |          |739. Daily Temperatures  ||
 |          |1019. Next Greater Node In Linked List  ||
+|          |496. Next Greater Element I  单调栈  ||
 |          |503. Next Greater Element II  ||
 |          |84. Largest Rectangle in Histogram  ||
 |          |85. Maximal Rectangle  ||
-|          |Lint-368. Expression Evaluation 没懂 ||
+|          |654. Maximum Binary Tree 单调栈 ||
 |          |Lint-367. Expression Tree Build 没懂，特别难 ||
-|          |  ||
+|          |Lint-368. Expression Evaluation 没懂 ||
 |          |  ||
 |          | ---- ||
 |   | 队列 queue  ||
