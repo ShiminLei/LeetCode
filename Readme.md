@@ -162,8 +162,8 @@ LeetCode collection.
 |          |503. Next Greater Element II  ||
 |          |84. Largest Rectangle in Histogram  ||
 |          |85. Maximal Rectangle  ||
-|          |654. Maximum Binary Tree 单调栈 ||
-|          |Lint-367. Expression Tree Build 没懂，特别难 ||
+|          |654. Maximum Binary Tree 单调栈 经典～！！ ||
+|          |Lint-367. Expression Tree Build   和leetcode654一样 ||
 |          |Lint-368. Expression Evaluation 没懂 ||
 |          |  ||
 |          | ---- ||

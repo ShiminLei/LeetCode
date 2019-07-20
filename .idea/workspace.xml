@@ -19,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/Readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="285">
-                <caret line="149" column="37" selection-start-line="149" selection-start-column="37" selection-end-line="149" selection-end-column="37" />
+              <first_editor relative-caret-position="375">
+                <caret line="165" column="46" selection-start-line="165" selection-start-column="46" selection-end-line="165" selection-end-column="46" />
               </first_editor>
               <second_editor />
             </state>
@@ -244,7 +244,7 @@
       <workItem from="1562700533793" duration="7410000" />
       <workItem from="1562813189302" duration="24826000" />
       <workItem from="1563544512400" duration="2841000" />
-      <workItem from="1563595103799" duration="2515000" />
+      <workItem from="1563595103799" duration="3182000" />
     </task>
     <task id="LOCAL-00001" summary="c">
       <created>1552255333132</created>
@@ -488,7 +488,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="276526000" />
+    <option name="totallyTimeSpent" value="277193000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1112" y="0" width="1112" height="834" extended-state="0" />
@@ -588,8 +588,8 @@
     <entry file="file://$PROJECT_DIR$/Readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="149" column="37" selection-start-line="149" selection-start-column="37" selection-end-line="149" selection-end-column="37" />
+          <first_editor relative-caret-position="375">
+            <caret line="165" column="46" selection-start-line="165" selection-start-column="46" selection-end-line="165" selection-end-column="46" />
           </first_editor>
           <second_editor />
         </state>
