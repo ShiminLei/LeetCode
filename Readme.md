@@ -148,7 +148,7 @@ LeetCode collection.
 |          |232. Implement Queue using Stacks  ||
 |          |225. Implement Stack using Queues  ||
 |          |20. Valid Parentheses  ||
-|          |150. Evaluate Reverse Polish Notation  ||
+|          |150. Evaluate Reverse Polish Notation 反波兰表达式 ||
 |          |155. Min Stack   ||
 |          |  ||
 |          |  ||
@@ -164,7 +164,7 @@ LeetCode collection.
 |          |85. Maximal Rectangle  ||
 |          |654. Maximum Binary Tree 单调栈 经典～！！ ||
 |          |Lint-367. Expression Tree Build   和leetcode654一样 ||
-|          |Lint-368. Expression Evaluation 没懂 ||
+|          |Lint-368. Expression Evaluation 转化为反波兰表达式再计算 ||
 |          |  ||
 |          | ---- ||
 |   | 队列 queue  ||
