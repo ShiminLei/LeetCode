@@ -15,7 +15,6 @@ LeetCode collection.
 |          |849. Maximize Distance to Closest Person  ||
 |          |  ||
 | 递归          |  ||
-|          |60. Permutation Sequence  ||
 |          |784. Letter Case Permutation  ||
 |          |31. Next Permutation  ||
 |          |22. Generate Parentheses  ||
@@ -278,6 +277,7 @@ LeetCode collection.
 |          |17. Letter Combinations of a Phone Number 回溯法  ||
 |          |46. Permutations  ||
 |          |47. Permutations II  ||
+|          |60. Permutation Sequence  ||
 |          |39. Combination Sum 回溯法 ||
 |          |40. Combination Sum II  ||
 |          |78. Subsets  ||
