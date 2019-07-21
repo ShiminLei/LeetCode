@@ -201,6 +201,10 @@ LeetCode collection.
 |          |502. IPO  ||
 |          |451. Sort Characters By Frequency 还没做  ||
 |          |871. Minimum Number of Refueling Stops 还没做  ||
+|          |407. Trapping Rain Water II  ||
+|          |  ||
+|          |  ||
+|          |  ||
 |          |  ||
 |          |  ||
 |          |  ||
@@ -288,7 +292,6 @@ LeetCode collection.
 |          |  ||
 |          |  ||
 |          | --- ||
-|          |  ||
 |          |490. The Maze  ||
 |          |505. The Maze II  | 黑色（已经pop出来的,才放seen）不压栈，不压队。Dijkstra是BFS|
 |          |499. The Maze III  ||
@@ -362,6 +365,11 @@ LeetCode collection.
 |          |72. Edit Distance 还没做  ||
 |          |70. Climbing Stairs   ||
 |          |276. Paint Fence  ||
+|    |记忆化搜索  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
 |          |  ||
 |       |九章算法 动态规划：       |  |
 |          |322. Coin Change 典型  ||
