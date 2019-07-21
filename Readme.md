@@ -314,8 +314,8 @@ LeetCode collection.
 |          |  ||
 | 并查集         |  ||
 |          |261. Graph Valid Tree  ||
-|          |  ||
-|          |  ||
+|          |130. Surrounded Regions  ||
+|          |128. Longest Consecutive Sequence  ||
 |          |  ||
 |          |  ||
 |          |  ||
