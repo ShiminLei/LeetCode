@@ -95,8 +95,6 @@ LeetCode collection.
 |          |311. Sparse Matrix Multiplication ||
 |          |523. Continuous Subarray Sum  ||
 |          |241. Different Ways to Add Parentheses 分治，递归 ||
-|          |139. Word Break  ||
-|          |140. Word Break II  ||
 |          |  ||
 |          |  ||
 |          |  ||
@@ -373,7 +371,8 @@ LeetCode collection.
 |          |70. Climbing Stairs   ||
 |          |276. Paint Fence  ||
 |    |记忆化搜索  ||
-|          |  ||
+|          |139. Word Break  ||
+|          |140. Word Break II  ||
 |          |  ||
 |          |  ||
 |          |  ||
