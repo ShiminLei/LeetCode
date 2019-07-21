@@ -15,7 +15,6 @@ LeetCode collection.
 |          |849. Maximize Distance to Closest Person  ||
 |          |  ||
 | 递归          |  ||
-|          |509. Fibonacci Number  ||
 |          |60. Permutation Sequence  ||
 |          |784. Letter Case Permutation  ||
 |          |31. Next Permutation  ||
