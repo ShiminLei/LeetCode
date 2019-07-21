@@ -219,7 +219,7 @@ LeetCode collection.
 |          |108. Convert Sorted Array to Binary Search Tree  ||
 |          |109. Convert Sorted List to Binary Search Tree  ||
 |          |298. Binary Tree Longest Consecutive Sequence  ||
-|          |  ||
+|          |549. Binary Tree Longest Consecutive Sequence II  ||
 |          |  ||
 |          |  ||
 |       |最小生成树  | 贪心的思想 |
