@@ -142,7 +142,6 @@ LeetCode collection.
 |          |946. Validate Stack Sequences  ||
 |          |621. Task Scheduler  还没做 ||
 |          |622. Design Circular Queue  还没做 ||
-|          |346. Moving Average from Data Stream  ||
 |          |973. K Closest Points to Origin  ||
 |   | 栈 Stack  | 栈的精髓：把 递归中最后处理 的 压在最前面 |
 |          |232. Implement Queue using Stacks  ||
@@ -155,7 +154,6 @@ LeetCode collection.
 |          |  ||
 |          |  ||
 |        | 单调栈 ||
-|          |  ||
 |          |739. Daily Temperatures  ||
 |          |1019. Next Greater Node In Linked List  ||
 |          |496. Next Greater Element I  单调栈  ||
@@ -164,11 +162,12 @@ LeetCode collection.
 |          |85. Maximal Rectangle  ||
 |          |654. Maximum Binary Tree 单调栈 经典～！！ ||
 |          |Lint-367. Expression Tree Build   和leetcode654一样 ||
-|          |Lint-368. Expression Evaluation 转化为反波兰表达式再计算 ||
+|          |Lint-368. Expression Evaluation 中缀变后缀表达式再计算 ||
 |          |  ||
 |          | ---- ||
 |   | 队列 queue  ||
 |          |Lint-230. Animal Shelter 双端队列，链表  ||
+|          |346. Moving Average from Data Stream  ||
 |          |  ||
 |          |  ||
 |          |  ||
