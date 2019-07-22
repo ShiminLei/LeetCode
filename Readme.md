@@ -312,7 +312,7 @@ LeetCode collection.
 |          |997. Find the Town Judge  ||
 |          |407. Trapping Rain Water II 还没做 ||
 |          |743. Network Delay Time  ||
-|          |282. Expression Add Operators  ||
+|          |282. Expression Add Operators 这个题好多的边界条件 ||
 |          |  ||
 |          |  ||
 |          |  ||
@@ -405,6 +405,7 @@ LeetCode collection.
 |          |354. Russian Doll Envelopes 是300的二维问题  ||
 |       |划分型动态规划            ||
 |          |279. Perfect Squares  ||
+|          |131. Palindrome Partitioning  ||
 |          |132. Palindrome Partitioning II  ||
 |          |Lint-437. Copy Books  ||
 |       |博弈型动态规划          ||
@@ -440,7 +441,6 @@ LeetCode collection.
 | 贪心算法         |  ||
 |          |455. Assign Cookies  ||
 |          |435. Non-overlapping Intervals 其实是活动选择问题  ||
-|          |  ||
 |          |  ||
 |          |  ||
 |          |  ||

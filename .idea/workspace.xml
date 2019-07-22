@@ -20,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/Readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="430">
-                <caret line="314" column="41" selection-start-line="314" selection-start-column="41" selection-end-line="314" selection-end-column="41" />
+              <first_editor relative-caret-position="101">
+                <caret line="407" column="44" selection-start-line="407" selection-start-column="44" selection-end-line="407" selection-end-column="44" />
               </first_editor>
               <second_editor />
             </state>
@@ -40,7 +40,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>241</find>
       <find>5</find>
       <find>sum</find>
       <find>15</find>
@@ -70,6 +69,7 @@
       <find>K edit</find>
       <find>72</find>
       <find>First Uni</find>
+      <find>permutation</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -146,6 +146,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,7 +163,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -250,7 +250,8 @@
       <workItem from="1563595103799" duration="3458000" />
       <workItem from="1563660337122" duration="4276000" />
       <workItem from="1563724908092" duration="4431000" />
-      <workItem from="1563814041093" duration="353000" />
+      <workItem from="1563814041093" duration="898000" />
+      <workItem from="1563828174558" duration="174000" />
     </task>
     <task id="LOCAL-00001" summary="c">
       <created>1552255333132</created>
@@ -494,13 +495,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="286529000" />
+    <option name="totallyTimeSpent" value="287248000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1112" y="0" width="1112" height="834" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30149812" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3071161" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -594,8 +595,8 @@
     <entry file="file://$PROJECT_DIR$/Readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="430">
-            <caret line="314" column="41" selection-start-line="314" selection-start-column="41" selection-end-line="314" selection-end-column="41" />
+          <first_editor relative-caret-position="101">
+            <caret line="407" column="44" selection-start-line="407" selection-start-column="44" selection-end-line="407" selection-end-column="44" />
           </first_editor>
           <second_editor />
         </state>
