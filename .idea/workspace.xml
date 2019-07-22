@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44a12db2-4d1b-4781-b322-64a4866c4d06" name="Default Changelist" comment="&#10;c">
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/0.笔记-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/0.笔记-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.笔记.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/0.笔记.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/Readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="185">
-                <caret line="375" column="16" lean-forward="true" selection-start-line="375" selection-start-column="16" selection-end-line="375" selection-end-column="16" />
+              <first_editor relative-caret-position="328">
+                <caret line="378" column="16" lean-forward="true" selection-start-line="378" selection-start-column="16" selection-end-line="378" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -41,9 +39,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>20</find>
-      <find>19</find>
-      <find>33</find>
       <find>74</find>
       <find>378</find>
       <find>75</find>
@@ -71,6 +66,9 @@
       <find>654</find>
       <find>K closest P</find>
       <find>139</find>
+      <find>REctangle</find>
+      <find>Spanning</find>
+      <find>Path Sum</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -250,7 +248,7 @@
       <workItem from="1563544512400" duration="2841000" />
       <workItem from="1563595103799" duration="3458000" />
       <workItem from="1563660337122" duration="4276000" />
-      <workItem from="1563724908092" duration="2051000" />
+      <workItem from="1563724908092" duration="2876000" />
     </task>
     <task id="LOCAL-00001" summary="c">
       <created>1552255333132</created>
@@ -494,7 +492,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="283796000" />
+    <option name="totallyTimeSpent" value="284621000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1112" y="0" width="1112" height="834" extended-state="0" />
@@ -594,8 +592,8 @@
     <entry file="file://$PROJECT_DIR$/Readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="185">
-            <caret line="375" column="16" lean-forward="true" selection-start-line="375" selection-start-column="16" selection-end-line="375" selection-end-column="16" />
+          <first_editor relative-caret-position="328">
+            <caret line="378" column="16" lean-forward="true" selection-start-line="378" selection-start-column="16" selection-end-line="378" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>

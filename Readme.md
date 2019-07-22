@@ -314,7 +314,7 @@ LeetCode collection.
 |          |261. Graph Valid Tree  ||
 |          |130. Surrounded Regions  ||
 |          |128. Longest Consecutive Sequence  ||
-|          |  ||
+|          |Lint-629. Minimum Spanning Tree  最小生成树，Kruskal算法  ||
 |          |  ||
 |          |  ||
 |          |  ||
@@ -373,7 +373,7 @@ LeetCode collection.
 |    |记忆化搜索  ||
 |          |139. Word Break  ||
 |          |140. Word Break II  ||
-|          |  ||
+|          |Lint-683. Word Break III  ||
 |          |  ||
 |          |  ||
 |          |  ||
