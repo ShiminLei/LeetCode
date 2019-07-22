@@ -172,7 +172,9 @@ LeetCode collection.
 |          |  ||
 |          |  ||
 | 哈希表          |  ||
-|          |387. First Unique Character in a String  ||
+|          |387. First Unique Character in a String 这题要用过一遍的方法！非常重要！ ||
+|          |146. LRU Cache  ||
+|          |Lint-685. First Unique Number in Data Stream  ||
 |          |349. Intersection of Two Arrays  ||
 |          |350. Intersection of Two Arrays II  ||
 |          |771. Jewels and Stones  ||
@@ -180,10 +182,14 @@ LeetCode collection.
 |          |219. Contains Duplicate II  ||
 |          |811. Subdomain Visit Count  ||
 |          |500. Keyboard Row  ||
-|          |146. LRU Cache  ||
 |          |380. Insert Delete GetRandom O(1)  ||
 |          |36. Valid Sudoku  ||
 |          |Lint-594. strStr II 这题不用会 |https://www.jiuzhang.com/video/rabin-karp|
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
 |          |  ||
 |          |  ||
 | 堆          |  ||
@@ -373,7 +379,7 @@ LeetCode collection.
 |          |139. Word Break  ||
 |          |140. Word Break II  ||
 |          |Lint-683. Word Break III  ||
-|          |  ||
+|          |368. Largest Divisible Subset  ||
 |          |  ||
 |          |  ||
 |       |九章算法 动态规划：       |  |
