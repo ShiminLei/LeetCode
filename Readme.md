@@ -273,6 +273,7 @@ LeetCode collection.
 |          | 拓扑排序 ||
 |          |207. Course Schedule   ||
 |          |210. Course Schedule II  ||
+|          |Lint-815. Course Schedule IV  ||
 |          |444. Sequence Reconstruction  ||
 |          |Lint-127. Topological Sorting  ||
 |          | ---- ||
@@ -291,7 +292,6 @@ LeetCode collection.
 |          |291. Word Pattern II  回溯 ||
 |          |79. Word Search  ||
 |          |294. Flip Game II  ||
-|          |  ||
 |          |  ||
 |          |  ||
 |          | --- ||
