@@ -405,7 +405,6 @@ LeetCode collection.
 |          |354. Russian Doll Envelopes 是300的二维问题  ||
 |       |划分型动态规划            ||
 |          |279. Perfect Squares  ||
-|          |131. Palindrome Partitioning  ||
 |          |132. Palindrome Partitioning II  ||
 |          |Lint-437. Copy Books  ||
 |       |博弈型动态规划          ||
