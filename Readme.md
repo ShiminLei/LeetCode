@@ -244,7 +244,7 @@ LeetCode collection.
 |          |230. Kth Smallest Element in a BST 用栈实现inorder遍历 ||
 |          |144. Binary Tree Preorder Traversal  ||
 |          |145. Binary Tree Postorder Traversal  |栈的精髓：把 递归中最后处理 的 压在最前面 |
-|          |102. Binary Tree Level Order Traversal  这个一道BFS||
+|          |102. Binary Tree Level Order Traversal  这个一道BFS,和773对比||
 |          |107. Binary Tree Level Order Traversal II  ||
 |          |103. Binary Tree Zigzag Level Order Traversal  ||
 |          |105. Construct Binary Tree from Preorder and Inorder Traversal 这题不太理解本质 ||
@@ -270,6 +270,15 @@ LeetCode collection.
 |          |297. Serialize and Deserialize Binary Tree 这个题还是有点蒙 ||
 |          |127. Word Ladder  ||
 |          |126. Word Ladder II  ||
+|          |Lint-794. Sliding Puzzle II  ||
+|          |773. Sliding Puzzle  ||
+|          |102. Binary Tree Level Order Traversal  这个一道BFS,和773对比||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
 |          | 拓扑排序 ||
 |          |207. Course Schedule   ||
 |          |210. Course Schedule II  ||
