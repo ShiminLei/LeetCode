@@ -334,7 +334,7 @@ LeetCode collection.
 |          |130. Surrounded Regions  ||
 |          |128. Longest Consecutive Sequence  ||
 |          |Lint-629. Minimum Spanning Tree  最小生成树，Kruskal算法  ||
-|          |  ||
+|          |684. Redundant Connection  ||
 |          |  ||
 |          |  ||
 |          |  ||
