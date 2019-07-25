@@ -277,7 +277,7 @@ LeetCode collection.
 |          |Lint-794. Sliding Puzzle II  ||
 |          |773. Sliding Puzzle  ||
 |          |102. Binary Tree Level Order Traversal  这个一道BFS,和773对比||
-|          |  ||
+|          |Lint-531. Six Degrees  ||
 |          |  ||
 |          |  ||
 |          |  ||
