@@ -326,7 +326,7 @@ LeetCode collection.
 |          |407. Trapping Rain Water II 还没做 ||
 |          |743. Network Delay Time  ||
 |          |282. Expression Add Operators 这个题好多的边界条件 ||
-|          |301. Remove Invalid Parentheses  ||
+|          |301. Remove Invalid Parentheses BFS剪枝 ||
 |          |  ||
 |          |  ||
 | 并查集         |  ||
@@ -417,7 +417,7 @@ LeetCode collection.
 |          |300. Longest Increasing Subsequence   ||
 |          |354. Russian Doll Envelopes 是300题的二维问题  ||
 |       |划分型动态规划            ||
-|          |279. Perfect Squares  ||
+|          |279. Perfect Squares  BFS剪枝用set ||
 |          |132. Palindrome Partitioning II  ||
 |          |Lint-437. Copy Books  ||
 |       |博弈型动态规划          ||
