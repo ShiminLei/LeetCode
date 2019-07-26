@@ -360,6 +360,10 @@ LeetCode collection.
 |          |11. Container With Most Water 装水的题 ||
 |          |42. Trapping Rain Water  | 不会 |
 |          |125. Valid Palindrome  ||
+|          |986. Interval List Intersections  ||
+|          |  ||
+|          |  ||
+|          |  ||
 |          |  ||
 |          |  ||
 |滑动窗口          |  ||
