@@ -69,7 +69,7 @@ LeetCode collection.
 |          |Lint-139. Subarray Sum Closest  ||
 |          |643. Maximum Average Subarray I  ||
 |          |644. Maximum Average Subarray II 二分法，尺举法 ||
-|          |  ||
+|          |Lint-64. Merge Sorted Array  ||
 |          |  ||
 |          |  ||
 |          |  ||
@@ -185,8 +185,8 @@ LeetCode collection.
 |          |380. Insert Delete GetRandom O(1)  ||
 |          |36. Valid Sudoku  ||
 |          |Lint-594. strStr II 这题不用会 |https://www.jiuzhang.com/video/rabin-karp|
-|          |  ||
-|          |  ||
+|          |Lint-138. Subarray Sum  ||
+|          |560. Subarray Sum Equals K  ||
 |          |  ||
 |          |  ||
 |          |  ||
