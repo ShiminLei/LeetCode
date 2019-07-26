@@ -274,7 +274,7 @@ LeetCode collection.
 |          |127. Word Ladder  ||
 |          |126. Word Ladder II  ||
 |          |Lint-794. Sliding Puzzle II  ||
-|          |773. Sliding Puzzle  ||
+|          |773. Sliding Puzzle 处理二维矩阵的技巧 ||
 |          |102. Binary Tree Level Order Traversal  这个一道BFS,和773对比||
 |          |Lint-531. Six Degrees  ||
 |          |  ||
