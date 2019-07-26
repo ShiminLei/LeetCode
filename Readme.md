@@ -392,6 +392,7 @@ LeetCode collection.
 |          |70. Climbing Stairs   ||
 |          |276. Paint Fence  ||
 |          |368. Largest Divisible Subset  ||
+|          |343. Integer Break  ||
 |    |记忆化搜索  ||
 |          |139. Word Break  ||
 |          |140. Word Break II  ||
@@ -456,7 +457,6 @@ LeetCode collection.
 | 贪心算法         |  ||
 |          |455. Assign Cookies  ||
 |          |435. Non-overlapping Intervals 其实是活动选择问题  ||
-|          |  ||
 |          |  ||
 |          |  ||
 |          |  ||
