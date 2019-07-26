@@ -187,7 +187,7 @@ LeetCode collection.
 |          |Lint-594. strStr II 这题不用会 |https://www.jiuzhang.com/video/rabin-karp|
 |          |Lint-138. Subarray Sum  ||
 |          |560. Subarray Sum Equals K  ||
-|          |  ||
+|          |53. Maximum Subarray 前缀和 ||
 |          |  ||
 |          |  ||
 |          |  ||
