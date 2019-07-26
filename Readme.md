@@ -191,7 +191,6 @@ LeetCode collection.
 |          |  ||
 |          |  ||
 |          |  ||
-|          |  ||
 | 堆          |  ||
 |          |215. Kth Largest Element in an Array  |y |
 |          |692. Top K Frequent Words  ||
@@ -361,7 +360,7 @@ LeetCode collection.
 |          |42. Trapping Rain Water  | 不会 |
 |          |125. Valid Palindrome  ||
 |          |986. Interval List Intersections  ||
-|          |  ||
+|          |Lint-839. Merge Two Sorted Interval Lists  ||
 |          |  ||
 |          |  ||
 |          |  ||
