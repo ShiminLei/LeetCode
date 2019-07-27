@@ -277,7 +277,7 @@ LeetCode collection.
 |          |773. Sliding Puzzle 处理二维矩阵的技巧 ||
 |          |102. Binary Tree Level Order Traversal  这个一道BFS,和773对比||
 |          |Lint-531. Six Degrees  ||
-|          |  ||
+|          |Lint-573. Build Post Office II  ||
 |          |  ||
 |          |  ||
 |          |  ||
