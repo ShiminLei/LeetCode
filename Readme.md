@@ -337,7 +337,7 @@ LeetCode collection.
 |          |305. Number of Islands II 很重要的并查集的题 ||
 |          |Lint-590. Connecting Graph II  ||
 |          |Lint-591. Connecting Graph III  ||
-|          |  ||
+|          |Lint-432. Find the Weak Connected Component in the Directed Graph  ||
 |          |  ||
 |          |  ||
 |          |  ||
