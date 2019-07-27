@@ -19,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/Readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="195">
-                <caret line="333" column="49" lean-forward="true" selection-start-line="333" selection-start-column="49" selection-end-line="333" selection-end-column="49" />
+              <first_editor relative-caret-position="295">
+                <caret line="441" column="47" lean-forward="true" selection-start-line="441" selection-start-column="47" selection-end-line="441" selection-end-column="47" />
               </first_editor>
               <second_editor />
             </state>
@@ -252,7 +252,7 @@
       <workItem from="1563814041093" duration="898000" />
       <workItem from="1563828174558" duration="2540000" />
       <workItem from="1563913568670" duration="618000" />
-      <workItem from="1563940669977" duration="12428000" />
+      <workItem from="1563940669977" duration="12796000" />
     </task>
     <task id="LOCAL-00001" summary="c">
       <created>1552255333132</created>
@@ -496,7 +496,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="302660000" />
+    <option name="totallyTimeSpent" value="303028000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1112" y="0" width="1112" height="834" extended-state="0" />
@@ -596,8 +596,8 @@
     <entry file="file://$PROJECT_DIR$/Readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="195">
-            <caret line="333" column="49" lean-forward="true" selection-start-line="333" selection-start-column="49" selection-end-line="333" selection-end-column="49" />
+          <first_editor relative-caret-position="295">
+            <caret line="441" column="47" lean-forward="true" selection-start-line="441" selection-start-column="47" selection-end-line="441" selection-end-column="47" />
           </first_editor>
           <second_editor />
         </state>
