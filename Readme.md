@@ -335,7 +335,7 @@ LeetCode collection.
 |          |Lint-629. Minimum Spanning Tree  最小生成树，Kruskal算法  ||
 |          |684. Redundant Connection  ||
 |          |305. Number of Islands II 很重要的并查集的题 ||
-|          |  ||
+|          |Lint-590. Connecting Graph II  ||
 |          |  ||
 |          |  ||
 | 双指针          |  ||
