@@ -336,7 +336,7 @@ LeetCode collection.
 |          |684. Redundant Connection  ||
 |          |305. Number of Islands II 很重要的并查集的题 ||
 |          |Lint-590. Connecting Graph II  ||
-|          |  ||
+|          |Lint-591. Connecting Graph III  ||
 |          |  ||
 | 双指针          |  ||
 |          |287. Find the Duplicate Number 兔子和乌龟 ||
