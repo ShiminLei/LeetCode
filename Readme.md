@@ -278,7 +278,7 @@ LeetCode collection.
 |          |102. Binary Tree Level Order Traversal  这个一道BFS,和773对比||
 |          |Lint-531. Six Degrees  ||
 |          |Lint-573. Build Post Office II  ||
-|          |  ||
+|          |752. Open the Lock  ||
 |          |  ||
 |          |  ||
 |          |  ||
