@@ -399,6 +399,10 @@ LeetCode collection.
 |          |276. Paint Fence  ||
 |          |368. Largest Divisible Subset  ||
 |          |343. Integer Break  ||
+|          |583. Delete Operation for Two Strings  ||
+|          |  ||
+|          |  ||
+|          |  ||
 |    |记忆化搜索  ||
 |          |139. Word Break  ||
 |          |140. Word Break II  ||
