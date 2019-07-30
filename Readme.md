@@ -51,10 +51,10 @@ LeetCode collection.
 |          |  ||
 | 线段树 segment tree         |  ||
 |          |Lint-201. Segment Tree Build  ||
-|          |Lint-439. Segment Tree Build II  ||
 |          |Lint-202. Segment Tree Query  ||
-|          |Lint-247. Segment Tree Query II  ||
 |          |Lint-203. Segment Tree Modify  ||
+|          |Lint-439. Segment Tree Build II  ||
+|          |Lint-247. Segment Tree Query II  ||
 |          |  ||
 |          |  ||
 |          |  ||
