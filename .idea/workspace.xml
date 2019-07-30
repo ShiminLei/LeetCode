@@ -20,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/Readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="230">
-                <caret line="56" column="47" selection-start-line="56" selection-start-column="47" selection-end-line="56" selection-end-column="47" />
+              <first_editor relative-caret-position="290">
+                <caret line="60" column="40" lean-forward="true" selection-start-line="60" selection-start-column="40" selection-end-line="60" selection-end-column="40" />
               </first_editor>
               <second_editor />
             </state>
@@ -254,7 +254,8 @@
       <workItem from="1563828174558" duration="2540000" />
       <workItem from="1563913568670" duration="618000" />
       <workItem from="1563940669977" duration="17060000" />
-      <workItem from="1564453808170" duration="282000" />
+      <workItem from="1564453808170" duration="1012000" />
+      <workItem from="1564463015379" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="c">
       <created>1552255333132</created>
@@ -498,13 +499,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="307574000" />
+    <option name="totallyTimeSpent" value="308310000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1112" y="0" width="1112" height="834" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32490638" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33146068" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -598,8 +599,8 @@
     <entry file="file://$PROJECT_DIR$/Readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="230">
-            <caret line="56" column="47" selection-start-line="56" selection-start-column="47" selection-end-line="56" selection-end-column="47" />
+          <first_editor relative-caret-position="290">
+            <caret line="60" column="40" lean-forward="true" selection-start-line="60" selection-start-column="40" selection-end-line="60" selection-end-column="40" />
           </first_editor>
           <second_editor />
         </state>
