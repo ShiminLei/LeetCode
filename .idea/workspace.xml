@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="44a12db2-4d1b-4781-b322-64a4866c4d06" name="Default Changelist" comment="&#10;c">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,22 +12,6 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode.coverage" NAME="LeetCode Coverage Results" MODIFIED="1552346967649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="290">
-                <caret line="60" column="40" lean-forward="true" selection-start-line="60" selection-start-column="40" selection-end-line="60" selection-end-column="40" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -75,97 +58,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/502. IPO.py" />
-        <option value="$PROJECT_DIR$/490. The Maze.py" />
-        <option value="$PROJECT_DIR$/237. Delete Node in a Linked List.py" />
-        <option value="$PROJECT_DIR$/142. Linked List Cycle II.py" />
-        <option value="$PROJECT_DIR$/709. To Lower Case.py" />
-        <option value="$PROJECT_DIR$/258. Add Digits.py" />
-        <option value="$PROJECT_DIR$/415. Add Strings.py" />
-        <option value="$PROJECT_DIR$/202. Happy Number.py" />
-        <option value="$PROJECT_DIR$/529. Minesweeper.py" />
-        <option value="$PROJECT_DIR$/73. Set Matrix Zeroes.py" />
-        <option value="$PROJECT_DIR$/48. Rotate Image.py" />
-        <option value="$PROJECT_DIR$/344. Reverse String.py" />
-        <option value="$PROJECT_DIR$/414. Third Maximum Number.py" />
-        <option value="$PROJECT_DIR$/448. Find All Numbers Disappeared in an Array.py" />
-        <option value="$PROJECT_DIR$/66. Plus One.py" />
-        <option value="$PROJECT_DIR$/509. Fibonacci Number.py" />
-        <option value="$PROJECT_DIR$/89. Gray Code.py" />
-        <option value="$PROJECT_DIR$/26. Remove Duplicates from Sorted Array.py" />
-        <option value="$PROJECT_DIR$/90. Subsets II.py" />
-        <option value="$PROJECT_DIR$/60. Permutation Sequence.py" />
-        <option value="$PROJECT_DIR$/784. Letter Case Permutation.py" />
-        <option value="$PROJECT_DIR$/47. Permutations II.py" />
-        <option value="$PROJECT_DIR$/31. Next Permutation.py" />
-        <option value="$PROJECT_DIR$/39. Combination Sum.py" />
-        <option value="$PROJECT_DIR$/40. Combination Sum II.py" />
-        <option value="$PROJECT_DIR$/22. Generate Parentheses.py" />
-        <option value="$PROJECT_DIR$/51. N-Queens.py" />
-        <option value="$PROJECT_DIR$/153. Find Minimum in Rotated Sorted Array.py" />
-        <option value="$PROJECT_DIR$/33. Search in Rotated Sorted Array.py" />
-        <option value="$PROJECT_DIR$/35. Search Insert Position.py" />
-        <option value="$PROJECT_DIR$/34. Find First and Last Position of Element in Sorted Array.py" />
-        <option value="$PROJECT_DIR$/46. Permutations.py" />
-        <option value="$PROJECT_DIR$/189. Rotate Array.py" />
-        <option value="$PROJECT_DIR$/7. Reverse Integer.py" />
-        <option value="$PROJECT_DIR$/475. Heaters.py" />
-        <option value="$PROJECT_DIR$/69. Sqrt(x).py" />
-        <option value="$PROJECT_DIR$/74. Search a 2D Matrix.py" />
-        <option value="$PROJECT_DIR$/240. Search a 2D Matrix II.py" />
-        <option value="$PROJECT_DIR$/78. Subsets.py" />
-        <option value="$PROJECT_DIR$/378. Kth Smallest Element in a Sorted Matrix.py" />
-        <option value="$PROJECT_DIR$/56. Merge Intervals.py" />
-        <option value="$PROJECT_DIR$/57. Insert Interval.py" />
-        <option value="$PROJECT_DIR$/50. Pow(x, n).py" />
-        <option value="$PROJECT_DIR$/162. Find Peak Element.py" />
-        <option value="$PROJECT_DIR$/287. Find the Duplicate Number.py" />
-        <option value="$PROJECT_DIR$/349. Intersection of Two Arrays.py" />
-        <option value="$PROJECT_DIR$/350. Intersection of Two Arrays II.py" />
-        <option value="$PROJECT_DIR$/493. Reverse Pairs.py" />
-        <option value="$PROJECT_DIR$/523. Continuous Subarray Sum.py" />
-        <option value="$USER_HOME$/Desktop/Udacity 全栈工程师/project1 /code.py" />
-        <option value="$PROJECT_DIR$/Readme.md" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="-1112" />
     <option name="width" value="1112" />
     <option name="height" value="834" />
   </component>
+  <component name="ProjectId" id="1Ol3asFgX4dTf9E9o2UcrORN397" />
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="4.LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="4.LeetCode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="4.LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="4.LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -255,7 +159,8 @@
       <workItem from="1563913568670" duration="618000" />
       <workItem from="1563940669977" duration="17060000" />
       <workItem from="1564453808170" duration="1012000" />
-      <workItem from="1564463015379" duration="6000" />
+      <workItem from="1564463015379" duration="492000" />
+      <workItem from="1564538428275" duration="32000" />
     </task>
     <task id="LOCAL-00001" summary="c">
       <created>1552255333132</created>
@@ -498,113 +403,23 @@
     <option name="localTasksCounter" value="35" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="308310000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-1112" y="0" width="1112" height="834" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33146068" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32961586" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32961586" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007163" side_tool="true" weight="0.28996283" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49928367" visible="true" weight="0.25910932" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32961586" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="R Graphics" order="4" />
-      <window_info anchor="right" id="R Packages" order="5" />
-      <window_info anchor="right" id="Scheme.REPL" order="6" side_tool="true" />
-      <window_info anchor="right" id="Database" order="7" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="c" />
     <MESSAGE value="&#10;c" />
     <option name="LAST_COMMIT_MESSAGE" value="&#10;c" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/142. Linked List Cycle II.py" />
-    <entry file="file://$PROJECT_DIR$/709. To Lower Case.py" />
-    <entry file="file://$PROJECT_DIR$/258. Add Digits.py" />
-    <entry file="file://$PROJECT_DIR$/415. Add Strings.py" />
-    <entry file="file://$PROJECT_DIR$/202. Happy Number.py" />
-    <entry file="file://$PROJECT_DIR$/529. Minesweeper.py" />
-    <entry file="file://$PROJECT_DIR$/73. Set Matrix Zeroes.py" />
-    <entry file="file://$PROJECT_DIR$/48. Rotate Image.py" />
-    <entry file="file://$PROJECT_DIR$/344. Reverse String.py" />
-    <entry file="file://$PROJECT_DIR$/414. Third Maximum Number.py" />
-    <entry file="file://$PROJECT_DIR$/448. Find All Numbers Disappeared in an Array.py" />
-    <entry file="file://$PROJECT_DIR$/66. Plus One.py" />
-    <entry file="file://$PROJECT_DIR$/509. Fibonacci Number.py" />
-    <entry file="file://$PROJECT_DIR$/89. Gray Code.py" />
-    <entry file="file://$PROJECT_DIR$/26. Remove Duplicates from Sorted Array.py" />
-    <entry file="file://$PROJECT_DIR$/90. Subsets II.py" />
-    <entry file="file://$PROJECT_DIR$/60. Permutation Sequence.py" />
-    <entry file="file://$PROJECT_DIR$/784. Letter Case Permutation.py" />
-    <entry file="file://$PROJECT_DIR$/47. Permutations II.py" />
-    <entry file="file://$PROJECT_DIR$/31. Next Permutation.py" />
-    <entry file="file://$PROJECT_DIR$/40. Combination Sum II.py" />
-    <entry file="file://$PROJECT_DIR$/39. Combination Sum.py" />
-    <entry file="file://$PROJECT_DIR$/22. Generate Parentheses.py" />
-    <entry file="file://$PROJECT_DIR$/51. N-Queens.py" />
-    <entry file="file://$PROJECT_DIR$/153. Find Minimum in Rotated Sorted Array.py" />
-    <entry file="file://$PROJECT_DIR$/33. Search in Rotated Sorted Array.py" />
-    <entry file="file://$PROJECT_DIR$/35. Search Insert Position.py" />
-    <entry file="file://$PROJECT_DIR$/34. Find First and Last Position of Element in Sorted Array.py" />
-    <entry file="file://$PROJECT_DIR$/46. Permutations.py" />
-    <entry file="file://$PROJECT_DIR$/189. Rotate Array.py" />
-    <entry file="file://$PROJECT_DIR$/7. Reverse Integer.py" />
-    <entry file="file://$PROJECT_DIR$/475. Heaters.py" />
-    <entry file="file://$PROJECT_DIR$/69. Sqrt(x).py" />
-    <entry file="file://$PROJECT_DIR$/74. Search a 2D Matrix.py" />
-    <entry file="file://$PROJECT_DIR$/240. Search a 2D Matrix II.py" />
-    <entry file="file://$PROJECT_DIR$/78. Subsets.py" />
-    <entry file="file://$PROJECT_DIR$/378. Kth Smallest Element in a Sorted Matrix.py" />
-    <entry file="file://$PROJECT_DIR$/57. Insert Interval.py" />
-    <entry file="file://$PROJECT_DIR$/56. Merge Intervals.py" />
-    <entry file="file://$PROJECT_DIR$/162. Find Peak Element.py" />
-    <entry file="file://$PROJECT_DIR$/287. Find the Duplicate Number.py" />
-    <entry file="file://$PROJECT_DIR$/349. Intersection of Two Arrays.py" />
-    <entry file="file://$PROJECT_DIR$/0try.ipynb" />
-    <entry file="file://$PROJECT_DIR$/50. Pow(x, n).py" />
-    <entry file="file://$PROJECT_DIR$/373. Find K Pairs with Smallest Sums.py" />
-    <entry file="file://$PROJECT_DIR$/350. Intersection of Two Arrays II.py" />
-    <entry file="file://$PROJECT_DIR$/493. Reverse Pairs.py" />
-    <entry file="file://$PROJECT_DIR$/523. Continuous Subarray Sum.py" />
-    <entry file="file://$PROJECT_DIR$/0.笔记.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/Udacity 全栈工程师/project1 /code.py" />
-    <entry file="file://$PROJECT_DIR$/Readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="290">
-            <caret line="60" column="40" lean-forward="true" selection-start-line="60" selection-start-column="40" selection-end-line="60" selection-end-column="40" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
