@@ -215,7 +215,7 @@ LeetCode collection.
 |          |272. Closest Binary Search Tree Value II  ||
 |          |114. Flatten Binary Tree to Linked List  ||
 |          |110. Balanced Binary Tree  ||
-|          |98. Validate Binary Search Tree  ||
+|          |98. Validate Binary Search Tree 判断二叉搜索树 ||
 |          |173. Binary Search Tree Iterator  ||
 |          |235. Lowest Common Ancestor of a Binary Search Tree  ||
 |          |236. Lowest Common Ancestor of a Binary Tree  ||
