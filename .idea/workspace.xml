@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="44a12db2-4d1b-4781-b322-64a4866c4d06" name="Default Changelist" comment="&#10;c">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,40 +21,6 @@
         <option value="Python Script" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>125</find>
-      <find>28</find>
-      <find>90</find>
-      <find>combination</find>
-      <find>79</find>
-      <find>Pattern</find>
-      <find>30</find>
-      <find>294</find>
-      <find>36</find>
-      <find>248</find>
-      <find>K Closest</find>
-      <find>132</find>
-      <find>54</find>
-      <find>298</find>
-      <find>124</find>
-      <find>480</find>
-      <find>654</find>
-      <find>K closest P</find>
-      <find>139</find>
-      <find>REctangle</find>
-      <find>Spanning</find>
-      <find>Path Sum</find>
-      <find>70</find>
-      <find>K edit</find>
-      <find>72</find>
-      <find>First Uni</find>
-      <find>permutation</find>
-      <find>paren</find>
-      <find>547</find>
-      <find>64</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -160,7 +127,7 @@
       <workItem from="1563940669977" duration="17060000" />
       <workItem from="1564453808170" duration="1012000" />
       <workItem from="1564463015379" duration="492000" />
-      <workItem from="1564538428275" duration="32000" />
+      <workItem from="1564538428275" duration="652000" />
     </task>
     <task id="LOCAL-00001" summary="c">
       <created>1552255333132</created>

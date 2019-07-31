@@ -225,12 +225,6 @@ LeetCode collection.
 |          |549. Binary Tree Longest Consecutive Sequence II  ||
 |          |  ||
 |          |  ||
-|       |最小生成树  | 贪心的思想 |
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
 |          |  ||
 |          |----  ||
 |          |104. Maximum Depth of Binary Tree  ||
@@ -260,6 +254,11 @@ LeetCode collection.
 |          |Lint-472. Binary Tree Path Sum III 二叉树无向图的构建 ||
 |          |450. Delete Node in a BST 还没做  ||
 |          |938. Range Sum of BST 还没做  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
 |          |  ||
 |          |  ||
 |          |  ||
