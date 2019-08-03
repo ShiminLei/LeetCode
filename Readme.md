@@ -38,8 +38,6 @@ LeetCode collection.
 |          |189. Rotate Array  ||
 |          |7. Reverse Integer  ||
 |          |475. Heaters  ||
-|          |56. Merge Intervals  ||
-|          |Lint-577. Merge K Sorted Interval Lists  |
 |          |57. Insert Interval  ||
 |          |349. Intersection of Two Arrays  ||
 |          |278. First Bad Version  ||
@@ -76,6 +74,8 @@ LeetCode collection.
 |          |643. Maximum Average Subarray I  ||
 |          |644. Maximum Average Subarray II 二分法，尺举法 ||
 |          |Lint-64. Merge Sorted Array  ||
+|          |56. Merge Intervals  ||
+|          |Lint-577. Merge K Sorted Interval Lists  |
 |          |  ||
 |          |  ||
 |          |  ||
