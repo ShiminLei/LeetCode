@@ -33,6 +33,7 @@ LeetCode collection.
 |          |162. Find Peak Element  |1-no |
 |          |69. Sqrt(x)  |1-yes |
 |          |4. Median of Two Sorted Array  和下面的题是一样的||
+|          |Lint-931. Median of K Sorted Arrays  ||
 |          |Laicode: Kth Smallest In Two Sorted Arrays 这个题非常重要！可以到 logn+logk  |bilibili|
 |          |189. Rotate Array  ||
 |          |7. Reverse Integer  ||
@@ -44,7 +45,6 @@ LeetCode collection.
 |          |Lint-140. Fast Power  ||
 |          |378. Kth Smallest Element in a Sorted Matrix 二分中的逼近法 ||
 |          |302. Smallest Rectangle Enclosing Black Pixels 二分中的逼近法 ||
-|          |  ||
 |          |  ||
 |          |经验：并不是所有二分法都适用于 left+1<right, 对于可以排除mid的问题，使用left<=right更简便  ||
 |          |  ||

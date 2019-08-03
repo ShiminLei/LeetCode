@@ -25,11 +25,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-1112" />
-    <option name="width" value="1112" />
-    <option name="height" value="834" />
-  </component>
   <component name="ProjectId" id="1Ol3asFgX4dTf9E9o2UcrORN397" />
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="Update" />
@@ -127,7 +122,12 @@
       <workItem from="1563940669977" duration="17060000" />
       <workItem from="1564453808170" duration="1012000" />
       <workItem from="1564463015379" duration="492000" />
-      <workItem from="1564538428275" duration="1314000" />
+      <workItem from="1564538428275" duration="2249000" />
+      <workItem from="1564575072248" duration="180000" />
+      <workItem from="1564756630291" duration="389000" />
+      <workItem from="1564791913639" duration="306000" />
+      <workItem from="1564841621752" duration="71000" />
+      <workItem from="1564841695553" duration="50000" />
     </task>
     <task id="LOCAL-00001" summary="c">
       <created>1552255333132</created>
@@ -378,7 +378,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
