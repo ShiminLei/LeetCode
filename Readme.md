@@ -39,6 +39,7 @@ LeetCode collection.
 |          |7. Reverse Integer  ||
 |          |475. Heaters  ||
 |          |56. Merge Intervals  ||
+|          |Lint-577. Merge K Sorted Interval Lists  |
 |          |57. Insert Interval  ||
 |          |349. Intersection of Two Arrays  ||
 |          |278. First Bad Version  ||
@@ -46,8 +47,13 @@ LeetCode collection.
 |          |378. Kth Smallest Element in a Sorted Matrix 二分中的逼近法 ||
 |          |302. Smallest Rectangle Enclosing Black Pixels 二分中的逼近法 ||
 |          |  ||
-|          |经验：并不是所有二分法都适用于 left+1<right, 对于可以排除mid的问题，使用left<=right更简便  ||
 |          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |经验：并不是所有二分法都适用于 left+1<right, 对于可以排除mid的问题，使用left<=right更简便  ||
 |          |  ||
 | 线段树 segment tree         |  ||
 |          |Lint-201. Segment Tree Build  ||
