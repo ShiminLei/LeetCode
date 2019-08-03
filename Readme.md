@@ -75,7 +75,7 @@ LeetCode collection.
 |          |644. Maximum Average Subarray II 二分法，尺举法 ||
 |          |Lint-64. Merge Sorted Array  ||
 |          |56. Merge Intervals  | 关键是保证开头是sort|
-|          |Lint-577. Merge K Sorted Interval Lists  |
+|          |Lint-577. Merge K Sorted Interval Lists  | |
 |          |  ||
 |          |  ||
 |          |  ||
