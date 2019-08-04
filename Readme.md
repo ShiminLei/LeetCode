@@ -59,12 +59,16 @@ LeetCode collection.
 |          |Lint-202. Segment Tree Query  ||
 |          |Lint-247. Segment Tree Query II  ||
 |          |Lint-203. Segment Tree Modify  ||
+|          |206. Interval Sum  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
 |          |307. Range Sum Query - Mutable 还没做  ||
 |          |  ||
 |          |  ||
 |          |218. The Skyline Problem  ||
-|          |  ||
-|          |  ||
 |          |  ||
 | 排序         |  ||
 |          |969. Pancake Sorting  ||
