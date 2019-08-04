@@ -66,6 +66,8 @@ LeetCode collection.
 |          |  ||
 |          |  ||
 |          |307. Range Sum Query - Mutable 还没做  ||
+|          |817. Range Sum Query 2D - Mutable  ||
+|          |665. Range Sum Query 2D - Immutable  ||
 |          |  ||
 |          |  ||
 |          |218. The Skyline Problem  ||
