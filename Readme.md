@@ -60,9 +60,9 @@ LeetCode collection.
 |          |Lint-247. Segment Tree Query II  ||
 |          |Lint-203. Segment Tree Modify  ||
 |          |206. Interval Sum  ||
-|          |  ||
-|          |  ||
-|          |  ||
+|          |207. Interval Sum II  ||
+|          |248. Count of Smaller Number  ||
+|          |249. Count of Smaller Number before itself  ||
 |          |  ||
 |          |  ||
 |          |307. Range Sum Query - Mutable 还没做  ||
