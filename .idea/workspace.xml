@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44a12db2-4d1b-4781-b322-64a4866c4d06" name="Default Changelist" comment="&#10;c">
+      <change afterPath="$PROJECT_DIR$/finished.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +31,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -128,7 +129,8 @@
       <workItem from="1564791913639" duration="306000" />
       <workItem from="1564841621752" duration="71000" />
       <workItem from="1564841695553" duration="1621000" />
-      <workItem from="1564938148139" duration="1128000" />
+      <workItem from="1564938148139" duration="1593000" />
+      <workItem from="1565009788612" duration="2113000" />
     </task>
     <task id="LOCAL-00001" summary="c">
       <created>1552255333132</created>
@@ -388,6 +390,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="c" />
     <MESSAGE value="&#10;c" />
     <option name="LAST_COMMIT_MESSAGE" value="&#10;c" />
