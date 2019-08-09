@@ -20,14 +20,7 @@ LeetCode collection.
 |          |22. Generate Parentheses  ||
 | 二分搜索          |  ||
 |   *       |50. Pow(x, n)||
-|          |153. Find Minimum in Rotated Sorted Array  ||
-|          |154. Find Minimum in Rotated Sorted Array II  ||
-|          |702. Search in a Sorted Array of Unknown Size 这个题定量分析 ！ | |
-|          |74. Search a 2D Matrix  | |
-|          |240. Search a 2D Matrix I  ||
-|          |162. Find Peak Element  | |
-|          |69. Sqrt(x)  |1-yes |
-|          |4. Median of Two Sorted Array  和下面的题是一样的||
+|     *     |4. Median of Two Sorted Array  和下面的题是一样的||
 |          |Lint-931. Median of K Sorted Arrays  ||
 |          |Laicode: Kth Smallest In Two Sorted Arrays 这个题非常重要！可以到 logn+logk  |bilibili|
 |          |189. Rotate Array  ||
