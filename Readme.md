@@ -389,16 +389,20 @@ LeetCode collection.
 |          |26. Remove Duplicates from Sorted Array  ||
 |          |80. Remove Duplicates from Sorted Array II  ||
 |          |27. Remove Element  ||
-|          |209. Minimum Size Subarray Sum  | 同向双指针|
 |          |28. Implement strStr()  ||
 |          |713. Subarray Product Less Than K  ||
-|          |3. Longest Substring Without Repeating Characters  ||
 |          |438. Find All Anagrams in a String  ||
-|          |76. Minimum Window Substring  ||
 |          |159. Longest Substring with At Most Two Distinct Characters  |还没做|
 |          |340. Longest Substring with At Most K Distinct Characters  |还没做|
 |          |239. Sliding Window Maximum  可以用堆 |还没做|
 |          |480. Sliding Window Median  ||
+|          |  ||
+|      | 同向双指针 ||
+|          |209. Minimum Size Subarray Sum  | 同向双指针|
+|          |3. Longest Substring Without Repeating Characters  ||
+|          |76. Minimum Window Substring  ||
+|          |  ||
+|          |  ||
 |          |  ||
 |动态规划          |  ||
 |          |198. House Robber  ||
