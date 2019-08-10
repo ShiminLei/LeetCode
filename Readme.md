@@ -389,7 +389,7 @@ LeetCode collection.
 |          |26. Remove Duplicates from Sorted Array  ||
 |          |80. Remove Duplicates from Sorted Array II  ||
 |          |27. Remove Element  ||
-|          |209. Minimum Size Subarray Sum  | 没有写出来，清醒的时候重新写|
+|          |209. Minimum Size Subarray Sum  | 同向双指针|
 |          |28. Implement strStr()  ||
 |          |713. Subarray Product Less Than K  ||
 |          |3. Longest Substring Without Repeating Characters  ||

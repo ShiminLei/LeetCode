@@ -23,8 +23,6 @@ LeetCode collection.
 |     *     |4. Median of Two Sorted Array  和下面的题是一样的||
 |          |Lint-931. Median of K Sorted Arrays  ||
 |          |Laicode: Kth Smallest In Two Sorted Arrays 这个题非常重要！可以到 logn+logk  |bilibili|
-|          |189. Rotate Array  ||
-|          |7. Reverse Integer  ||
 |          |475. Heaters  ||
 |          |57. Insert Interval  ||
 |          |349. Intersection of Two Arrays  ||
