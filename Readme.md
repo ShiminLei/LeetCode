@@ -213,6 +213,7 @@ LeetCode collection.
 |          |373. Find K Pairs with Smallest Sums  |n |
 |          |23. Merge k Sorted Lists  ||
 |          |295. Find Median from Data Stream  ||
+|          |480. Sliding Window Median  ||
 |          |502. IPO  ||
 |          |451. Sort Characters By Frequency 还没做  ||
 |          |871. Minimum Number of Refueling Stops 还没做  ||
