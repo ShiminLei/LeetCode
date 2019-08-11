@@ -217,6 +217,7 @@ LeetCode collection.
 |          |451. Sort Characters By Frequency 还没做  ||
 |          |871. Minimum Number of Refueling Stops 还没做  ||
 |          |407. Trapping Rain Water II  ||
+|          |378. Kth Smallest Element in a Sorted Matrix | klogk |
 |          |  ||
 |          |  ||
 |          |  ||
@@ -348,9 +349,11 @@ LeetCode collection.
 |          |Lint-629. Minimum Spanning Tree  最小生成树，Kruskal算法  ||
 |          |684. Redundant Connection  ||
 |          |305. Number of Islands II 很重要的并查集的题 ||
+|          |Lint-589. Connecting Graph  ||
 |          |Lint-590. Connecting Graph II  ||
 |          |Lint-591. Connecting Graph III  ||
 |          |Lint-432. Find the Weak Connected Component in the Directed Graph 最后一块没看懂 ||
+|          |721. Accounts Merge  ||
 |          |  ||
 |          |  ||
 |          |  ||
@@ -401,7 +404,7 @@ LeetCode collection.
 |          |209. Minimum Size Subarray Sum  | 同向双指针|
 |          |3. Longest Substring Without Repeating Characters  ||
 |          |76. Minimum Window Substring  ||
-|          |  ||
+|          |340. Longest Substring with At Most K Distinct Characters  ||
 |          |  ||
 |          |  ||
 |动态规划          |  ||
