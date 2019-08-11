@@ -219,7 +219,7 @@ LeetCode collection.
 |          |871. Minimum Number of Refueling Stops 还没做  ||
 |          |407. Trapping Rain Water II  ||
 |          |378. Kth Smallest Element in a Sorted Matrix | klogk |
-|          |42. Trapping Rain Water  ||
+|          |42. Trapping Rain Water 单调栈 ||
 |          |407. Trapping Rain Water II  ||
 |          |  ||
 |          |  ||
