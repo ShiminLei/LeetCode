@@ -4,15 +4,9 @@ LeetCode collection.
 | Date | Question Numbers | :sparkles: Star !|
 | :---  | :--: | ---:|
 | 数组和动态数组|||
-|          |73. Set Matrix Zeroes  ||
-|          |48. Rotate Image  ||
-|          |344. Reverse String  ||
-|          |414. Third Maximum Number  ||
-|          |448. Find All Numbers Disappeared in an Array  ||
-|          |66. Plus One  ||
-|          |238. Product of Array Except Self||
-|          |697. Degree of an Array  ||
-|          |849. Maximize Distance to Closest Person  ||
+|   *       |73. Set Matrix Zeroes  ||
+|  *        |238. Product of Array Except Self||
+|   *       |697. Degree of an Array  ||
 |          |  ||
 | 递归          |  ||
 |          |784. Letter Case Permutation  ||
