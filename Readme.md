@@ -41,7 +41,6 @@ LeetCode collection.
 |          |475. Heaters  ||
 |          |57. Insert Interval  ||
 |          |349. Intersection of Two Arrays  ||
-|          |278. First Bad Version  ||
 |          |Lint-140. Fast Power  ||
 |          |378. Kth Smallest Element in a Sorted Matrix 二分中的逼近法 ||
 |          |302. Smallest Rectangle Enclosing Black Pixels 二分中的逼近法 ||

@@ -9,18 +9,13 @@ LeetCode collection.
 |   *       |697. Degree of an Array  ||
 |          |  ||
 | 递归          |  ||
-|          |784. Letter Case Permutation  ||
-|          |31. Next Permutation  ||
-|          |22. Generate Parentheses  ||
+|     *     |31. Next Permutation  ||
+|      *    |22. Generate Parentheses  ||
 | 二分搜索          |  ||
 |   *       |50. Pow(x, n)||
 |     *     |4. Median of Two Sorted Array  和下面的题是一样的||
-|          |Lint-931. Median of K Sorted Arrays  ||
 |          |Laicode: Kth Smallest In Two Sorted Arrays 这个题非常重要！可以到 logn+logk  |bilibili|
-|          |475. Heaters  ||
-|          |57. Insert Interval  ||
-|          |349. Intersection of Two Arrays  ||
-|          |278. First Bad Version  ||
+|     *     |57. Insert Interval  ||
 |          |Lint-140. Fast Power  ||
 |          |378. Kth Smallest Element in a Sorted Matrix 二分中的逼近法 ||
 |          |302. Smallest Rectangle Enclosing Black Pixels 二分中的逼近法 ||
@@ -31,6 +26,7 @@ LeetCode collection.
 |          |  ||
 |          |  ||
 |          |  ||
+|          |Lint-931. Median of K Sorted Arrays  ||
 |          |经验：并不是所有二分法都适用于 left+1<right, 对于可以排除mid的问题，使用left<=right更简便  ||
 |          |  ||
 | 线段树 segment tree         |  ||
@@ -53,27 +49,10 @@ LeetCode collection.
 |          |218. The Skyline Problem  ||
 |          |  ||
 | 排序         |  ||
-|          |969. Pancake Sorting  ||
-|          |347. Top K Frequent Elements 桶排序  ||
-|          |296. Best Meeting Point  ||
-|          |Lint-139. Subarray Sum Closest  ||
-|          |643. Maximum Average Subarray I  ||
-|          |644. Maximum Average Subarray II 二分法，尺举法 ||
-|          |Lint-64. Merge Sorted Array  ||
-|          |56. Merge Intervals  | 关键是保证开头是sort|
-|          |Lint-577. Merge K Sorted Interval Lists  | |
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          | 归并变种 ||
-|          |493. Reverse Pairs 归并排序 ||
-|          |  ||
-|          |  ||
-|          | --- ||
-|          | 快排变种 ||
-|          |215. Kth Largest Element in an Array  ||
-|          |Lint-143. Sort Colors II  彩虹排序  ||
+|      *    |Lint-139. Subarray Sum Closest  ||
+|     *     |644. Maximum Average Subarray II 二分法，尺举法 ||
+|     *     |493. Reverse Pairs 归并排序 ||
+|     *     |Lint-143. Sort Colors II  彩虹排序  ||
 |          |  ||
 |          |  ||
 |          |  ||
