@@ -60,11 +60,6 @@ LeetCode collection.
 |          |  ||
 |          |  ||
 | 分治法|  ||
-|          |349. Intersection of Two Arrays  ||
-|          |350. Intersection of Two Arrays II  ||
-|          |53.Maximum Subarray  这题实际是动态规划||
-|          |311. Sparse Matrix Multiplication ||
-|          |523. Continuous Subarray Sum  ||
 |          |241. Different Ways to Add Parentheses 分治，递归 ||
 |          |  ||
 |          |  ||
