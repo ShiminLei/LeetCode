@@ -69,6 +69,12 @@ LeetCode collection.
 |          |817. Range Sum Query 2D - Mutable  ||
 |          |665. Range Sum Query 2D - Immutable  ||
 |          |  ||
+| 扫描线        |  ||
+|          |Lint-391. Number of Airplanes in the Sky  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
 |          |  ||
 |          |218. The Skyline Problem  ||
 |          |  ||

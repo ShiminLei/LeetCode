@@ -53,49 +53,12 @@ LeetCode collection.
 |     *     |644. Maximum Average Subarray II 二分法，尺举法 ||
 |     *     |493. Reverse Pairs 归并排序 ||
 |     *     |Lint-143. Sort Colors II  彩虹排序  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-| 分治法|  ||
-|          |241. Different Ways to Add Parentheses 分治，递归 ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-| 链表          |  ||
-|          |237. Delete Node in a Linked List ||
-|          |876. Middle of the Linked List  ||
-|          |141. Linked List Cycle  ||
-|          |142. Linked List Cycle II (找到环的开始)  ||
-|          |19. Remove Nth Node From End of List  ||
-|          |21. Merge Two Sorted Lists  ||
-|          |160. Intersection of Two Linked Lists  ||
-|          |147. Insertion Sort List  ||
-|          |148. Sort List  ||
-|          |86. Partition List  ||
-|          |206. Reverse Linked List  ||
-|          |92. Reverse Linked List II  ||
-|          |25. Reverse Nodes in k-Group  |没做出来，要重新看一遍|
-|          |234. Palindrome Linked List 回文  |不会|
-|          |83. Remove Duplicates from Sorted List  ||
-|          |82. Remove Duplicates from Sorted List II  ||
-|          |61. Rotate List  还没做||
-|          |24. Swap Nodes in Pairs  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
 |堆栈和队列          |  ||
-|          |32. Longest Valid Parentheses   ||
+|    *      |32. Longest Valid Parentheses   ||
 |          |71. Simplify Path  ||
 |          |394. Decode String  ||
 |          |682. Baseball Game  ||
+
 |          |735. Asteroid Collision  ||
 |          |239. Sliding Window Maximum 还没做，优先考虑用队列的方法 ||
 |          |224. Basic Calculator  ||
