@@ -34,6 +34,7 @@ LeetCode collection.
 |          |240. Search a 2D Matrix II  |1-no |
 |          |162. Find Peak Element  |1-no |
 |          |69. Sqrt(x)  |1-yes |
+|          |Lint-586. Sqrt(x) II  ||
 |          |4. Median of Two Sorted Array  和下面的题是一样的||
 |          |Lint-931. Median of K Sorted Arrays  ||
 |          |Laicode: Kth Smallest In Two Sorted Arrays 这个题非常重要！可以到 logn+logk  |bilibili|
@@ -44,7 +45,6 @@ LeetCode collection.
 |          |Lint-140. Fast Power  ||
 |          |378. Kth Smallest Element in a Sorted Matrix 二分中的逼近法 ||
 |          |302. Smallest Rectangle Enclosing Black Pixels 二分中的逼近法 ||
-|          |  ||
 |          |  ||
 |          |  ||
 |          |  ||
