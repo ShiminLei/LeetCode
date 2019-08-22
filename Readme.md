@@ -71,12 +71,12 @@ LeetCode collection.
 |          |  ||
 | 扫描线        |  ||
 |          |Lint-391. Number of Airplanes in the Sky  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
-|          |  ||
 |          |218. The Skyline Problem  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
 |          |  ||
 | 排序         |  ||
 |          |969. Pancake Sorting  ||
