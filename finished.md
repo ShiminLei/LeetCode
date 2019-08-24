@@ -47,6 +47,8 @@ LeetCode collection.
 |          |  ||
 |          |  ||
 |          |218. The Skyline Problem  ||
+|          |Lint-183. Wood Cut  ||
+
 |          |  ||
 | 排序         |  ||
 |      *    |Lint-139. Subarray Sum Closest  ||
@@ -94,6 +96,7 @@ LeetCode collection.
 |          |Lint-230. Animal Shelter 双端队列，链表  ||
 |          |346. Moving Average from Data Stream  ||
 |          |  ||
+239. Sliding Window Maximum
 |          |  ||
 |          |  ||
 |          |  ||

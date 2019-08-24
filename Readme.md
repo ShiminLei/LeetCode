@@ -45,7 +45,7 @@ LeetCode collection.
 |          |Lint-140. Fast Power  ||
 |          |378. Kth Smallest Element in a Sorted Matrix 二分中的逼近法 ||
 |          |302. Smallest Rectangle Enclosing Black Pixels 二分中的逼近法 ||
-|          |  ||
+|          |Lint-183. Wood Cut  ||
 |          |  ||
 |          |  ||
 |          |  ||
@@ -72,7 +72,7 @@ LeetCode collection.
 | 扫描线        |  ||
 |          |Lint-391. Number of Airplanes in the Sky  ||
 |          |218. The Skyline Problem  ||
-|          |  ||
+|          |253. Meeting Rooms II  ||
 |          |  ||
 |          |  ||
 |          |  ||
@@ -182,7 +182,7 @@ LeetCode collection.
 |   | 队列 queue  ||
 |          |Lint-230. Animal Shelter 双端队列，链表  ||
 |          |346. Moving Average from Data Stream  ||
-|          |  ||
+|          |239. Sliding Window Maximum  ||
 |          |  ||
 |          |  ||
 |          |  ||
