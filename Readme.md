@@ -336,7 +336,6 @@ LeetCode collection.
 |          |690. Employee Importance  ||
 |          |785. Is Graph Bipartite?  |涂颜色|
 |          |417. Pacific Atlantic Water Flow  ||
-|          |329. Longest Increasing Path in a Matrix  ||
 |          |542. 01 Matrix  |n 不会|
 |          |721. Accounts Merge  |考察点，把数据转换成图|
 |          |210. Course Schedule II  ||
@@ -443,7 +442,7 @@ LeetCode collection.
 |          |64. Minimum Path Sum 坐标型 (可以用滚动数组节省空间) ||
 |          |361. Bomb Enemy 坐标型  ||
 |          |674. Longest Continuous Increasing Subsequence  ||
-|          |Lint-398. Longest Continuous Increasing Subsequence II  ||
+|          |329. Longest Increasing Path in a Matrix  ||
 |          |338. Counting Bits  ||
 |      |序列型动态规划：          ||
 |          |Lint-843. Digital Flip   ||
