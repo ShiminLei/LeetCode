@@ -433,7 +433,6 @@ LeetCode collection.
 |          |140. Word Break II  ||
 |          |Lint-683. Word Break III  ||
 |          |  ||
-|          |  ||
 |       |九章算法 动态规划：       |  |
 |          |322. Coin Change 典型  ||
 |          |62. Unique Paths 计数型动态规划  ||
@@ -444,6 +443,7 @@ LeetCode collection.
 |          |64. Minimum Path Sum 坐标型 (可以用滚动数组节省空间) ||
 |          |361. Bomb Enemy 坐标型  ||
 |          |674. Longest Continuous Increasing Subsequence  ||
+|          |Lint-398. Longest Continuous Increasing Subsequence II  ||
 |          |338. Counting Bits  ||
 |      |序列型动态规划：          ||
 |          |Lint-843. Digital Flip   ||
