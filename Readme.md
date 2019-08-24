@@ -462,6 +462,7 @@ LeetCode collection.
 |          |Lint-437. Copy Books  ||
 |       |博弈型动态规划          ||
 |          |Lint-394. Coins in a Line  ||
+|          |Lint-395. Coins in a Line II  ||
 |       |背包型动态规划 --- 背包的总承重通常都需要放在状态里          ||
 |          |Lint-92. Backpack 可行性 ||
 |          |Lint-563. Backpack V 计数型 ||
@@ -507,7 +508,6 @@ LeetCode collection.
 |          |371. Sum of Two Integers  ||
 |          |172. Factorial Trailing Zeroes 还没做 ||
 |          |260. Single Number III  ||
-|          |  ||
 |          |  ||
 |          |  ||
 |          |  ||
