@@ -424,8 +424,8 @@ LeetCode collection.
 |          |368. Largest Divisible Subset  ||
 |          |343. Integer Break  ||
 |          |583. Delete Operation for Two Strings  ||
-|          |  ||
-|          |  ||
+|          |877. Stone Game  ||
+|          |1140. Stone Game II  ||
 |          |  ||
 |    |记忆化搜索  ||
 |          |139. Word Break  ||
@@ -462,6 +462,7 @@ LeetCode collection.
 |       |博弈型动态规划          ||
 |          |Lint-394. Coins in a Line  ||
 |          |Lint-395. Coins in a Line II  ||
+|          |Lint-396. Coins in a Line III  ||
 |       |背包型动态规划 --- 背包的总承重通常都需要放在状态里          ||
 |          |Lint-92. Backpack 可行性 ||
 |          |Lint-563. Backpack V 计数型 ||
@@ -473,7 +474,6 @@ LeetCode collection.
 |          |516. Longest Palindromic Subsequence  在区间问题中，要按照区间长度的顺序计算||
 |          |  | 记忆化搜索，可以大大降低冗余。自上而下|
 |          |5. Longest Palindromic Substring  ||
-|          |Lint-396. Coins in a Line III  ||
 |          |87. Scramble String  ||
 |          |312. Burst Balloons 消去型题目  ||
 |       | 双序列动态规划  ||
