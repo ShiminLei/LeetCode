@@ -37,6 +37,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -135,7 +136,10 @@
       <workItem from="1566249301198" duration="2264000" />
       <workItem from="1566502009435" duration="597000" />
       <workItem from="1566504070742" duration="3500000" />
-      <workItem from="1566673065504" duration="2076000" />
+      <workItem from="1566673065504" duration="2513000" />
+      <workItem from="1566763750261" duration="532000" />
+      <workItem from="1566771613162" duration="417000" />
+      <workItem from="1566846849488" duration="585000" />
     </task>
     <task id="LOCAL-00001" summary="c">
       <created>1552255333132</created>
