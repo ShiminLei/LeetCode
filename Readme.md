@@ -253,6 +253,7 @@ LeetCode collection.
 |          |101. Symmetric Tree  ||
 |          |100. Same Tree  ||
 |          |700. Search in a Binary Search Tree  ||
+|          |450. Delete Node in a BST  ||
 |          |701. Insert into a Binary Search Tree 见算法导论 165||
 |          |94. Binary Tree Inorder Traversal 用栈实现iterative ||
 |          |230. Kth Smallest Element in a BST 用栈实现inorder遍历 ||
@@ -261,7 +262,6 @@ LeetCode collection.
 |          |102. Binary Tree Level Order Traversal  这个一道BFS,和773对比||
 |          |107. Binary Tree Level Order Traversal II  ||
 |          |513. Find Bottom Left Tree Value  ||
-|          |  ||
 |          |  ||
 |          |  ||
 |          |103. Binary Tree Zigzag Level Order Traversal  ||
