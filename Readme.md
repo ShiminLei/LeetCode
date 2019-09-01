@@ -88,9 +88,8 @@ LeetCode collection.
 |          |Lint-64. Merge Sorted Array  ||
 |          |56. Merge Intervals  | 关键是保证开头是sort|
 |          |Lint-577. Merge K Sorted Interval Lists  | |
-|          |  ||
-|          |  ||
-|          |  ||
+|          |280. Wiggle Sort  ||
+|          |324. Wiggle Sort II  ||
 |          |  ||
 |          | 归并变种 ||
 |          |493. Reverse Pairs 归并排序 ||
@@ -204,10 +203,11 @@ LeetCode collection.
 |          |36. Valid Sudoku  ||
 |          |Lint-594. strStr II 这题不用会 |https://www.jiuzhang.com/video/rabin-karp|
 |          |Lint-138. Subarray Sum  ||
+|          |Lint-404. Subarray Sum II  ||
+|          |Lint-405. Submatrix Sum  ||
+|          |Lint-944. Maximum Submatrix  | 和53一样，降维攻击|
 |          |560. Subarray Sum Equals K  ||
 |          |53. Maximum Subarray 前缀和 ||
-|          |Lint-944. Maximum Submatrix  | 和53一样，降维攻击|
-|          |  ||
 |          |  ||
 |          |  ||
 | 堆          |  ||
@@ -378,7 +378,9 @@ LeetCode collection.
 |          |18. 4Sum  ||
 |          |21. Merge Two Sorted Lists  ||
 |          |349. Intersection of Two Arrays  ||
-|          |523. Continuous Subarray Sum 不会 ||
+|          |523. Continuous Subarray Sum  ||
+|          |Lint-402. Continuous Subarray Sum  ||
+|          |Lint-403. Continuous Subarray Sum II  ||
 |          |169. Majority Element  ||
 |          |229. Majority Element II  摩尔投票算法||
 |          |75. Sort Colors  荷兰国旗：很经典的一道题||
@@ -388,8 +390,6 @@ LeetCode collection.
 |          |125. Valid Palindrome  ||
 |          |986. Interval List Intersections  ||
 |          |Lint-839. Merge Two Sorted Interval Lists  ||
-|          |  ||
-|          |  ||
 |          |  ||
 |          |  ||
 |滑动窗口          |  ||

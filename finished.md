@@ -157,6 +157,8 @@ LeetCode collection.
 |          |298. Binary Tree Longest Consecutive Sequence  ||
 |          |549. Binary Tree Longest Consecutive Sequence II  ||
 |          |  ||
+|          |450. Delete Node in a BST  ||
+
 |          |  ||
 |          |  ||
 |          |----  ||
