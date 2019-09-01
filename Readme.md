@@ -89,8 +89,8 @@ LeetCode collection.
 |          |56. Merge Intervals  | 关键是保证开头是sort|
 |          |Lint-577. Merge K Sorted Interval Lists  | |
 |          |280. Wiggle Sort  ||
-|          |324. Wiggle Sort II  ||
-|          |  ||
+|          |324. Wiggle Sort II 不会 ||
+|          |164. Maximum Gap  ||
 |          | 归并变种 ||
 |          |493. Reverse Pairs 归并排序 ||
 |          |  ||
@@ -162,8 +162,8 @@ LeetCode collection.
 |          |20. Valid Parentheses  ||
 |          |150. Evaluate Reverse Polish Notation 反波兰表达式 ||
 |          |155. Min Stack   ||
-|          |  ||
-|          |  ||
+|          |Lint-22. Flatten List  ||
+|          |341. Flatten Nested List Iterator  ||
 |          |  ||
 |          |  ||
 |        | 单调栈 ||
@@ -208,7 +208,7 @@ LeetCode collection.
 |          |Lint-944. Maximum Submatrix  | 和53一样，降维攻击|
 |          |560. Subarray Sum Equals K  ||
 |          |53. Maximum Subarray 前缀和 ||
-|          |  ||
+|          |Lint-558. Sliding Window Matrix Maximum  ||
 |          |  ||
 | 堆          |  ||
 |          |215. Kth Largest Element in an Array  |y |
