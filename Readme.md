@@ -19,7 +19,6 @@ LeetCode collection.
 | 递归          |  ||
 |          |784. Letter Case Permutation  ||
 |          |31. Next Permutation  ||
-|          |22. Generate Parentheses  ||
 | 二分搜索          |  ||
 |          |50. Pow(x, n)||
 |          |34. Find First and Last Position of Element in Sorted Array  |1-yes |
@@ -311,6 +310,7 @@ LeetCode collection.
 |          | ---- ||
 |       | 深度优先搜索 ||
 |          | 回溯法 | 在不能继续搜索的点，直接return |
+|          |22. Generate Parentheses  ||
 |          |17. Letter Combinations of a Phone Number 回溯法  ||
 |          |46. Permutations  ||
 |          |47. Permutations II  ||
