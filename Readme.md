@@ -163,7 +163,7 @@ LeetCode collection.
 |          |155. Min Stack   ||
 |          |Lint-22. Flatten List  ||
 |          |341. Flatten Nested List Iterator  ||
-|          |  ||
+|          |251. Flatten 2D Vector  ||
 |          |  ||
 |        | 单调栈 ||
 |          |739. Daily Temperatures  ||
