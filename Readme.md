@@ -15,10 +15,18 @@ LeetCode collection.
 |          |849. Maximize Distance to Closest Person  ||
 |          |189. Rotate Array  ||
 |          |Lint-39. Recover Rotated Sorted Array 三步翻转法 ！！！！ ||
+|          |54. Spiral Matrix  ||
+|          |  ||
+|          |  ||
 |          |  ||
 | 递归          |  ||
 |          |784. Letter Case Permutation  ||
 |          |31. Next Permutation  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
+|          |  ||
 | 二分搜索          |  ||
 |          |50. Pow(x, n)||
 |          |34. Find First and Last Position of Element in Sorted Array  |1-yes |
