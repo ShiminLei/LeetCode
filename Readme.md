@@ -251,7 +251,7 @@ LeetCode collection.
 |          |109. Convert Sorted List to Binary Search Tree  ||
 |          |298. Binary Tree Longest Consecutive Sequence  ||
 |          |549. Binary Tree Longest Consecutive Sequence II  ||
-|          |  ||
+|          |958. Check Completeness of a Binary Tree  ||
 |          |  ||
 |          |  ||
 |          |----  ||
